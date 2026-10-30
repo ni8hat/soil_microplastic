@@ -1,0 +1,265 @@
+{
+"@context": "https://w3id.org/ro/crate/1.2/context",
+"@graph": [
+{
+"@type": "CreativeWork",
+"@id": "ro-crate-metadata.json",
+"conformsTo": { "@id": "https://w3id.org/ro/crate/1.2" },
+"about": { "@id": "https://catalogue.ceh.ac.uk/id/c0407da7-acd0-4f5f-a1f3-5516206ba787" }
+},
+{
+"@type":"Dataset",
+"name":"Agricultural soil survey and inter-laboratory comparison of microplastics across China, Egypt, India, Sri Lanka, and Vietnam, 2022-2025",
+"@id": "https://catalogue.ceh.ac.uk/id/c0407da7-acd0-4f5f-a1f3-5516206ba787",
+"identifier": {"@id": "https://doi.org/10.5285/c0407da7-acd0-4f5f-a1f3-5516206ba787"},
+"citation":"Graf, M., Chadwick, D.R., Jones, D.L. (2026). Agricultural soil survey and inter-laboratory comparison of microplastics across China, Egypt, India, Sri Lanka, and Vietnam, 2022-2025. NERC EDS Environmental Information Data Centre. (Dataset). https://doi.org/10.5285/c0407da7-acd0-4f5f-a1f3-5516206ba787",
+"hasPart": [
+{"@id":
+"data/laboratorymetadata.csv"
+} ,
+{"@id":
+"data/standardmpquantification.csv"
+} ,
+{"@id":
+"data/standardpolymerid.csv"
+} ,
+{"@id":
+"data/standardpolymerlibrarycomparisonuk.csv"
+} ,
+{"@id":
+"data/surveympidentification.csv"
+} ,
+{"@id":
+"data/surveympquantification.csv"
+} ,
+{"@id":
+"data/surveyquestionnaire.csv"
+} ,
+{"@id":
+"data/surveysoilproperties.csv"
+} ,
+{"@id":
+"supporting-documents/data_resource_supporting_doc_template_soilsurvey.docx"
+} ],
+"description":"This dataset entails two components: 1) an agricultural soil survey on fields covered with plastic mulch film to determine drivers of microplastic enrichment and identify microplastic types in China, Egypt, India, Sri Lanka, and Vietnam; 2) an inter-laboratory comparison of microplastic quantification and identification across Australia, China, Egypt, India, Sri Lanka, UK, and Vietnam. The data was generated from 2022 to 2025. We recorded the following data: Part 1 - Soil Survey - Site specific metadata on plastic use and farm practices - Environmental data (precipitation, temperature) - Soil data (pH, EC, nutrients, classification, texture) - Microplastic quantification - Microplastic identification - Metadata for each participating laboratory Part 2 - Inter-laboratory standard comparison - Metadata for each participating laboratory - Polymer identification of known polymer standards - Microplastic recovery rates of known reference standard mediums",
+"isAccessibleForFree": true,
+"datePublished":"2026-05-14",
+"keywords": [
+"agricultural plastic"
+,
+"microplastic"
+,
+{"@type": "DefinedTerm","@id": "http://onto.nerc.ac.uk/CEHMD/topic/1","name": "Agriculture" }
+,
+{"@type": "DefinedTerm","@id": "http://onto.nerc.ac.uk/CEHMD/topic/17","name": "Soil" }
+,
+{"@type": "DefinedTerm","@id": "http://onto.nerc.ac.uk/CEHMD/topic/7","name": "Environmental survey" }
+,
+{"@type": "DefinedTerm","@id": "http://www.eionet.europa.eu/gemet/concept/5418","name": "mulch","inDefinedTermSet": "https://www.eionet.europa.eu/gemet/" }
+,
+{"@type": "DefinedTerm","@id": "http://www.eionet.europa.eu/gemet/concept/6329","name": "plastic","inDefinedTermSet": "https://www.eionet.europa.eu/gemet/" }
+,
+{"@type": "DefinedTerm","@id": "http://www.eionet.europa.eu/gemet/concept/6499","name": "polymer","inDefinedTermSet": "https://www.eionet.europa.eu/gemet/" }
+,
+{"@type": "DefinedTerm","@id": "http://www.eionet.europa.eu/gemet/concept/8240","name": "survey","inDefinedTermSet": "https://www.eionet.europa.eu/gemet/" }
+],
+"creator": [
+{"@id": "https://orcid.org/0000-0001-7994-0529"},
+{"@id": "#creator1"},
+{"@id": "#creator2"}
+],
+"temporalCoverage":[
+"2022-01-01/2025-12-31" ],
+"spatialCoverage": [ {"@id": "#bbox0"}],
+"funding": [{"@id": "#fund0"}
+],
+"license": {"@id": "https://spdx.org/licenses/OGL-UK-3.0"},
+"distribution": [ {"@id": "#distribution0"}],
+"publisher":{"@id":"https://ror.org/04xw4m193"},
+"provider" : {"@id":"https://ror.org/04xw4m193"},
+"includedInDataCatalog":{ "@id": "#eidc-dataCatalogue"}
+},
+{
+"@id": "#eidc-dataCatalogue",
+"@type":"DataCatalog",
+"name":"Environmental Information Data Centre",
+"alternateName":"EIDC",
+"url":"https://catalogue.ceh.ac.uk/eidc/documents"
+},
+{
+"@id": "https://ror.org/04xw4m193",
+"@type":"Organization",
+"name":"NERC EDS Environmental Information Data Centre",
+"email": "info@eidc.ac.uk"
+}
+,{
+"@id": "https://spdx.org/licenses/OGL-UK-3.0",
+"@type": "CreativeWork",
+"name": "Open Government Licence v3",
+"alternateName":"OGL-UK-3.0",
+"sameAs": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+}
+,{
+"@id": "https://doi.org/10.5285/c0407da7-acd0-4f5f-a1f3-5516206ba787",
+"@type":"PropertyValue",
+"propertyID": "https://registry.identifiers.org/registry/doi",
+"value": "10.5285/c0407da7-acd0-4f5f-a1f3-5516206ba787",
+"url": "https://doi.org/10.5285/c0407da7-acd0-4f5f-a1f3-5516206ba787"
+}
+, {
+"@id": "#bbox0",
+"@type":"Place",
+"geo": {
+"@id": "#geoshape0"
+}
+},
+{
+"@id": "#geoshape0",
+"@type": "GeoShape",
+"box":"24.7 5.92, 134.77 23.39"
+}
+,
+{
+"@id": "https://orcid.org/0000-0001-7994-0529",
+"@type": "Person",
+"name": "Graf, M."
+, "familyName": "Graf"
+, "givenName": "Martine"
+,"affiliation":{
+"@id": "https://ror.org/006jb1a24"
+}
+},
+{
+"@id": "#creator1",
+"@type": "Person",
+"name": "Chadwick, D.R."
+, "familyName": "Chadwick"
+, "givenName": "David R"
+,"affiliation":{
+"@id": "https://ror.org/006jb1a24"
+}
+},
+{
+"@id": "#creator2",
+"@type": "Person",
+"name": "Jones, D.L."
+, "familyName": "Jones"
+, "givenName": "Davey L"
+,"affiliation":{
+"@id": "https://ror.org/006jb1a24"
+}
+}
+, {
+"@id": "#fund0",
+"@type": "MonetaryGrant"
+,"identifier": "NE/V005871/1"
+,"funder": {"@id": "https://ror.org/02b5d8509"}
+}
+,{
+"@id": "https://ror.org/02b5d8509",
+"@type": "Organization"
+,"name": "Natural Environment Research Council"
+}
+, {
+"@id":
+"data/laboratorymetadata.csv"
+,"name": "laboratorymetadata.csv","@type": "File"
+,"encodingFormat": "text/csv"
+,"sha256": "3bff74c1632bdf4b30a925222d517234d2b3e893ec7da00ab70e7ac46c8a7831"
+,"lastModified": "2026-05-14T09:56:50"
+,"bytes": 4475
+,"contentUrl": "data/laboratorymetadata.csv"
+}
+, {
+"@id":
+"data/standardmpquantification.csv"
+,"name": "standardmpquantification.csv","@type": "File"
+,"encodingFormat": "text/csv"
+,"sha256": "ddd9dee4dad7d771e1f0931eccc3254efc463ef927be5f859a66586e976c0df0"
+,"lastModified": "2026-05-14T09:56:50"
+,"bytes": 5025
+,"contentUrl": "data/standardmpquantification.csv"
+}
+, {
+"@id":
+"data/standardpolymerid.csv"
+,"name": "standardpolymerid.csv","@type": "File"
+,"encodingFormat": "text/csv"
+,"sha256": "205774a6c65fbc49843a2d2573d29f2195a273243602dda1725152dd4762f2ed"
+,"lastModified": "2026-05-14T09:56:50"
+,"bytes": 31984
+,"contentUrl": "data/standardpolymerid.csv"
+}
+, {
+"@id":
+"data/standardpolymerlibrarycomparisonuk.csv"
+,"name": "standardpolymerlibrarycomparisonuk.csv","@type": "File"
+,"encodingFormat": "text/csv"
+,"sha256": "8024345542c20f6e98b53d38892f3153eb93404280441953f20ab3b8bc397a98"
+,"lastModified": "2026-05-14T09:56:50"
+,"bytes": 2899
+,"contentUrl": "data/standardpolymerlibrarycomparisonuk.csv"
+}
+, {
+"@id":
+"data/surveympidentification.csv"
+,"name": "surveympidentification.csv","@type": "File"
+,"encodingFormat": "text/csv"
+,"sha256": "2d3fa5770fa907488ce76d51254bb946ee3c9f4612c9b13be4632db7c8e88497"
+,"lastModified": "2026-05-14T09:56:50"
+,"bytes": 191508
+,"contentUrl": "data/surveympidentification.csv"
+}
+, {
+"@id":
+"data/surveympquantification.csv"
+,"name": "surveympquantification.csv","@type": "File"
+,"encodingFormat": "text/csv"
+,"sha256": "84691925777ff7d9e3f985f2e49e6b382d1166c678af8a98efb441ea8c3628a5"
+,"lastModified": "2026-05-14T09:56:50"
+,"bytes": 20312
+,"contentUrl": "data/surveympquantification.csv"
+}
+, {
+"@id":
+"data/surveyquestionnaire.csv"
+,"name": "surveyquestionnaire.csv","@type": "File"
+,"encodingFormat": "text/csv"
+,"sha256": "dfe5c70078d3f4ea1b4e1f884f6636236ffd99f3479e66d114f5c30752c32b50"
+,"lastModified": "2026-05-14T09:56:50"
+,"bytes": 35646
+,"contentUrl": "data/surveyquestionnaire.csv"
+}
+, {
+"@id":
+"data/surveysoilproperties.csv"
+,"name": "surveysoilproperties.csv","@type": "File"
+,"encodingFormat": "text/csv"
+,"sha256": "50d1e0a377f65666c2ebca4b64e94580b408e1167469fdfdd61bd23379fb1551"
+,"lastModified": "2026-05-14T09:56:50"
+,"bytes": 29305
+,"contentUrl": "data/surveysoilproperties.csv"
+}
+, {
+"@id":
+"supporting-documents/data_resource_supporting_doc_template_soilsurvey.docx"
+,"name": "data_resource_supporting_doc_template_soilsurvey.docx","@type": "File"
+,"sha256": "e04177072c03a5535b2a792ee9f87d1298e6921f37f460ca96a1896a9b6453ab"
+,"lastModified": "2026-05-14T09:56:44"
+,"bytes": 292168
+,"contentUrl": "supporting-documents/data_resource_supporting_doc_template_soilsurvey.docx"
+}
+, {
+"@id": "#distribution0",
+"@type":"DataDownload",
+"contentUrl":"https://data-package.ceh.ac.uk/data/c0407da7-acd0-4f5f-a1f3-5516206ba787"
+,"encodingFormat":"application/zip"
+}
+, {
+"@id": "https://ror.org/006jb1a24",
+"@type": "Organization",
+"name": "Bangor University",
+"identifier": "https://ror.org/006jb1a24"
+}
+]
+}

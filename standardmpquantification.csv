@@ -1,0 +1,189 @@
+Country,Sample,Rep,Particle_number
+UK,PE only 0.04%,1,6508.411215
+UK,PE only 0.04%,2,4377.570093
+UK,PE only 0.04%,3,4741.433022
+UK,Blank,1,11.21495327
+UK,Blank,2,14.95327103
+UK,Blank,3,12.46105919
+UK,BT 0%,1,9.968847352
+UK,BT 0%,2,8.722741433
+UK,BT 0%,3,8.722741433
+UK,BT 0.04%,1,869.7819315
+UK,BT 0.04%,2,74.76635514
+UK,BT 0.04%,3,842.3676012
+UK,SD 0%,1,8.722741433
+UK,SD 0%,2,11.21495327
+UK,SD 0%,3,3.738317757
+UK,SD 0.04%,1,1995.015576
+UK,SD 0.04%,2,892.211838
+UK,SD 0.04%,3,235.5140187
+UK,Soil 0%,1,8.722741433
+UK,Soil 0%,2,9.968847352
+UK,Soil 0%,3,13.70716511
+UK,Soil 0.04%,1,93.45794393
+UK,Soil 0.04%,2,350.1557632
+UK,Soil 0.04%,3,171.9626168
+Vietnam,Blank,1,1.4
+Vietnam,Blank,2,1.2
+Vietnam,Blank,3,0.4
+Vietnam,BT 0%,1,3
+Vietnam,BT 0%,2,1.8
+Vietnam,BT 0%,3,2
+Vietnam,BT 0.04%,1,2246
+Vietnam,BT 0.04%,2,3618
+Vietnam,BT 0.04%,3,4360
+Vietnam,SD 0%,1,3
+Vietnam,SD 0%,2,2.8
+Vietnam,SD 0%,3,2.8
+Vietnam,SD 0.04%,1,3320
+Vietnam,SD 0.04%,2,2064
+Vietnam,SD 0.04%,3,2636
+Vietnam,Soil 0%,1,2.8
+Vietnam,Soil 0%,2,4.8
+Vietnam,Soil 0%,3,2.6
+Vietnam,Soil 0.04%,1,2698
+Vietnam,Soil 0.04%,2,3952
+Vietnam,Soil 0.04%,3,2272
+Egypt,Blank,1,114.3862736
+Egypt,Blank,2,111.7465904
+Egypt,Blank,3,126.7047954
+Egypt,BT 0%,1,132.8640563
+Egypt,BT 0%,2,343.1588209
+Egypt,BT 0%,3,263.0884294
+Egypt,BT 0%,4,173.3391993
+Egypt,BT 0.04%,1,145.1825781
+Egypt,BT 0.04%,2,558.732952
+Egypt,BT 0.04%,3,244.6106467
+Egypt,BT 0.04%,4,118.7857457
+Egypt,BT 0.04%,5,197.9762429
+Egypt,SD 0%,1,268.3677959
+Egypt,SD 0%,2,338.7593489
+Egypt,SD 0%,3,267.4879015
+Egypt,SD 0.04%,1,556.9731632
+Egypt,SD 0.04%,2,520.8974923
+Egypt,SD 0.04%,3,554.33348
+Egypt,Soil 0%,1,249.8900132
+Egypt,Soil 0%,2,483.941927
+Egypt,Soil 0%,3,398.5921689
+Egypt,Soil 0%,4,156.6212055
+Egypt,Soil 0.04%,1,806.8631764
+Egypt,Soil 0.04%,2,260.4487462
+Egypt,Soil 0.04%,3,307.9630444
+China_1,Blank,1,13.33333333
+China_1,Blank,2,20
+China_1,Blank,3,13.33333333
+China_1,Blank,4,13.33333333
+China_1,Blank,5,13.33333333
+China_1,Blank,6,20
+China_1,Blank,7,6.666666667
+China_1,Blank,8,0
+China_1,Blank,9,0
+China_1,BT 0%,1,38
+China_1,BT 0%,2,306
+China_1,BT 0%,3,714
+China_1,BT 0.04%,1,9980
+China_1,BT 0.04%,2,6400
+China_1,BT 0.04%,3,5254
+China_1,SD 0%,1,96
+China_1,SD 0%,2,278
+China_1,SD 0%,3,76
+China_1,SD 0.04%,1,3974
+China_1,SD 0.04%,2,7900
+China_1,SD 0.04%,3,5906
+China_1,Soil 0%,1,140
+China_1,Soil 0%,2,264
+China_1,Soil 0%,3,376
+China_1,Soil 0.04%,1,2576
+China_1,Soil 0.04%,2,1260
+China_1,Soil 0.04%,3,1032
+China_2,Blank,1,0
+China_2,Blank,2,40
+China_2,Blank,3,50
+China_2,BT 0%,1,110
+China_2,BT 0%,2,90
+China_2,BT 0%,3,80
+China_2,BT 0.04%,1,1360
+China_2,BT 0.04%,2,1750
+China_2,BT 0.04%,3,1850
+China_2,SD 0%,1,170
+China_2,SD 0%,2,250
+China_2,SD 0%,3,500
+China_2,SD 0.04%,1,3300
+China_2,SD 0.04%,2,4580
+China_2,SD 0.04%,3,3020
+China_2,Soil 0%,1,160
+China_2,Soil 0%,2,110
+China_2,Soil 0%,3,280
+China_2,Soil 0.04%,1,3350
+China_2,Soil 0.04%,2,6580
+China_2,Soil 0.04%,3,3240
+Australia,Blank,1,4.2
+Australia,Blank,2,1.4
+Australia,Blank,3,0.6
+Australia,Blank,4,6
+Australia,BT 0%,1,85
+Australia,BT 0%,2,259.2
+Australia,BT 0%,3,192.8
+Australia,BT 0%,4,302.4
+Australia,BT 0.04%,1,1118
+Australia,BT 0.04%,2,137.2
+Australia,BT 0.04%,3,3039.6
+Australia,BT 0.04%,4,835.8
+Australia,SD 0%,1,462
+Australia,SD 0%,2,60.8
+Australia,SD 0%,3,210.2
+Australia,SD 0%,4,423.2
+Australia,SD 0.04%,1,235
+Australia,SD 0.04%,2,220
+Australia,SD 0.04%,3,943.6
+Australia,SD 0.04%,4,225.4
+Australia,Soil 0%,1,322.2
+Australia,Soil 0%,2,162.6
+Australia,Soil 0%,3,303.2
+Australia,Soil 0%,4,155.8
+Australia,Soil 0.04%,1,346
+Australia,Soil 0.04%,2,685.6
+Australia,Soil 0.04%,3,1146.8
+Australia,Soil 0.04%,4,570
+Sri Lanka,Blank,1,471.7241379
+Sri Lanka,Blank,2,38.62068966
+Sri Lanka,Blank,3,634.8387097
+Sri Lanka,BT 0%,1,1354.482759
+Sri Lanka,BT 0%,2,2380.689655
+Sri Lanka,BT 0%,3,3246.896552
+Sri Lanka,BT 0.04%,1,6673.103448
+Sri Lanka,BT 0.04%,2,1911.724138
+Sri Lanka,BT 0.04%,3,1966.896552
+Sri Lanka,SD 0%,1,584.8275862
+Sri Lanka,SD 0%,2,1495.172414
+Sri Lanka,SD 0%,3,2209.655172
+Sri Lanka,SD 0.04%,1,1086.896552
+Sri Lanka,SD 0.04%,2,670.3448276
+Sri Lanka,SD 0.04%,3,1533.793103
+Sri Lanka,Soil 0%,1,416.5517241
+Sri Lanka,Soil 0%,2,38.62068966
+Sri Lanka,Soil 0%,3,113.1034483
+Sri Lanka,Soil 0.04%,1,171.0344828
+Sri Lanka,Soil 0.04%,2,433.1034483
+Sri Lanka,Soil 0.04%,3,1172.413793
+India,Blank,1,27.75024777
+India,Blank,2,29.73240833
+India,Blank,3,19.82160555
+India,BT 0%,1,41.62537166
+India,BT 0%,2,25.76808722
+India,BT 0%,3,87.21506442
+India,BT 0.04%,1,1062.438057
+India,BT 0.04%,2,1373.637265
+India,BT 0.04%,3,1494.549058
+India,SD 0%,1,37.66105055
+India,SD 0%,2,27.75024777
+India,SD 0%,3,25.76808722
+India,SD 0.04%,1,2315.163528
+India,SD 0.04%,2,3548.067393
+India,SD 0.04%,3,1098.116947
+India,Soil 0%,1,7.92864222
+India,Soil 0%,2,11.89296333
+India,Soil 0%,3,17.839445
+India,Soil 0.04%,1,138.7512389
+India,Soil 0.04%,2,378.592666
+India,Soil 0.04%,3,259.6630327

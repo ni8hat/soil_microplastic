@@ -1,0 +1,193 @@
+Site_Code,Country,Crop,Tillage,Surface_cultivation,Plough,Harrow,Rotavator,Max_cultivation_depth,Soil_classification,Sand,Loam,Silt,Clay,Annual_average_rainfall,Annual_average_air_temperature,PMF_use_duration,PMF_type,Ploughing,Burning,Waste_collection,Selling,Littering,Recycling,Storage,Reuse,Coated_fertiliser_use,Coated_fertiliser_use_duration,Compost_use,Compost_quantity_per_year,Cow_manure,Chicken_manure,Pig_manure,Sheep_manure,Goat_manure,Microbial_Organic_fertiliser,Commercial_compost,Compost_use_duration,Sewage_sludge_use,Sewage_sludge_quantity_per_year,Sewage_sludge_use_duration,Irrigation_pipes,Nets,Greenhouses,Polytunnels,Packaging,Drums,Barriers,Crates
+E1,Egypt,Vegetable,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E2,Egypt,Vegetable,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E3,Egypt,Vegetable,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,5,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E4,Egypt,Root vegetable,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,2,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E5,Egypt,n/a,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,5,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E6,Egypt,n/a,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,5,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E7,Egypt,Fruit,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,23800,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E8,Egypt,n/a,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E9,Egypt,Cereal,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,5,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,11900,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E10,Egypt,Vegetable,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E11,Egypt,Cereal,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,2,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,11900,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E12,Egypt,Vegetable,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,9520,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E13,Egypt,Cereal,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,2,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,16660,No,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E14,Egypt,Root vegetable,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,10,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,11900,No,Yes,No,No,No,No,No,10,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E15,Egypt,Fruit,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,5,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,20,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E16,Egypt,Fruit,Yes,Yes,No,No,No,30,Arenosol,Yes,No,No,No,208.05,24.06,5,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,11900,No,Yes,No,No,No,No,No,10,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E17,Egypt,Legume,Yes,No,No,No,No,30,Arenosol,Yes,No,No,No,9.71,24.85,10,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,10,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E18,Egypt,Vegetable,Yes,No,No,No,No,30,Arenosol,Yes,No,No,No,9.71,24.85,4,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,4,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E19,Egypt,Vegetable,Yes,No,No,No,No,30,Arenosol,No,No,No,Yes,9.71,24.85,18,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,19040,No,Yes,No,No,No,No,No,18,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E20,Egypt,Vegetable,Yes,No,No,No,No,30,Arenosol,Yes,No,No,No,9.71,24.85,6,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,20230,No,No,No,No,No,No,No,6,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E21,Egypt,Vegetable,Yes,No,No,No,No,30,Arenosol,Yes,No,No,No,9.71,24.85,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,21420,No,Yes,No,No,No,No,No,3,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E22,Egypt,Vegetable,Yes,No,No,No,No,30,Arenosol,Yes,No,No,No,9.71,24.85,14,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,22610,No,Yes,No,No,No,No,No,14,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E23,Egypt,Vegetable,Yes,No,No,No,No,30,Arenosol,Yes,No,No,No,9.71,24.85,16,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,23800,No,Yes,No,No,No,No,No,16,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E24,Egypt,Vegetable,Yes,No,No,No,No,30,Arenosol,Yes,No,No,No,9.71,24.85,6,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,24990,No,Yes,No,No,No,No,No,6,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E25,Egypt,Vegetable,Yes,No,No,No,No,30,Arenosol,Yes,No,No,No,9.71,24.85,15,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,26180,No,Yes,No,No,No,No,No,15,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E26,Egypt,Vegetable,Yes,No,No,No,No,30,Arenosol,Yes,No,No,No,9.71,24.85,13,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,27370,No,Yes,No,No,No,No,No,13,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E27,Egypt,Vegetable,Yes,No,No,No,No,30,Arenosol,Yes,No,No,No,9.71,24.85,15,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,15,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E28,Egypt,Vegetable,Yes,No,No,No,No,30,Arenosol,Yes,No,No,No,9.71,24.85,15,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,15,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E29,Egypt,Vegetable,Yes,No,No,No,No,30,Calcisol,Yes,No,No,No,12.07,33.27,2,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,2,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E30,Egypt,Vegetable,Yes,No,No,No,No,30,Calcisol,Yes,No,No,No,12.07,33.27,2,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,2,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E31,Egypt,Vegetable,Yes,No,No,No,No,30,Calcisol,Yes,No,No,No,12.07,33.27,2,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,2,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E32,Egypt,Vegetable,Yes,No,No,No,No,30,Calcisol,Yes,No,No,No,12.07,33.27,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,19040,No,Yes,No,No,No,No,No,3,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E33,Egypt,Vegetable,Yes,No,No,No,No,30,Calcisol,Yes,No,No,No,12.07,33.27,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,3,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E34,Egypt,Malvaceae,Yes,No,No,No,No,30,Calcisol,No,No,No,Yes,12.07,33.27,5,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,5,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E35,Egypt,Vegetable,Yes,No,No,No,No,30,Calcisol,Yes,No,No,No,12.07,33.27,5,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,5,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E36,Egypt,Root vegetable,Yes,No,No,No,No,30,Calcisol,Yes,No,No,No,12.07,33.27,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,3,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E37,Egypt,Vegetable,Yes,No,No,No,No,30,Calcisol,Yes,No,No,No,12.07,33.27,2,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,2,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E38,Egypt,Fruit,Yes,No,No,No,No,30,Calcisol,Yes,No,No,No,12.07,33.27,5,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,5,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E39,Egypt,Vegetable,Yes,No,No,No,No,30,Calcisol,Yes,No,No,No,12.07,33.27,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,3,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+E40,Egypt,Vegetable,Yes,No,No,No,No,30,Calcisol,Yes,No,No,No,12.07,33.27,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,17850,No,Yes,No,No,No,No,No,3,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+V1,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Acrisol,No,Yes,No,Yes,2450,21.5,10,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,5550,No,Yes,No,No,No,No,No,10,No,n/a,n/a,Yes,Yes,No,No,No,No,No,No
+V2,Vietnam,Flower,No,No,Yes,Yes,No,30,Fluvisol,Yes,Yes,No,No,2450,21.5,5.5,LDPE,No,No,Yes,No,No,No,No,No,No,n/a,Yes,36000,Yes,No,No,No,No,No,No,25,No,n/a,n/a,Yes,Yes,No,No,No,No,No,No
+V3,Vietnam,Vegetable,No,No,Yes,Yes,No,40,Ferralsol,No,Yes,No,No,2450,21.5,6.5,LDPE,No,No,Yes,No,No,No,No,No,No,n/a,Yes,37500,No,Yes,No,No,No,No,No,6.5,No,n/a,n/a,Yes,No,Yes,No,No,No,No,No
+V4,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Acrisol,Yes,Yes,No,Yes,2450,21.5,29,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,12000,No,No,Yes,No,No,Yes,No,43,No,n/a,n/a,Yes,Yes,Yes,No,No,No,No,No
+V5,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Acrisol,Yes,Yes,No,Yes,2450,21.5,10,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,20000,Yes,No,No,No,No,Yes,No,17,No,n/a,n/a,Yes,No,Yes,No,No,No,No,No
+V6,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Acrisol,No,Yes,No,Yes,2450,21.5,20,LDPE,No,No,Yes,No,No,No,No,No,No,n/a,Yes,21250,Yes,No,No,No,No,Yes,No,20,No,n/a,n/a,Yes,Yes,No,No,No,No,No,No
+V7,Vietnam,Vegetable,No,No,Yes,Yes,No,20,Acrisol,No,Yes,No,Yes,2450,21.5,14,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,22400,No,Yes,No,No,No,Yes,No,20,No,n/a,n/a,Yes,Yes,Yes,No,No,No,No,No
+V8,Vietnam,Vegetable,No,No,Yes,Yes,No,20,Acrisol,No,Yes,No,Yes,2450,21.5,14,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,6400,Yes,Yes,Yes,No,No,No,No,20,No,n/a,n/a,Yes,Yes,Yes,No,No,No,No,No
+V9,Vietnam,Fruit,No,No,Yes,Yes,No,30,Acrisol,No,Yes,Yes,No,2450,21.5,13,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,29800,No,No,No,No,Yes,Yes,No,5,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+V10,Vietnam,Fruit,No,No,Yes,Yes,No,30,Acrisol,No,Yes,No,Yes,2450,21.5,8,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,12000,Yes,No,No,No,No,Yes,No,2,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+V11,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Fluvisol,Yes,Yes,No,No,1375,26.5,13,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,35700,Yes,No,No,No,No,Yes,No,63,No,n/a,n/a,Yes,No,No,No,No,Yes,No,No
+V12,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Fluvisol,Yes,No,No,No,1375,26.5,10,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,5000,Yes,No,No,No,No,No,No,20,No,n/a,n/a,No,No,No,No,No,No,No,No
+V13,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Fluvisol,Yes,No,No,No,1375,26.5,15,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,25000,Yes,No,No,No,Yes,No,No,55,No,n/a,n/a,Yes,No,No,No,No,Yes,No,No
+V14,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Fluvisol,Yes,Yes,No,No,1375,26.5,10,LDPE,No,No,No,No,Yes,No,No,No,No,n/a,Yes,13300,Yes,No,No,No,Yes,No,No,10,No,n/a,n/a,Yes,No,No,No,No,Yes,No,No
+V15,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Fluvisol,Yes,Yes,No,No,1375,26.5,10,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,5400,Yes,No,No,No,No,Yes,No,10,No,n/a,n/a,Yes,No,No,No,No,Yes,No,No
+V16,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Fluvisol,Yes,No,No,No,1375,26.5,13,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,4150,Yes,No,No,No,No,Yes,No,18,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+V17,Vietnam,Vegetable,No,No,Yes,Yes,No,20,Fluvisol,Yes,No,No,No,1375,26.5,16,LDPE,No,No,No,No,Yes,No,No,No,No,n/a,Yes,4000,Yes,No,No,No,No,No,No,7,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+V18,Vietnam,Vegetable,No,No,Yes,Yes,No,20,Fluvisol,Yes,No,No,No,1375,26.5,7,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,4000,Yes,No,No,No,No,No,No,4,No,n/a,n/a,No,No,No,No,No,Yes,No,No
+V19,Vietnam,Fruit,No,No,Yes,Yes,No,30,Fluvisol,Yes,No,No,No,1375,26.5,25,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,2400,No,No,No,No,No,Yes,No,13,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+V20,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Fluvisol,Yes,No,No,No,1375,26.5,7,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,3700,Yes,No,No,No,No,Yes,No,5,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+V21,Vietnam,Fruit,No,No,Yes,Yes,No,30,Acrisol,Yes,Yes,No,No,1600,23.5,18,LDPE,No,Yes,No,Yes,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+V22,Vietnam,Fruit,No,No,Yes,Yes,No,30,Plinthosol,Yes,Yes,No,No,1600,23.5,5,LDPE,No,Yes,No,Yes,No,No,No,No,No,n/a,Yes,8300,Yes,No,Yes,No,No,No,No,53,No,n/a,n/a,No,No,No,No,No,No,No,No
+V23,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Acrisol,Yes,Yes,No,No,1600,23.5,10,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,13800,Yes,No,No,No,No,No,No,36,No,n/a,n/a,No,No,No,No,No,No,No,No
+V24,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Acrisol,No,Yes,No,No,1600,23.5,7,LDPE,No,Yes,No,Yes,No,No,No,No,No,n/a,Yes,13800,Yes,No,No,No,No,No,No,7,No,n/a,n/a,No,No,No,No,No,No,No,No
+V25,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Acrisol,Yes,Yes,No,No,1600,23.5,15,LDPE,No,Yes,No,Yes,No,No,No,No,No,n/a,Yes,13800,Yes,Yes,No,No,No,No,No,32,No,n/a,n/a,No,No,No,No,No,No,No,No
+V26,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Acrisol,Yes,Yes,No,No,1600,23.5,5,LDPE,No,Yes,No,Yes,No,No,No,No,No,n/a,Yes,15200,Yes,Yes,No,No,No,No,No,31,No,n/a,n/a,No,No,No,No,No,No,No,No
+V27,Vietnam,Legume,No,No,Yes,Yes,No,30,Acrisol,No,Yes,No,No,1600,23.5,3,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,9660,No,No,Yes,No,No,No,No,5,No,n/a,n/a,No,No,No,No,No,No,No,No
+V28,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Acrisol,Yes,Yes,No,No,1600,23.5,6,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,8300,Yes,No,No,No,No,No,No,35,No,n/a,n/a,No,No,No,No,No,No,No,No
+V29,Vietnam,Vegetable,No,No,Yes,Yes,No,30,Acrisol,Yes,Yes,No,No,1600,23.5,2,LDPE,No,Yes,No,Yes,No,No,No,No,No,n/a,Yes,15250,Yes,No,No,No,No,No,No,50,No,n/a,n/a,No,No,No,No,No,No,No,No
+V30,Vietnam,Fruit,No,No,Yes,Yes,No,30,Plinthosol,Yes,Yes,No,No,1600,23.5,6,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+V31,Vietnam,Fruit,No,No,Yes,Yes,No,15,Fluvisol,Yes,Yes,No,No,1550,24.5,8,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,17300,No,Yes,No,No,No,Yes,No,10,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+V32,Vietnam,Fruit,No,No,Yes,Yes,No,20,Fluvisol,No,Yes,No,No,1550,24.5,8,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,17300,No,Yes,No,No,No,Yes,No,5,No,n/a,n/a,No,No,No,No,No,No,No,No
+V33,Vietnam,Fruit,No,No,Yes,Yes,No,40,Fluvisol,Yes,Yes,No,Yes,1550,24.5,4,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,6300,No,Yes,No,No,No,Yes,No,55,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+V34,Vietnam,Vegetable,No,No,Yes,Yes,No,20,Fluvisol,No,Yes,No,No,1550,24.5,17,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,12500,Yes,Yes,No,No,No,No,No,18,No,n/a,n/a,No,No,No,No,No,No,No,No
+V35,Vietnam,Fruit,No,No,Yes,Yes,No,10,Fluvisol,No,Yes,No,No,1550,24.5,8,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,16650,No,Yes,No,No,No,No,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+V36,Vietnam,Fruit,No,No,Yes,Yes,No,20,Fluvisol,No,Yes,No,No,1550,24.5,7,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,27750,No,Yes,No,No,No,No,No,11,No,n/a,n/a,No,No,No,No,No,No,No,No
+V37,Vietnam,Fruit,No,No,Yes,Yes,No,25,Fluvisol,No,Yes,No,No,1550,24.5,10,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,8300,No,Yes,No,No,No,No,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+V38,Vietnam,Fruit,No,No,Yes,Yes,No,20,Fluvisol,No,Yes,No,Yes,1550,24.5,11,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,16650,No,Yes,No,No,No,No,No,15,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+V39,Vietnam,Fruit,No,No,Yes,Yes,No,25,Fluvisol,No,Yes,Yes,Yes,1550,24.5,10,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,16650,No,Yes,No,No,No,No,No,19,No,n/a,n/a,No,No,No,No,No,No,No,No
+V40,Vietnam,Fruit,No,No,Yes,Yes,No,25,Fluvisol,No,No,Yes,Yes,1550,24.5,4,LDPE,No,No,No,Yes,No,No,No,No,No,n/a,Yes,16650,No,Yes,No,No,No,No,No,60,No,n/a,n/a,No,No,No,No,No,No,No,No
+SL1,Sri Lanka,Vegetable,No,No,Yes,No,No,30,Alfisol,Yes,No,No,Yes,1250,31.25,2,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,n/a,No,No,No,No,No,No,Yes,n/a,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+SL2,Sri Lanka,Fruit,No,No,Yes,No,No,30,Alfisol,Yes,No,No,Yes,1250,31.25,2,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,n/a,No,No,No,No,No,No,Yes,n/a,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+SL3,Sri Lanka,Vegetable,No,No,Yes,No,No,30,Alfisol,Yes,No,No,Yes,1250,31.25,2,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,n/a,No,Yes,No,No,No,No,No,n/a,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+SL4,Sri Lanka,Vegetable,No,No,Yes,No,No,25,Alfisol,Yes,No,No,Yes,1250,31.25,2,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+SL5,Sri Lanka,Vegetable,No,Yes,No,No,No,0,Entisol,No,Yes,Yes,No,3450,23.75,6,LDPE,No,Yes,No,No,No,No,No,No,Yes,3,Yes,2500,Yes,Yes,No,No,No,No,No,15,No,n/a,n/a,Yes,No,No,Yes,No,No,No,No
+SL6,Sri Lanka,Vegetable,No,Yes,No,No,No,15,Entisol,No,Yes,Yes,No,3450,23.75,1,LDPE,No,No,No,No,No,No,Yes,No,Yes,3,Yes,1000,Yes,Yes,No,No,No,No,No,15,No,n/a,n/a,Yes,No,No,No,No,No,No,No
+SL7,Sri Lanka,Vegetable,No,Yes,No,No,No,15,Entisol,No,Yes,Yes,No,3450,23.75,2,LDPE,No,No,No,No,No,No,No,Yes,Yes,5,Yes,5000,Yes,Yes,No,No,No,No,No,25,No,n/a,n/a,Yes,No,No,Yes,No,No,No,No
+SL8,Sri Lanka,Vegetable,No,Yes,No,No,No,15,Entisol,No,Yes,Yes,No,3450,23.75,7,LDPE,No,No,No,No,No,No,Yes,No,Yes,7,No,n/a,No,No,No,No,No,No,No,n/a,Yes,2000,5,Yes,No,No,No,No,No,No,No
+SL9,Sri Lanka,Vegetable,No,Yes,No,No,No,20,Entisol,No,Yes,Yes,No,3450,23.75,4,LDPE,No,No,No,No,No,No,No,Yes,Yes,3,No,n/a,No,No,No,No,No,No,No,n/a,Yes,4500,12.5,Yes,No,No,Yes,No,No,No,No
+SL10,Sri Lanka,Vegetable,No,Yes,No,No,No,15,Alfisol,Yes,No,No,Yes,1250,31.25,1,LDPE,No,No,No,No,No,No,No,No,Yes,5,Yes,9884,No,No,No,No,No,No,Yes,7.5,No,n/a,n/a,No,No,No,No,No,No,No,No
+SL11,Sri Lanka,Vegetable,No,Yes,No,No,No,20,Alfisol,Yes,No,No,Yes,1250,31.25,1,LDPE,No,No,No,No,No,No,No,No,Yes,10,Yes,1482,No,No,No,No,No,No,Yes,5,No,n/a,n/a,No,No,No,No,No,No,No,No
+SL12,Sri Lanka,Vegetable,No,Yes,No,No,No,20,Alfisol,Yes,No,No,Yes,1250,31.25,1,LDPE,No,No,No,No,No,No,No,No,Yes,5,Yes,9884,No,No,No,No,No,No,Yes,4.5,No,n/a,n/a,No,No,No,No,No,No,No,No
+SL13,Sri Lanka,Fruit,No,Yes,No,No,No,15,Alfisol,Yes,No,No,Yes,1250,31.25,0.5,LDPE,No,No,No,No,No,No,No,No,Yes,5,Yes,9884,No,No,No,No,No,No,Yes,10,No,n/a,n/a,No,Yes,No,No,No,No,No,No
+SL14,Sri Lanka,Vegetable,No,Yes,No,No,No,15,Alfisol,Yes,No,No,Yes,1250,31.25,1,LDPE,No,No,No,No,No,No,No,No,Yes,3,Yes,4942,No,No,No,No,No,No,Yes,4,No,n/a,n/a,No,No,No,No,Yes,No,No,No
+SL15,Sri Lanka,Vegetable,No,Yes,No,No,No,20,Entisol,Yes,No,No,Yes,1750,28.75,1.5,LDPE,No,Yes,No,No,No,No,No,No,Yes,1.5,Yes,9884,Yes,No,No,No,No,No,No,1.5,Yes,n/a,1,Yes,No,No,Yes,No,No,No,No
+SL16,Sri Lanka,Legume,No,Yes,No,No,No,15,Entisol,Yes,Yes,No,Yes,1750,28.75,3,LDPE,Yes,No,No,No,No,No,No,No,No,n/a,Yes,2965,No,No,No,No,No,No,Yes,3,No,n/a,n/a,Yes,Yes,No,No,Yes,No,Yes,Yes
+SL17,Sri Lanka,Vegetable,No,Yes,No,No,No,15,Entisol,Yes,Yes,No,Yes,1750,28.75,2.5,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,No,Yes,No,No,No,No,Yes,2.5,No,n/a,n/a,No,Yes,No,No,No,Yes,Yes,No
+SL18,Sri Lanka,Vegetable,No,n/a,No,No,No,30,Entisol,Yes,Yes,No,Yes,1750,28.75,2,LDPE,No,Yes,No,No,No,No,No,No,Yes,2,Yes,3459,No,No,No,No,No,No,Yes,2,No,n/a,n/a,No,No,No,No,No,No,No,No
+SL19,Sri Lanka,Vegetable,No,Yes,No,No,No,15,Entisol,Yes,Yes,No,Yes,1750,28.75,0.75,LDPE,No,No,No,No,No,No,No,Yes,No,n/a,Yes,43055,No,No,No,No,No,No,Yes,2,No,n/a,n/a,Yes,No,Yes,No,No,No,No,No
+SL20,Sri Lanka,Vegetable,No,Yes,No,No,No,15,Entisol,Yes,Yes,No,Yes,1750,28.75,0.2,LDPE,No,Yes,No,No,No,No,No,No,Yes,3,Yes,400,Yes,Yes,No,No,No,No,No,3,No,n/a,n/a,Yes,No,Yes,No,No,No,No,No
+SL21,Sri Lanka,Fruit,No,Yes,No,No,No,15,Ultisol,No,Yes,Yes,No,3100,21.45,1,LDPE,No,No,No,No,No,No,No,No,No,n/a,Yes,400,No,No,No,No,No,No,Yes,1,No,n/a,n/a,No,Yes,No,No,No,No,No,No
+SL22,Sri Lanka,Fruit,No,Yes,No,No,No,15,Ultisol,No,Yes,Yes,No,3100,21.45,1,LDPE,No,No,No,No,No,No,No,No,Yes,1,Yes,200,Yes,No,No,No,No,No,Yes,1,n/a,n/a,n/a,No,No,No,No,No,No,No,Yes
+SL23,Sri Lanka,Fruit,No,Yes,No,No,No,15,Ultisol,No,Yes,Yes,No,3100,21.45,1,LDPE,No,No,No,No,No,No,No,No,Yes,1,Yes,600,Yes,No,No,No,No,No,No,1,n/a,n/a,n/a,Yes,No,No,No,No,No,No,No
+SL24,Sri Lanka,Fruit,No,Yes,No,No,No,15,Ultisol,No,Yes,Yes,No,3100,21.45,2,LDPE,No,No,No,No,No,No,No,No,No,n/a,Yes,800,Yes,No,No,No,No,No,No,2,Yes,n/a,1,No,No,No,Yes,No,No,No,No
+SL25,Sri Lanka,Fruit,No,Yes,No,No,No,15,Ultisol,No,Yes,Yes,No,3100,21.45,1,LDPE,No,No,No,No,No,No,No,No,Yes,1,Yes,400,Yes,No,No,No,No,No,No,1,n/a,n/a,n/a,Yes,No,No,No,No,No,No,No
+SL26,Sri Lanka,Fruit,No,Yes,No,No,No,15,Ultisol,No,Yes,Yes,No,3100,21.45,1,LDPE,No,Yes,No,No,No,No,No,No,Yes,1,Yes,100,Yes,No,No,No,No,No,Yes,1,n/a,n/a,n/a,No,No,No,No,No,No,Yes,No
+SL27,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1200,31.25,1,LDPE,No,Yes,No,No,No,No,No,No,Yes,1,Yes,19678,Yes,No,No,No,No,No,No,1,n/a,n/a,n/a,Yes,No,No,No,Yes,No,Yes,No
+SL28,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1200,31.25,1,LDPE,No,Yes,No,No,No,No,No,No,Yes,1,Yes,19678,Yes,No,No,No,No,No,No,1,n/a,n/a,n/a,Yes,No,No,No,Yes,No,Yes,No
+SL29,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1200,31.25,0.25,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,500,Yes,No,No,No,No,No,No,0.25,n/a,n/a,n/a,Yes,No,No,No,Yes,No,Yes,No
+SL30,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1200,31.25,0.5,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,500,Yes,No,No,No,No,No,No,0.5,n/a,n/a,n/a,Yes,No,No,No,Yes,No,Yes,No
+SL31,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1200,31.25,1,LDPE,No,Yes,No,No,No,No,No,No,Yes,1,Yes,19678,Yes,No,No,No,No,No,No,1,n/a,n/a,n/a,Yes,No,No,No,Yes,No,Yes,No
+SL32,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1200,31.25,1,LDPE,No,Yes,No,No,No,No,No,No,Yes,1,Yes,19678,Yes,No,No,No,No,No,No,1,n/a,n/a,n/a,Yes,No,No,No,Yes,No,Yes,No
+SL33,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1000,31.25,1,LDPE,No,Yes,No,No,No,No,No,No,Yes,1,Yes,9884,Yes,No,No,No,No,No,No,1,n/a,n/a,n/a,No,No,No,No,Yes,No,Yes,No
+SL34,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1000,31.25,1,LDPE,No,No,No,No,No,No,Yes,No,Yes,1,Yes,9884,Yes,No,No,No,No,No,No,10,n/a,n/a,n/a,No,No,No,No,Yes,No,Yes,No
+SL35,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1000,31.25,1,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,1,n/a,n/a,n/a,No,No,No,No,Yes,No,Yes,No
+SL36,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1000,31.25,1,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,1,n/a,n/a,n/a,No,No,No,No,Yes,No,Yes,No
+SL37,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1000,31.25,1,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,1,n/a,n/a,n/a,Yes,No,No,No,Yes,No,Yes,No
+SL38,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1000,31.25,1,LDPE,No,Yes,No,No,No,No,No,No,Yes,10,Yes,19678,Yes,No,No,No,No,No,No,15,n/a,n/a,n/a,Yes,No,No,No,Yes,No,Yes,No
+SL39,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1000,31.25,1,LDPE,No,Yes,No,No,No,No,No,No,Yes,10,Yes,19678,Yes,No,No,No,No,No,No,15,n/a,n/a,n/a,Yes,No,No,No,Yes,No,Yes,No
+SL40,Sri Lanka,Vegetable,No,Yes,No,No,No,30,Alfisol,Yes,Yes,No,Yes,1000,31.25,1,LDPE,No,Yes,No,No,No,No,No,No,Yes,2,Yes,39536,Yes,No,No,No,No,No,No,1,n/a,n/a,n/a,Yes,No,No,No,Yes,No,Yes,No
+C1,China,Malvaceae,No,No,Yes,No,No,30,Cambisol,No,Yes,No,No,61,10.5,10,LDPE,No,No,No,No,No,Yes,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C2,China,Malvaceae,No,No,Yes,No,No,30,Cambisol,No,Yes,No,No,61,10.5,2,LDPE,No,No,No,No,No,Yes,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C3,China,Malvaceae,No,No,Yes,No,No,30,Cambisol,No,Yes,No,No,61,10.5,12,LDPE,No,No,No,No,No,Yes,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C4,China,Malvaceae,No,No,Yes,No,No,30,Cambisol,No,Yes,No,No,61,10.5,15,LDPE,No,No,No,No,No,Yes,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C5,China,Malvaceae,No,No,Yes,No,No,28,Gleysol,No,Yes,No,No,160,7,20,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,36,No,No,No,Yes,No,No,No,4,No,n/a,n/a,No,No,No,No,Yes,No,No,No
+C6,China,Malvaceae,No,No,Yes,No,No,28,Gleysol,No,Yes,No,No,160,7,20,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,36,No,No,No,Yes,No,No,No,4,No,n/a,n/a,No,No,No,No,Yes,No,No,No
+C7,China,Malvaceae,No,No,Yes,No,No,28,Gleysol,No,Yes,No,No,160,7,20,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,36,No,No,No,Yes,No,No,No,4,No,n/a,n/a,No,No,No,No,Yes,No,No,No
+C8,China,Malvaceae,No,No,Yes,No,No,28,Gleysol,No,Yes,No,No,160,7,20,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,36,No,No,No,Yes,No,No,No,4,No,n/a,n/a,No,No,No,No,Yes,No,No,No
+C9,China,Cereal,No,No,Yes,No,No,30,Fluvisol,No,No,No,Yes,138,8,20,LDPE,No,No,No,No,No,Yes,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C10,China,Cereal,No,No,Yes,No,No,30,Fluvisol,No,Yes,No,No,138,8,25,LDPE,No,No,No,No,No,Yes,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C11,China,Cereal,No,No,Yes,No,No,30,Fluvisol,Yes,No,No,No,138,8,25,LDPE,No,No,No,No,No,Yes,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C12,China,Cereal,No,No,Yes,No,No,30,Fluvisol,No,No,No,Yes,138,8,20,LDPE,No,No,No,No,No,Yes,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C13,China,Cereal,No,No,Yes,No,No,30,Cambisol,Yes,No,No,No,390,6.4,1,LDPE,No,No,Yes,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C14,China,Cereal,No,No,Yes,No,No,30,Cambisol,Yes,No,No,No,390,6.4,1,LDPE,No,No,Yes,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C15,China,Cereal,No,No,Yes,No,No,30,Cambisol,Yes,No,No,No,390,6.4,1,LDPE,No,No,Yes,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C16,China,Cereal,No,No,Yes,No,No,30,Cambisol,Yes,No,No,No,390,6.4,1,LDPE,No,No,Yes,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C17,China,Cereal,No,No,No,Yes,No,5,Acrisol,No,Yes,No,No,657.5,17,10,LDPE,No,Yes,No,No,No,No,No,No,Yes,3,Yes,300,Yes,Yes,No,No,No,No,No,3,No,n/a,n/a,No,No,No,No,No,No,No,No
+C18,China,Cereal,No,No,No,Yes,No,5,Acrisol,No,Yes,No,No,657.5,17,10,LDPE,No,Yes,No,No,No,No,No,No,Yes,10,Yes,300,Yes,Yes,No,No,No,No,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+C19,China,Cereal,No,No,No,Yes,No,5,Acrisol,No,Yes,No,No,657.5,17,10,LDPE,No,Yes,No,No,No,No,No,No,Yes,10,Yes,300,Yes,Yes,No,No,No,No,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+C20,China,Cereal,No,No,No,Yes,No,5,Acrisol,No,Yes,No,No,657.5,17,10,LDPE,No,Yes,No,No,No,No,No,No,Yes,10,Yes,300,Yes,Yes,No,No,No,No,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+C21,China,Cereal,No,No,No,No,Yes,10,Luvisol,Yes,Yes,No,No,850,13.5,10,LDPE,No,No,No,No,Yes,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C22,China,Cereal,No,No,Yes,No,No,25,Luvisol,Yes,Yes,No,No,850,13.5,10,LDPE,No,No,No,No,Yes,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C23,China,Cereal,No,No,No,No,Yes,10,Luvisol,Yes,Yes,No,No,850,13.5,10,LDPE,No,No,No,No,Yes,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C24,China,Cereal,No,No,No,No,Yes,15,Luvisol,Yes,Yes,No,No,850,13.5,10,LDPE,No,No,No,No,Yes,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C25,China,Nut,No,No,No,Yes,No,5,Luvisol,No,No,No,Yes,850,13.5,10,LDPE,No,No,No,No,Yes,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C26,China,Nut,No,No,No,Yes,No,5,Luvisol,No,No,No,Yes,850,13.5,10,LDPE,No,No,No,No,Yes,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C27,China,Nut,No,No,No,Yes,No,5,Luvisol,No,No,No,Yes,850,13.5,10,LDPE,No,No,No,No,Yes,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C28,China,Nut,No,No,No,Yes,No,5,Luvisol,No,No,No,Yes,850,13.5,10,LDPE,No,No,No,No,Yes,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,Yes,No,No,No,No,No
+C29,China,Cereal,No,No,No,No,Yes,5,Calcisol,No,Yes,No,No,614.7,7.6,6.5,LDPE,Yes,No,No,No,No,No,No,No,Yes,6.5,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C30,China,Cereal,No,No,No,No,Yes,5,Calcisol,No,Yes,No,No,614.7,7.6,6.5,LDPE,Yes,No,No,No,No,No,No,No,Yes,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C31,China,Cereal,No,No,No,No,Yes,5,Calcisol,No,Yes,No,No,614.7,7.6,6.5,LDPE,Yes,No,No,No,No,No,No,No,Yes,6.5,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C32,China,Cereal,No,No,No,No,Yes,5,Calcisol,No,Yes,No,No,614.7,7.6,6.5,LDPE,Yes,No,No,No,No,No,No,No,Yes,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C33,China,Cereal,No,No,No,No,Yes,5,Calcisol,No,Yes,No,No,614.7,7.6,6.5,LDPE,Yes,No,No,No,No,No,No,No,Yes,6.5,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C34,China,Cereal,No,No,No,No,Yes,5,Calcisol,No,Yes,No,No,614.7,7.6,6.5,LDPE,Yes,No,No,No,No,No,No,No,Yes,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C35,China,Cereal,No,No,No,No,Yes,5,Calcisol,No,Yes,No,No,614.7,7.6,6.5,LDPE,Yes,No,No,No,No,No,No,No,Yes,6.5,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C36,China,Cereal,No,No,No,No,Yes,5,Calcisol,No,Yes,No,No,614.7,7.6,6.5,LDPE,Yes,No,No,No,No,No,No,No,Yes,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+C37,China,Fruit,No,No,Yes,Yes,Yes,25,Anthrosol,No,No,No,Yes,1528.8,16.2,10,"LDPE, PVC",No,No,No,No,Yes,No,No,No,No,n/a,Yes,2000,No,No,No,No,No,Yes,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+C38,China,Fruit,No,No,Yes,Yes,Yes,25,Anthrosol,No,No,No,Yes,1538.8,16.2,10,"LDPE, PVC",No,No,No,No,Yes,No,No,No,No,n/a,Yes,2000,No,No,No,No,No,Yes,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+C39,China,Fruit,No,No,Yes,Yes,Yes,25,Anthrosol,No,No,No,Yes,1548.8,16.2,10,"LDPE, PVC",No,No,No,No,Yes,No,No,No,No,n/a,Yes,2000,No,No,No,No,No,Yes,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+C40,China,Fruit,No,No,Yes,Yes,Yes,25,Anthrosol,No,No,No,Yes,1558.8,16.2,10,"LDPE, PVC",No,No,No,No,Yes,No,No,No,No,n/a,Yes,2000,No,No,No,No,No,Yes,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+I1,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1127,25.3,5,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I2,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1127,25.3,3,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I3,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1127,25.3,3,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I4,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1127,25.3,3,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I5,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1127,25.3,1,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I6,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1127,25.3,1,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I7,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1127,25.3,10,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I8,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1127,25.3,10,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I9,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1127,25.3,5,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I10,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1127,25.3,3,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I11,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1261,25.5,3,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I16,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1261,25.5,15,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I18,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1261,25.5,1,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,No,n/a,No,No,No,No,No,No,No,n/a,No,n/a,n/a,No,No,No,No,No,No,No,No
+I21,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1340,27.03,3,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,12355,Yes,No,No,No,No,No,No,25,No,n/a,n/a,No,No,No,No,No,No,No,No
+I22,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1340,27.03,1,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,12355,Yes,No,No,No,No,No,No,2,No,n/a,n/a,No,No,No,No,No,No,No,No
+I23,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1340,27.03,4,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,4,No,n/a,n/a,No,No,No,No,No,No,No,No
+I24,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1340,27.03,4,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,8648,Yes,No,No,No,No,No,No,18,No,n/a,n/a,No,No,No,No,No,No,No,No
+I25,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1340,27.03,2,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,15,No,n/a,n/a,No,No,No,No,No,No,No,No
+I26,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1340,27.03,2,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+I27,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1340,27.03,2,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,8,No,n/a,n/a,No,No,No,No,No,No,No,No
+I28,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1340,27.03,3,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,5,No,n/a,n/a,No,No,No,No,No,No,No,No
+I29,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1340,27.03,4,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,17297,Yes,No,No,No,No,No,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+I30,India,Fruit,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1340,27.03,3,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,8648,Yes,No,No,No,No,No,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+I31,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1200,25.8,4,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,12355,Yes,No,No,No,No,No,No,20,No,n/a,n/a,No,No,No,No,No,No,No,No
+I32,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1200,25.8,4,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,12355,Yes,No,No,No,No,No,No,6,No,n/a,n/a,No,No,No,No,No,No,No,No
+I33,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1200,25.8,4,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,12,No,n/a,n/a,No,No,No,No,No,No,No,No
+I34,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1200,25.8,2,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,14,No,n/a,n/a,No,No,No,No,No,No,No,No
+I35,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1200,25.8,4,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,22,No,n/a,n/a,No,No,No,No,No,No,No,No
+I36,India,Cereal,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1200,25.8,5,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,10,No,n/a,n/a,No,No,No,No,No,No,No,No
+I37,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1200,25.8,3,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,14,No,n/a,n/a,No,No,No,No,No,No,No,No
+I38,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1200,25.8,4,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,9884,Yes,No,No,No,No,No,No,14,No,n/a,n/a,No,No,No,No,No,No,No,No
+I40,India,Vegetable,No,No,Yes,Yes,Yes,20,Vertisol,No,No,No,Yes,1200,25.8,3,LDPE,No,Yes,No,No,No,No,No,No,No,n/a,Yes,11119,Yes,No,No,No,No,No,No,16,No,n/a,n/a,No,No,No,No,No,No,No,No

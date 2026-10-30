@@ -1,0 +1,6852 @@
+Country,Code,Depth,Quality,ID
+China,C1,10,30.80,Rubber
+China,C1,10,56.20,PTFE
+China,C1,10,46.60,PET
+China,C1,10,46.90,PET
+China,C1,10,36.20,PE
+China,C2,10,54.40,PA
+China,C3,10,39.80,PET
+China,C3,10,52.60,Rubber
+China,C3,10,54.70,PET
+China,C3,10,56.00,PE
+China,C3,10,59.40,Rubber
+China,C3,10,35.50,PVC
+China,C3,10,60.00,PET
+China,C3,10,58.60,PP
+China,C4,10,55.70,Rubber
+China,C4,10,44.40,PET
+China,C4,10,51.80,PA
+China,C4,10,42.60,Rubber
+China,C4,10,25.80,Rubber
+China,C4,10,12.00,PEI
+China,C4,10,27.30,PET
+China,C4,10,29.40,PET
+China,C4,10,11.50,PEI
+China,C5,10,23.50,PE
+China,C5,10,37.70,PET
+China,C5,10,19.00,Rubber
+China,C5,10,27.90,PET
+China,C6,10,20.90,PP
+China,C6,10,22.60,PE
+China,C6,10,20.40,Rubber
+China,C6,10,37.70,Rubber
+China,C6,10,25.00,Rubber
+China,C6,10,17.70,PP
+China,C6,10,48.70,PET
+China,C6,10,19.50,Rubber
+China,C6,10,12.90,PET
+China,C6,10,41.10,PE
+China,C7,10,20.10,Rubber
+China,C7,10,24.50,Rubber
+China,C7,10,15.70,PET
+China,C7,10,32.60,PVC
+China,C7,10,22.40,Rubber
+China,C7,10,34.60,EVOH
+China,C8,10,22.70,Rubber
+China,C8,10,27.90,PE
+China,C8,10,47.00,Rubber
+China,C8,10,53.00,PE
+China,C9,10,29.60,Rubber
+China,C9,10,79.10,Rubber
+China,C9,10,28.00,PS
+China,C9,10,55.90,Rubber
+China,C9,10,49.40,Rubber
+China,C9,10,56.20,Rubber
+China,C9,10,56.50,Rubber
+China,C9,10,46.20,Rubber
+China,C9,10,61.40,Rubber
+China,C9,10,53.80,Rubber
+China,C9,10,60.40,Rubber
+China,C9,10,54.60,Rubber
+China,C9,10,61.40,Rubber
+China,C10,10,27.80,PTFE
+China,C10,10,31.60,Rubber
+China,C10,10,43.30,Rubber
+China,C10,10,25.80,PTFE
+China,C10,10,49.00,PET
+China,C10,10,46.40,Rubber
+China,C11,10,28.50,Rubber
+China,C11,10,35.60,Rubber
+China,C11,10,27.00,PET
+China,C11,10,41.00,Rubber
+China,C12,10,19.80,Rubber
+China,C12,10,38.50,PET
+China,C12,10,32.40,PET
+China,C12,10,56.60,PET
+China,C13,10,38.70,Rubber
+China,C13,10,67.90,Rubber
+China,C13,10,17.20,Rubber
+China,C14,10,33.40,Rubber
+China,C14,10,44.00,PE
+China,C14,10,33.80,PE
+China,C14,10,13.90,Rubber
+China,C14,10,42.20,PE
+China,C14,10,32.80,PET
+China,C15,10,14.30,Rubber
+China,C15,10,14.70,Rubber
+China,C15,10,33.80,Rubber
+China,C15,10,36.50,Rubber
+China,C15,10,45.10,Rubber
+China,C16,10,34.30,Rubber
+China,C16,10,21.00,Rubber
+China,C16,10,43.00,Rubber
+China,C16,10,40.70,PE
+China,C16,10,42.30,Rubber
+China,C16,10,34.30,Rubber
+China,C16,10,42.90,PTFE
+China,C17,10,46.20,Rubber
+China,C17,10,42.70,Rubber
+China,C17,10,67.30,Rubber
+China,C17,10,40.60,Rubber
+China,C17,10,24.70,PS
+China,C17,10,49.60,PET
+China,C17,10,32.60,PS
+China,C17,10,66.50,PP
+China,C17,10,47.00,PU
+China,C17,10,48.40,PTFE
+China,C17,10,27.60,Rubber
+China,C17,10,26.90,PS
+China,C17,10,38.10,PP
+China,C17,10,46.40,Rubber
+China,C18,10,38.00,PA
+China,C18,10,33.90,PS
+China,C18,10,38.20,Rubber
+China,C18,10,36.60,Rubber
+China,C18,10,27.20,PS
+China,C18,10,47.80,PS
+China,C18,10,81.10,PP
+China,C18,10,43.00,Rubber
+China,C18,10,23.00,PS
+China,C18,10,33.70,Rubber
+China,C19,10,44.20,PVC
+China,C19,10,48.40,Rubber
+China,C19,10,63.40,Rubber
+China,C19,10,42.90,Rubber
+China,C19,10,49.70,PP
+China,C19,10,63.30,Rubber
+China,C19,10,43.90,Rubber
+China,C19,10,46.60,Rubber
+China,C19,10,46.70,Rubber
+China,C19,10,35.60,PS
+China,C19,10,62.00,Rubber
+China,C19,10,28.70,Rubber
+China,C20,10,78.20,PE
+China,C20,10,75.80,PE
+China,C20,10,41.70,Rubber
+China,C20,10,64.30,PE
+China,C20,10,62.20,PP
+China,C20,10,37.70,PS
+China,C20,10,42.90,Rubber
+China,C20,10,66.70,PP
+China,C20,10,52.70,PE
+China,C20,10,49.00,PA
+China,C20,10,43.80,Rubber
+China,C20,10,64.30,PE
+China,C21,10,31.50,Rubber
+China,C21,10,37.20,Rubber
+China,C21,10,23.10,Rubber
+China,C21,10,61.80,Rubber
+China,C21,10,86.10,Rubber
+China,C21,10,86.50,Rubber
+China,C21,10,59.20,Rubber
+China,C22,10,31.60,Rubber
+China,C22,10,31.60,Rubber
+China,C22,10,29.80,Rubber
+China,C22,10,18.50,Rubber
+China,C22,10,48.90,Rubber
+China,C22,10,25.20,Rubber
+China,C22,10,52.60,PET
+China,C22,10,26.10,Rubber
+China,C22,10,39.00,PTFE
+China,C23,10,32.60,PET
+China,C23,10,23.30,Rubber
+China,C23,10,50.80,PET
+China,C23,10,56.00,Rubber
+China,C23,10,51.40,Rubber
+China,C23,10,56.70,Rubber
+China,C23,10,39.80,Rubber
+China,C23,10,51.00,Rubber
+China,C23,10,31.80,Rubber
+China,C24,10,40.90,Rubber
+China,C24,10,57.20,Rubber
+China,C24,10,61.40,Rubber
+China,C24,10,48.30,Rubber
+China,C24,10,64.30,Rubber
+China,C24,10,25.30,Rubber
+China,C24,10,58.50,Rubber
+China,C24,10,48.30,Rubber
+China,C24,10,31.80,PE
+China,C25,10,32.30,Rubber
+China,C25,10,34.50,PET
+China,C25,10,32.60,Rubber
+China,C25,10,41.30,Rubber
+China,C25,10,35.50,PU
+China,C25,10,47.60,PA
+China,C25,10,32.40,Rubber
+China,C25,10,37.60,PU
+China,C25,10,30.20,Rubber
+China,C25,10,15.80,Rubber
+China,C25,10,61.30,PA
+China,C25,10,18.60,Rubber
+China,C25,10,28.00,Rubber
+China,C26,10,50.50,Rubber
+China,C26,10,37.30,PET
+China,C26,10,21.00,PS
+China,C26,10,64.00,Rubber
+China,C26,10,21.60,PS
+China,C26,10,25.80,PS
+China,C26,10,44.50,Rubber
+China,C26,10,35.50,Rubber
+China,C26,10,14.80,PS
+China,C26,10,10.60,Rubber
+China,C26,10,23.00,PS
+China,C26,10,23.60,Rubber
+China,C27,10,26.70,Rubber
+China,C27,10,24.30,PS
+China,C27,10,24.30,PTFE
+China,C27,10,57.80,Rubber
+China,C27,10,20.50,Rubber
+China,C27,10,29.50,PET
+China,C27,10,45.20,Rubber
+China,C27,10,44.70,Rubber
+China,C27,10,45.70,Rubber
+China,C27,10,15.30,PS
+China,C27,10,20.00,PS
+China,C27,10,32.20,PET
+China,C28,10,51.30,PP
+China,C28,10,54.40,Rubber
+China,C28,10,25.30,PE
+China,C28,10,63.80,Rubber
+China,C28,10,55.80,Rubber
+China,C28,10,47.10,Rubber
+China,C28,10,40.50,Rubber
+China,C28,10,49.50,Rubber
+China,C28,10,42.60,PET
+China,C28,10,46.80,Rubber
+China,C29,10,42.30,PET
+China,C29,10,45.90,PA
+China,C29,10,36.60,PE
+China,C29,10,59.60,PET
+China,C29,10,40.60,Rubber
+China,C29,10,55.00,PET
+China,C29,10,52.00,PE
+China,C29,10,36.40,PET
+China,C30,10,44.60,PET
+China,C30,10,38.90,Rubber
+China,C30,10,54.70,Rubber
+China,C31,10,38.00,PET
+China,C31,10,38.00,PE
+China,C31,10,41.00,PET
+China,C31,10,27.20,PTFE
+China,C31,10,30.00,Rubber
+China,C31,10,44.50,PET
+China,C31,10,41.70,Rubber
+China,C31,10,48.10,PET
+China,C31,10,30.80,Rubber
+China,C31,10,43.20,PET
+China,C31,10,44.30,PA
+China,C31,10,68.40,PE
+China,C31,10,24.00,PE
+China,C31,10,56.80,PE
+China,C32,10,22.90,PTFE
+China,C32,10,44.00,PE
+China,C32,10,42.60,PA
+China,C32,10,56.60,PTFE
+China,C33,10,58.00,PET
+China,C33,10,14.40,PEI
+China,C33,10,33.10,PET
+China,C33,10,29.70,PET
+China,C33,10,25.60,Rubber
+China,C33,10,55.00,PET
+China,C34,10,33.80,PET
+China,C34,10,49.50,PA
+China,C34,10,46.00,PET
+China,C34,10,45.60,PTFE
+China,C34,10,16.70,Rubber
+China,C34,10,35.40,Rubber
+China,C34,10,26.20,Rubber
+China,C34,10,12.10,Rubber
+China,C34,10,34.00,PE
+China,C34,10,37.00,PET
+China,C35,10,32.60,PE
+China,C35,10,38.90,PET
+China,C35,10,18.00,Rubber
+China,C35,10,99.00,PE
+China,C35,10,71.20,PTFE
+China,C35,10,19.00,Rubber
+China,C35,10,97.30,PTFE
+China,C35,10,48.40,PE
+China,C35,10,54.50,PE
+China,C35,10,28.40,PET
+China,C36,10,26.70,PTFE
+China,C36,10,56.70,PE
+China,C36,10,71.10,PTFE
+China,C37,10,53.80,PET
+China,C37,10,46.70,PP
+China,C37,10,36.20,Rubber
+China,C37,10,46.00,PET
+China,C37,10,34.50,Rubber
+China,C37,10,12.80,PEI
+China,C37,10,47.80,PE
+China,C38,10,32.20,Rubber
+China,C38,10,31.90,PE
+China,C38,10,42.80,Rubber
+China,C39,10,34.50,Rubber
+China,C39,10,21.50,PEI
+China,C39,10,26.50,Rubber
+China,C39,10,57.90,PE
+China,C39,10,33.20,Rubber
+China,C39,10,27.70,PE
+China,C39,10,23.10,PEI
+China,C40,10,53.50,PE
+Egypt,E1,10,87.10,PLA
+Egypt,E1,10,73.37,PET
+Egypt,E1,20,67.70,PS
+Egypt,E1,20,97.57,PA
+Egypt,E1,20,97.26,PA
+Egypt,E1,20,97.52,PA
+Egypt,E1,20,97.39,PA
+Egypt,E1,20,96.58,PA
+Egypt,E1,20,96.33,PA
+Egypt,E1,30,74.88,PLA
+Egypt,E1,30,88.91,PA
+Egypt,E1,30,86.53,PA
+Egypt,E1,30,87.58,PA
+Egypt,E1,30,88.39,PA
+Egypt,E1,30,91.17,PA
+Egypt,E1,30,91.17,PA
+Egypt,E2,10,79.17,PLA
+Egypt,E2,10,78.54,PLA
+Egypt,E2,10,72.10,PA
+Egypt,E2,10,69.05,PS
+Egypt,E2,10,73.12,PS
+Egypt,E2,10,73.36,PS
+Egypt,E2,10,74.16,PS
+Egypt,E2,10,75.70,PS
+Egypt,E2,20,71.94,PS
+Egypt,E2,20,75.14,PS
+Egypt,E2,20,73.60,PS
+Egypt,E2,30,74.88,PS
+Egypt,E2,30,76.33,PS
+Egypt,E2,30,76.05,PS
+Egypt,E2,30,75.52,PS
+Egypt,E2,30,74.17,PS
+Egypt,E3,10,76.13,PS
+Egypt,E3,10,97.94,PA
+Egypt,E3,10,97.15,PA
+Egypt,E3,10,97.72,PA
+Egypt,E3,10,97.77,PA
+Egypt,E3,10,97.77,PA
+Egypt,E3,10,97.28,PA
+Egypt,E3,20,67.73,PS
+Egypt,E3,20,88.64,PA
+Egypt,E3,20,87.73,PA
+Egypt,E3,20,89.55,PA
+Egypt,E3,20,88.15,PA
+Egypt,E3,20,89.00,PA
+Egypt,E3,30,84.26,PLA
+Egypt,E3,30,83.47,PLA
+Egypt,E3,30,83.61,PLA
+Egypt,E3,30,83.33,PLA
+Egypt,E3,30,94.36,PA
+Egypt,E3,30,95.40,PA
+Egypt,E3,30,95.25,PA
+Egypt,E3,30,94.74,PA
+Egypt,E3,30,93.95,PA
+Egypt,E3,30,94.99,PA
+Egypt,E3,30,94.36,PA
+Egypt,E4,10,97.37,PA
+Egypt,E4,10,89.44,PA
+Egypt,E4,10,86.88,PA
+Egypt,E4,10,88.80,PA
+Egypt,E4,10,89.02,PA
+Egypt,E4,10,89.42,PA
+Egypt,E4,20,74.67,PS
+Egypt,E4,20,82.73,PE
+Egypt,E4,30,72.72,PLA
+Egypt,E4,30,82.73,PLA
+Egypt,E4,30,84.70,PE
+Egypt,E4,30,77.43,PE
+Egypt,E4,30,70.73,PS
+Egypt,E4,30,81.22,PE
+Egypt,E5,10,76.99,PS
+Egypt,E5,10,80.77,PVA
+Egypt,E5,20,71.68,PS
+Egypt,E5,20,74.09,PLA
+Egypt,E5,20,70.71,PS
+Egypt,E5,20,71.60,PLA
+Egypt,E5,20,70.46,PS
+Egypt,E5,20,83.02,PLA
+Egypt,E5,30,73.38,PS
+Egypt,E5,30,75.44,PE
+Egypt,E5,30,79.06,PE
+Egypt,E6,10,69.69,PS
+Egypt,E6,10,74.00,PS
+Egypt,E6,20,86.77,PE
+Egypt,E6,20,87.17,PLA
+Egypt,E6,20,80.47,PLA
+Egypt,E6,20,83.74,PE
+Egypt,E6,20,91.06,PE
+Egypt,E6,20,86.80,PLA
+Egypt,E6,30,70.48,PE
+Egypt,E7,10,76.79,PE
+Egypt,E7,10,80.15,PP
+Egypt,E7,10,71.15,PLA
+Egypt,E7,10,72.70,PVA
+Egypt,E7,10,82.98,PVA
+Egypt,E7,20,83.65,PE
+Egypt,E7,20,91.27,PLA
+Egypt,E7,20,94.11,PLA
+Egypt,E7,20,96.49,PE
+Egypt,E7,20,95.46,PLA
+Egypt,E7,20,95.46,PLA
+Egypt,E7,30,83.25,PP
+Egypt,E7,30,87.32,PA
+Egypt,E7,30,82.05,PA
+Egypt,E7,30,88.49,PA
+Egypt,E7,30,89.65,PA
+Egypt,E7,30,89.92,PA
+Egypt,E7,30,94.26,PA
+Egypt,E7,30,87.32,PA
+Egypt,E8,10,81.94,PVA
+Egypt,E8,10,83.43,PVA
+Egypt,E8,10,78.96,PE
+Egypt,E8,10,79.68,PA
+Egypt,E8,10,93.72,PA
+Egypt,E8,10,93.10,PA
+Egypt,E8,10,90.11,PA
+Egypt,E8,10,93.01,PA
+Egypt,E8,20,76.03,PLA
+Egypt,E8,20,79.48,PLA
+Egypt,E8,20,78.93,PLA
+Egypt,E8,20,77.85,PLA
+Egypt,E8,20,76.03,PLA
+Egypt,E8,20,91.97,PA
+Egypt,E8,30,84.14,PLA
+Egypt,E8,30,76.35,PS
+Egypt,E8,30,72.39,PA
+Egypt,E8,30,74.91,PA
+Egypt,E8,30,97.71,PE
+Egypt,E8,30,71.60,PA
+Egypt,E8,30,73.34,PA
+Egypt,E9,10,66.25,PS
+Egypt,E9,10,71.99,PS
+Egypt,E9,10,81.71,PLA
+Egypt,E9,10,81.75,PLA
+Egypt,E9,10,70.47,PS
+Egypt,E9,10,70.83,PS
+Egypt,E9,20,85.20,PLA
+Egypt,E9,20,86.80,PLA
+Egypt,E9,20,77.99,PLA
+Egypt,E9,20,78.09,PLA
+Egypt,E9,20,74.94,PLA
+Egypt,E9,20,66.86,PLA
+Egypt,E9,20,78.71,PLA
+Egypt,E9,30,88.08,PA
+Egypt,E9,30,87.32,PE
+Egypt,E9,30,81.53,PE
+Egypt,E9,30,69.52,PS
+Egypt,E9,30,81.79,PE
+Egypt,E9,30,70.08,PP
+Egypt,E9,30,87.89,PE
+Egypt,E10,10,86.73,PLA
+Egypt,E10,10,87.44,PE
+Egypt,E10,10,83.54,PE
+Egypt,E10,10,83.30,PE
+Egypt,E10,10,83.94,PE
+Egypt,E10,10,79.56,PE
+Egypt,E10,20,86.80,PLA
+Egypt,E10,20,80.85,PLA
+Egypt,E10,20,81.97,PLA
+Egypt,E10,20,85.12,PLA
+Egypt,E10,20,95.16,PA
+Egypt,E10,20,84.67,PA
+Egypt,E10,30,86.34,PLA
+Egypt,E10,30,89.53,PE
+Egypt,E10,30,86.39,PLA
+Egypt,E10,30,86.98,PLA
+Egypt,E10,30,85.27,PLA
+Egypt,E10,30,83.71,PLA
+Egypt,E11,10,87.93,PE
+Egypt,E11,10,76.93,PE
+Egypt,E11,10,73.92,PE
+Egypt,E11,10,81.85,PE
+Egypt,E11,10,80.99,PE
+Egypt,E11,10,80.11,PLA
+Egypt,E11,10,76.71,PP
+Egypt,E11,20,75.08,PLA
+Egypt,E11,20,66.90,PP
+Egypt,E11,20,78.90,PP
+Egypt,E11,20,78.67,PP
+Egypt,E11,30,76.33,PS
+Egypt,E11,30,82.10,PP
+Egypt,E11,30,80.79,PP
+Egypt,E11,30,82.97,PP
+Egypt,E11,30,81.89,PP
+Egypt,E11,30,82.27,PP
+Egypt,E11,30,92.06,PE
+Egypt,E11,30,91.24,PE
+Egypt,E11,30,91.30,PE
+Egypt,E11,30,90.67,PE
+Egypt,E11,30,91.29,PE
+Egypt,E11,30,92.96,PE
+Egypt,E12,10,96.19,PA
+Egypt,E12,10,96.66,PA
+Egypt,E12,10,93.97,PA
+Egypt,E12,10,96.89,PA
+Egypt,E12,10,74.23,PS
+Egypt,E12,20,96.34,PA
+Egypt,E12,20,85.98,PE
+Egypt,E12,20,85.98,PE
+Egypt,E12,20,85.97,PE
+Egypt,E12,20,84.75,PE
+Egypt,E12,20,89.77,PE
+Egypt,E12,30,89.72,PE
+Egypt,E12,30,88.45,PE
+Egypt,E12,30,86.16,PE
+Egypt,E12,30,88.87,PE
+Egypt,E12,30,85.95,PE
+Egypt,E12,30,71.49,PS
+Egypt,E12,30,96.19,PA
+Egypt,E13,10,94.93,PA
+Egypt,E13,10,78.25,PS
+Egypt,E13,10,78.69,PET
+Egypt,E13,10,96.19,PA
+Egypt,E13,20,82.17,PLA
+Egypt,E13,20,80.87,PET
+Egypt,E13,30,85.80,PS
+Egypt,E13,30,92.39,PS
+Egypt,E13,30,90.92,PS
+Egypt,E13,30,90.17,PS
+Egypt,E13,30,92.05,PS
+Egypt,E14,20,81.65,PA
+Egypt,E14,20,73.70,PET
+Egypt,E14,20,76.67,PVA
+Egypt,E14,20,79.31,PA
+Egypt,E14,20,69.55,PA
+Egypt,E14,20,79.87,PA
+Egypt,E14,30,76.61,PLA
+Egypt,E15,10,81.52,PE
+Egypt,E15,20,81.65,PS
+Egypt,E15,20,77.09,PLA
+Egypt,E15,20,77.14,PS
+Egypt,E15,30,75.57,PLA
+Egypt,E15,30,75.62,PS
+Egypt,E16,10,81.99,PLA
+Egypt,E16,20,81.15,PVA
+Egypt,E16,20,79.96,PVA
+Egypt,E16,20,80.67,PVA
+Egypt,E16,20,81.43,PVA
+Egypt,E16,20,80.86,PVA
+Egypt,E16,30,82.59,PS
+Egypt,E16,30,79.65,PS
+Egypt,E16,30,76.47,PP
+Egypt,E17,10,80.65,PET
+Egypt,E17,10,85.81,PET
+Egypt,E17,10,87.34,PET
+Egypt,E17,10,85.73,PET
+Egypt,E17,10,80.00,PET
+Egypt,E17,20,91.83,PA
+Egypt,E17,20,96.34,PA
+Egypt,E17,20,95.48,PA
+Egypt,E17,20,95.67,PA
+Egypt,E17,20,96.77,PA
+Egypt,E17,30,73.93,PLA
+Egypt,E17,30,77.31,PLA
+Egypt,E17,30,75.37,PLA
+Egypt,E17,30,72.74,PLA
+Egypt,E18,10,91.10,PP
+Egypt,E18,10,92.61,PE
+Egypt,E18,10,92.83,PE
+Egypt,E18,10,88.24,PE
+Egypt,E18,10,93.15,PE
+Egypt,E18,10,93.15,PE
+Egypt,E18,10,93.62,PE
+Egypt,E18,20,82.63,PP
+Egypt,E18,20,79.24,PP
+Egypt,E18,20,77.35,PP
+Egypt,E18,20,78.37,PP
+Egypt,E18,20,77.26,PP
+Egypt,E18,20,78.93,PP
+Egypt,E18,30,73.18,PLA
+Egypt,E18,30,72.76,PLA
+Egypt,E18,30,89.83,PA
+Egypt,E18,30,72.90,PP
+Egypt,E18,30,72.72,PLA
+Egypt,E18,30,71.90,PP
+Egypt,E18,30,72.76,PLA
+Egypt,E19,10,75.84,PET
+Egypt,E19,10,68.33,PA
+Egypt,E19,10,80.15,PA
+Egypt,E19,10,66.36,PLA
+Egypt,E19,10,67.94,PA
+Egypt,E19,10,75.20,PET
+Egypt,E19,30,88.41,PE
+Egypt,E19,30,70.18,PE
+Egypt,E19,30,50.94,PP
+Egypt,E19,30,62.54,PE
+Egypt,E19,30,70.10,PE
+Egypt,E20,10,65.30,PA
+Egypt,E20,10,74.77,PE
+Egypt,E20,10,64.67,PLA
+Egypt,E20,10,74.87,PA
+Egypt,E20,10,72.12,PLA
+Egypt,E20,20,66.76,PVC
+Egypt,E20,20,74.07,PLA
+Egypt,E20,20,68.41,PVC
+Egypt,E20,20,64.45,PVC
+Egypt,E21,10,64.32,PE
+Egypt,E21,10,62.20,PP
+Egypt,E21,10,60.83,PE
+Egypt,E21,10,65.09,PVA
+Egypt,E21,10,63.08,PE
+Egypt,E21,20,82.25,PA
+Egypt,E21,20,74.85,PA
+Egypt,E21,20,81.71,PA
+Egypt,E21,20,77.47,PA
+Egypt,E21,20,79.05,PA
+Egypt,E21,20,71.42,PA
+Egypt,E21,30,90.16,PA
+Egypt,E21,30,90.13,PA
+Egypt,E21,30,91.00,PA
+Egypt,E21,30,96.45,PA
+Egypt,E21,30,95.01,PA
+Egypt,E21,30,95.36,PA
+Egypt,E22,10,73.03,PLA
+Egypt,E22,10,67.89,PLA
+Egypt,E22,10,68.65,PP
+Egypt,E22,10,71.39,PET
+Egypt,E22,20,72.60,PS
+Egypt,E22,20,69.38,PS
+Egypt,E22,20,65.42,PS
+Egypt,E22,20,69.01,PS
+Egypt,E22,20,66.24,PLA
+Egypt,E22,20,68.83,PS
+Egypt,E23,10,67.31,PVA
+Egypt,E23,10,68.90,PLA
+Egypt,E23,10,78.61,PVA
+Egypt,E23,10,79.99,PVA
+Egypt,E23,20,63.77,PE
+Egypt,E23,20,81.50,PVA
+Egypt,E23,20,81.81,PVA
+Egypt,E23,20,82.37,PVA
+Egypt,E23,20,73.68,PVA
+Egypt,E23,20,80.75,PVA
+Egypt,E23,30,80.98,PS
+Egypt,E23,30,78.20,PVA
+Egypt,E23,30,77.61,PE
+Egypt,E23,30,80.72,PP
+Egypt,E23,30,81.11,PE
+Egypt,E23,30,75.12,PP
+Egypt,E24,10,69.72,PVA
+Egypt,E24,10,62.01,PLA
+Egypt,E24,10,59.80,PLA
+Egypt,E24,10,83.16,PA
+Egypt,E24,10,87.30,PA
+Egypt,E24,10,89.12,PA
+Egypt,E24,10,83.81,PA
+Egypt,E24,20,87.37,PA
+Egypt,E24,20,89.25,PA
+Egypt,E24,20,84.59,PA
+Egypt,E24,20,86.18,PA
+Egypt,E24,20,84.35,PA
+Egypt,E24,20,87.76,PA
+Egypt,E24,30,75.21,PLA
+Egypt,E24,30,73.93,PLA
+Egypt,E24,30,75.12,PLA
+Egypt,E24,30,79.18,PE
+Egypt,E25,10,73.61,PLA
+Egypt,E25,10,74.56,PA
+Egypt,E25,10,71.00,PS
+Egypt,E25,10,64.43,PA
+Egypt,E25,10,70.11,PS
+Egypt,E25,30,82.97,PVA
+Egypt,E25,30,82.70,PVA
+Egypt,E25,30,82.20,PVA
+Egypt,E25,30,83.06,PVA
+Egypt,E25,30,82.94,PVA
+Egypt,E25,30,83.69,PVA
+Egypt,E26,10,67.86,PLA
+Egypt,E26,10,64.87,PLA
+Egypt,E26,10,58.09,PLA
+Egypt,E26,10,73.11,PA
+Egypt,E26,10,75.02,PE
+Egypt,E26,10,73.32,PA
+Egypt,E26,20,79.19,PLA
+Egypt,E26,20,78.10,PLA
+Egypt,E26,20,73.32,PA
+Egypt,E26,30,92.48,PA
+Egypt,E26,30,96.00,PA
+Egypt,E26,30,93.75,PA
+Egypt,E26,30,69.60,PLA
+Egypt,E27,10,93.27,PA
+Egypt,E27,10,89.84,PA
+Egypt,E27,10,92.06,PA
+Egypt,E27,10,92.31,PA
+Egypt,E27,10,92.36,PA
+Egypt,E27,10,89.56,PA
+Egypt,E27,20,58.41,PET
+Egypt,E27,30,95.55,PA
+Egypt,E27,30,94.15,PA
+Egypt,E27,30,94.07,PA
+Egypt,E27,30,96.73,PA
+Egypt,E27,30,94.07,PA
+Egypt,E27,30,95.80,PA
+Egypt,E28,10,92.04,PA
+Egypt,E28,10,72.46,PET
+Egypt,E28,10,56.06,PET
+Egypt,E28,10,93.23,PA
+Egypt,E28,10,96.08,PA
+Egypt,E28,20,75.36,PS
+Egypt,E28,20,78.51,PP
+Egypt,E28,20,82.67,PLA
+Egypt,E28,20,75.28,PA
+Egypt,E28,30,80.05,PVA
+Egypt,E28,30,78.48,PVA
+Egypt,E28,30,72.27,PE
+Egypt,E28,30,80.69,PVA
+Egypt,E28,30,76.74,PA
+Egypt,E29,10,78.84,PLA
+Egypt,E29,10,80.22,PLA
+Egypt,E29,10,76.98,PLA
+Egypt,E29,10,78.13,PLA
+Egypt,E29,10,78.99,PLA
+Egypt,E29,10,69.46,PS
+Egypt,E29,20,77.43,PE
+Egypt,E29,20,74.25,PE
+Egypt,E29,20,76.56,PE
+Egypt,E29,20,78.27,PE
+Egypt,E29,20,77.39,PE
+Egypt,E29,20,79.71,PE
+Egypt,E29,30,70.77,PLA
+Egypt,E29,30,73.36,PS
+Egypt,E29,30,73.09,PE
+Egypt,E30,10,78.60,PS
+Egypt,E30,10,75.48,PLA
+Egypt,E30,10,78.60,PS
+Egypt,E30,20,69.86,PS
+Egypt,E30,20,96.76,PA
+Egypt,E30,20,96.34,PA
+Egypt,E30,20,95.05,PA
+Egypt,E30,20,97.87,PA
+Egypt,E30,20,96.04,PA
+Egypt,E30,20,97.20,PA
+Egypt,E30,30,97.36,PA
+Egypt,E30,30,97.23,PA
+Egypt,E30,30,96.86,PA
+Egypt,E31,10,68.25,PS
+Egypt,E31,20,73.50,PLA
+Egypt,E31,20,59.65,PET
+Egypt,E31,20,59.19,PE
+Egypt,E31,20,70.07,PS
+Egypt,E31,20,57.90,PET
+Egypt,E31,20,57.95,PET
+Egypt,E31,30,70.10,PE
+Egypt,E31,30,69.48,PS
+Egypt,E32,10,73.16,PET
+Egypt,E32,10,74.91,PS
+Egypt,E32,10,66.42,PS
+Egypt,E32,10,72.50,PS
+Egypt,E32,10,62.92,PS
+Egypt,E32,10,71.70,PS
+Egypt,E32,20,92.23,PA
+Egypt,E32,20,87.44,PA
+Egypt,E32,20,87.88,PA
+Egypt,E32,20,82.64,PA
+Egypt,E32,20,87.68,PA
+Egypt,E32,20,92.42,PA
+Egypt,E32,30,72.90,PS
+Egypt,E32,30,79.72,PS
+Egypt,E32,30,74.28,PS
+Egypt,E32,30,81.76,PVA
+Egypt,E33,10,89.61,PA
+Egypt,E33,10,78.91,PA
+Egypt,E33,10,78.81,PA
+Egypt,E33,10,77.32,PA
+Egypt,E33,10,84.81,PA
+Egypt,E33,10,75.97,PA
+Egypt,E33,20,77.04,PS
+Egypt,E33,20,93.30,PA
+Egypt,E33,20,72.16,PA
+Egypt,E33,20,90.11,PA
+Egypt,E33,20,76.38,PA
+Egypt,E33,20,72.25,PA
+Egypt,E33,30,87.83,PA
+Egypt,E33,30,81.69,PA
+Egypt,E33,30,86.52,PA
+Egypt,E33,30,83.72,PA
+Egypt,E33,30,83.36,PA
+Egypt,E33,30,87.19,PA
+Egypt,E34,10,85.30,PS
+Egypt,E34,10,67.83,PP
+Egypt,E34,10,67.64,PS
+Egypt,E34,10,71.01,PE
+Egypt,E34,10,66.45,PS
+Egypt,E34,20,96.12,PA
+Egypt,E34,20,97.23,PA
+Egypt,E34,20,95.37,PA
+Egypt,E34,20,89.77,PA
+Egypt,E34,20,96.56,PA
+Egypt,E34,30,77.69,PS
+Egypt,E34,30,94.98,PA
+Egypt,E34,30,93.22,PA
+Egypt,E34,30,92.10,PA
+Egypt,E34,30,92.10,PA
+Egypt,E34,30,91.76,PA
+Egypt,E35,10,71.77,PVA
+Egypt,E35,10,66.74,PS
+Egypt,E35,10,82.00,PS
+Egypt,E35,10,74.27,PS
+Egypt,E35,10,78.23,PS
+Egypt,E35,20,87.94,PS
+Egypt,E35,20,90.74,PS
+Egypt,E35,20,77.58,PS
+Egypt,E35,20,95.33,PA
+Egypt,E35,20,95.27,PA
+Egypt,E35,20,95.24,PA
+Egypt,E35,30,72.25,PS
+Egypt,E35,30,77.15,PS
+Egypt,E35,30,75.58,PS
+Egypt,E35,30,75.63,PS
+Egypt,E36,10,74.50,PLA
+Egypt,E36,10,74.33,PLA
+Egypt,E36,10,76.23,PP
+Egypt,E36,10,75.19,PLA
+Egypt,E36,10,71.90,PP
+Egypt,E36,10,74.82,PLA
+Egypt,E36,20,96.31,PA
+Egypt,E36,20,97.31,PA
+Egypt,E36,20,94.65,PA
+Egypt,E36,20,96.03,PA
+Egypt,E36,20,97.14,PA
+Egypt,E36,20,72.57,PLA
+Egypt,E36,30,77.75,PE
+Egypt,E36,30,75.23,PE
+Egypt,E36,30,57.98,PET
+Egypt,E36,30,74.82,PS
+Egypt,E36,30,57.98,PET
+Egypt,E37,10,76.86,PE
+Egypt,E37,10,75.96,PE
+Egypt,E37,10,66.94,PS
+Egypt,E37,10,66.94,PS
+Egypt,E37,10,78.82,PE
+Egypt,E37,10,66.70,PS
+Egypt,E37,20,56.30,PU
+Egypt,E37,20,57.55,PU
+Egypt,E37,20,73.82,PA
+Egypt,E37,20,66.46,PS
+Egypt,E37,30,77.13,PP
+Egypt,E37,30,76.44,PP
+Egypt,E37,30,73.67,PP
+Egypt,E38,10,78.03,PS
+Egypt,E38,10,91.18,PE
+Egypt,E38,10,71.19,PS
+Egypt,E38,10,69.02,PS
+Egypt,E38,20,78.03,PS
+Egypt,E38,20,69.98,PS
+Egypt,E38,20,72.10,PS
+Egypt,E38,30,78.08,PA
+Egypt,E38,30,76.80,PA
+Egypt,E38,30,76.44,PA
+Egypt,E38,30,67.90,PA
+Egypt,E39,10,76.29,PP
+Egypt,E39,10,75.23,PLA
+Egypt,E39,10,70.83,PLA
+Egypt,E39,10,71.50,PLA
+Egypt,E39,20,96.02,PA
+Egypt,E39,30,74.28,PA
+Egypt,E39,30,64.58,PS
+Egypt,E39,30,73.07,PA
+Egypt,E39,30,68.81,PP
+Egypt,E39,30,65.34,PA
+Egypt,E39,30,65.78,PA
+Egypt,E40,10,67.98,PS
+Egypt,E40,10,76.89,PS
+Egypt,E40,10,70.07,PET
+Egypt,E40,20,96.08,PA
+Egypt,E40,20,97.39,PA
+Egypt,E40,20,95.23,PA
+Egypt,E40,20,93.67,PA
+Egypt,E40,20,96.10,PA
+Egypt,E40,20,97.26,PA
+Egypt,E40,30,79.11,PET
+Egypt,E40,30,86.61,PS
+Egypt,E40,30,71.77,PS
+Egypt,E40,30,76.32,PE
+India,I1,20,85.05,PS
+India,I1,20,85.01,PS
+India,I1,20,85.00,PS
+India,I1,20,84.99,PS
+India,I1,20,84.97,PS
+India,I1,20,84.96,PS
+India,I1,20,84.94,PS
+India,I1,20,84.91,PS
+India,I1,20,84.91,PS
+India,I1,20,84.89,PS
+India,I1,30,85.39,PS
+India,I1,30,85.39,PS
+India,I1,30,85.37,PS
+India,I1,30,85.37,PS
+India,I1,30,85.28,PS
+India,I1,30,85.17,PS
+India,I1,30,85.07,PS
+India,I1,30,85.02,PS
+India,I1,30,84.81,PS
+India,I1,30,84.77,PS
+India,I2,30,83.02,PS
+India,I2,30,83.00,PS
+India,I2,30,82.96,PS
+India,I2,30,82.96,PS
+India,I2,30,82.86,PS
+India,I2,30,82.82,PS
+India,I2,30,82.72,PS
+India,I2,30,82.62,PS
+India,I2,30,82.44,PS
+India,I2,30,82.30,PS
+India,I3,20,93.01,PS
+India,I3,20,93.01,PS
+India,I3,20,93.01,PS
+India,I3,20,93.00,PS
+India,I3,20,92.99,PS
+India,I3,20,92.96,PS
+India,I3,20,92.96,PS
+India,I3,20,92.94,PS
+India,I3,20,92.93,PS
+India,I3,20,92.88,PS
+India,I3,30,87.65,PS
+India,I3,30,85.60,PS
+India,I3,30,85.60,PS
+India,I3,30,85.57,PS
+India,I3,30,85.56,PS
+India,I3,30,85.55,PS
+India,I3,30,85.53,PS
+India,I3,30,85.53,PS
+India,I3,30,85.51,PS
+India,I3,30,85.48,PS
+India,I4,10,86.61,PS
+India,I4,10,86.41,PS
+India,I4,10,86.13,PS
+India,I4,10,85.14,PS
+India,I4,10,85.10,PS
+India,I4,10,85.02,PS
+India,I4,10,84.80,PS
+India,I4,10,84.46,PS
+India,I4,10,84.45,PS
+India,I4,10,84.41,PS
+India,I4,30,87.89,PS
+India,I4,30,87.88,PS
+India,I4,30,87.87,PS
+India,I4,30,87.87,PS
+India,I4,30,87.83,PS
+India,I4,30,87.76,PS
+India,I4,30,87.73,PS
+India,I4,30,87.62,PS
+India,I4,30,87.45,PS
+India,I4,30,86.90,PS
+India,I5,20,85.76,PS
+India,I5,20,85.70,PS
+India,I5,20,85.63,PS
+India,I5,20,85.60,PS
+India,I5,20,85.57,PS
+India,I5,20,85.52,PS
+India,I5,20,85.52,PS
+India,I5,20,85.50,PS
+India,I5,20,85.48,PS
+India,I5,20,85.38,PS
+India,I5,30,87.17,PS
+India,I5,30,86.32,PS
+India,I6,10,84.09,PS
+India,I6,20,88.44,PS
+India,I6,20,88.43,PS
+India,I6,20,88.42,PS
+India,I6,20,88.41,PS
+India,I6,20,88.40,PS
+India,I6,20,88.38,PS
+India,I6,20,88.36,PS
+India,I6,20,88.35,PS
+India,I6,20,88.32,PS
+India,I6,20,88.27,PS
+India,I6,30,86.70,PS
+India,I6,30,86.67,PS
+India,I6,30,86.60,PS
+India,I6,30,86.55,PS
+India,I6,30,86.51,PS
+India,I6,30,86.46,PS
+India,I6,30,86.45,PS
+India,I6,30,86.35,PS
+India,I6,30,86.30,PS
+India,I6,30,86.13,PS
+India,I7,10,85.09,PS
+India,I7,10,85.07,PS
+India,I7,10,85.06,PS
+India,I7,10,85.04,PS
+India,I7,10,85.02,PS
+India,I7,10,85.01,PS
+India,I7,10,85.01,PS
+India,I7,10,85.01,PS
+India,I7,10,84.99,PS
+India,I7,10,84.91,PS
+India,I7,20,83.40,PS
+India,I7,20,82.43,PS
+India,I7,30,91.42,PS
+India,I7,30,91.35,PS
+India,I7,30,91.34,PS
+India,I7,30,91.34,PS
+India,I7,30,91.34,PS
+India,I7,30,91.33,PS
+India,I7,30,91.33,PS
+India,I7,30,91.32,PS
+India,I7,30,91.31,PS
+India,I7,30,91.30,PS
+India,I8,10,85.12,PS
+India,I8,10,83.71,PS
+India,I8,10,82.27,PS
+India,I8,10,81.72,PS
+India,I8,10,81.66,PS
+India,I8,10,81.58,PS
+India,I8,10,81.57,PS
+India,I8,10,81.44,PS
+India,I8,10,81.42,PS
+India,I8,10,81.37,PS
+India,I8,20,78.71,PS
+India,I8,20,78.47,PS
+India,I8,20,78.28,PS
+India,I8,20,78.08,PS
+India,I8,20,77.86,PS
+India,I8,20,77.67,PS
+India,I8,20,77.50,PS
+India,I8,20,77.41,PS
+India,I8,20,77.34,PS
+India,I8,20,77.23,PS
+India,I8,30,81.23,PS
+India,I8,30,81.21,PS
+India,I8,30,81.13,PS
+India,I8,30,81.09,PS
+India,I8,30,81.08,PS
+India,I8,30,81.08,PS
+India,I8,30,81.04,PS
+India,I8,30,81.02,PS
+India,I8,30,80.96,PS
+India,I8,30,80.52,PS
+India,I9,10,87.62,PS
+India,I9,10,87.49,PS
+India,I9,10,87.37,PS
+India,I9,10,87.36,PS
+India,I9,10,87.36,PS
+India,I9,10,87.35,PS
+India,I9,10,87.33,PS
+India,I9,10,87.33,PS
+India,I9,10,87.33,PS
+India,I9,10,87.32,PS
+India,I9,20,79.50,PS
+India,I9,20,77.94,PS
+India,I9,20,77.59,PS
+India,I9,20,77.45,PS
+India,I9,20,77.40,PS
+India,I9,20,77.34,PS
+India,I9,20,77.33,PS
+India,I9,20,77.32,PS
+India,I9,20,77.30,PS
+India,I9,20,77.28,PS
+India,I9,30,77.43,PS
+India,I9,30,77.14,PS
+India,I9,30,76.97,PS
+India,I9,30,76.87,PS
+India,I9,30,76.80,PS
+India,I9,30,76.69,PS
+India,I9,30,76.58,PS
+India,I9,30,76.50,PS
+India,I9,30,76.41,PS
+India,I9,30,76.35,PS
+India,I10,10,71.01,PS
+India,I10,10,70.54,PS
+India,I10,10,70.34,PS
+India,I10,10,70.19,PS
+India,I10,10,70.12,PS
+India,I10,10,70.04,PS
+India,I10,10,69.92,PS
+India,I10,10,69.88,PS
+India,I10,10,69.81,PS
+India,I10,10,69.74,PS
+India,I10,20,75.15,PS
+India,I10,20,74.93,PS
+India,I10,20,74.80,PS
+India,I10,20,74.67,PS
+India,I10,20,74.60,PS
+India,I10,20,74.49,PS
+India,I10,20,74.49,PS
+India,I10,20,74.44,PS
+India,I10,20,74.43,PS
+India,I10,20,74.34,PS
+India,I10,30,87.51,PE
+India,I10,30,85.27,PS
+India,I10,30,84.27,PS
+India,I10,30,82.90,PS
+India,I10,30,81.88,PS
+India,I10,30,77.42,PS
+India,I10,30,77.23,PS
+India,I10,30,75.19,PS
+India,I10,30,69.71,PS
+India,I10,30,68.31,PS
+India,I11,10,78.36,PS
+India,I11,10,76.72,PS
+India,I11,10,76.46,PS
+India,I11,10,76.28,PS
+India,I11,10,76.26,PS
+India,I11,10,76.15,PS
+India,I11,10,76.14,PS
+India,I11,10,76.05,PS
+India,I11,10,76.04,PS
+India,I11,10,75.98,PS
+India,I11,20,84.70,PS
+India,I11,20,84.68,PS
+India,I11,20,84.65,PS
+India,I11,20,84.58,PS
+India,I11,20,84.46,PS
+India,I11,20,84.39,PS
+India,I11,20,84.23,PS
+India,I11,20,84.03,PS
+India,I11,20,83.67,PS
+India,I11,20,82.82,PS
+India,I11,30,66.34,PS
+India,I11,30,65.19,PS
+India,I11,30,64.39,PS
+India,I11,30,63.70,PS
+India,I11,30,63.51,PS
+India,I11,30,63.26,PS
+India,I11,30,63.06,PS
+India,I11,30,62.67,PS
+India,I11,30,62.49,PS
+India,I11,30,61.90,PS
+India,I16,10,83.20,PS
+India,I16,10,83.01,PS
+India,I16,20,74.80,PS
+India,I16,20,73.45,PS
+India,I16,20,73.26,PS
+India,I16,20,73.00,PS
+India,I16,20,72.59,PS
+India,I16,20,72.54,PS
+India,I16,20,72.52,PS
+India,I16,20,72.27,PS
+India,I16,20,68.16,PS
+India,I16,20,67.80,PS
+India,I18,10,58.95,PVA
+India,I18,10,57.55,PVA
+India,I18,10,56.95,PVA
+India,I18,10,56.63,PVA
+India,I18,10,55.97,PVA
+India,I18,10,55.72,PVA
+India,I18,10,55.54,PVA
+India,I18,10,54.26,PVA
+India,I18,20,83.34,PS
+India,I18,20,82.39,PS
+India,I18,20,81.98,PS
+India,I18,20,81.63,PS
+India,I21,10,69.80,PS
+India,I21,10,69.35,PS
+India,I21,10,68.80,PS
+India,I21,10,68.74,PS
+India,I21,10,68.18,PS
+India,I21,10,68.11,PS
+India,I21,10,68.05,PS
+India,I21,10,67.93,PS
+India,I21,10,67.44,PS
+India,I21,10,66.94,PS
+India,I21,30,80.28,PS
+India,I22,10,81.70,PS
+India,I22,10,81.69,PS
+India,I22,10,81.68,PS
+India,I22,10,81.67,PS
+India,I22,10,81.64,PS
+India,I22,10,81.64,PS
+India,I22,10,81.64,PS
+India,I22,10,81.63,PS
+India,I22,10,81.62,PS
+India,I22,10,81.60,PS
+India,I22,20,50.43,PE
+India,I23,30,74.78,PP
+India,I23,30,74.30,PP
+India,I24,20,69.52,PS
+India,I24,20,66.77,PS
+India,I24,20,66.57,PS
+India,I24,20,66.34,PS
+India,I24,20,65.90,PS
+India,I24,20,65.30,PS
+India,I24,20,65.09,PS
+India,I24,20,64.50,PS
+India,I24,30,90.78,PP
+India,I24,30,90.66,PP
+India,I24,30,90.41,PP
+India,I24,30,90.24,PP
+India,I24,30,90.12,PP
+India,I24,30,89.93,PP
+India,I24,30,89.78,PP
+India,I24,30,89.52,PP
+India,I24,30,89.48,PP
+India,I24,30,89.35,PP
+India,I28,20,70.04,PVA
+India,I28,20,70.00,PVA
+India,I28,20,69.79,PVA
+India,I28,20,69.66,PVA
+India,I28,20,69.59,PVA
+India,I28,20,69.48,PVA
+India,I28,20,69.27,PVA
+India,I28,20,69.22,PVA
+India,I28,20,69.15,PVA
+India,I28,20,69.05,PVA
+India,I30,10,66.65,PVC
+India,I30,10,66.47,PVC
+India,I30,10,66.31,PVC
+India,I30,10,66.18,PVC
+India,I30,10,66.13,PVC
+India,I30,10,66.09,PVC
+India,I30,30,67.75,PP
+India,I30,30,67.58,PP
+India,I30,30,67.06,PP
+India,I30,30,66.86,PP
+India,I30,30,66.83,PP
+India,I30,30,66.36,PP
+India,I30,30,66.15,PP
+India,I30,30,65.75,PP
+India,I30,30,64.89,PP
+India,I30,30,63.36,PP
+India,I31,30,60.65,PVA
+India,I32,30,68.82,PVA
+India,I32,30,68.77,PVA
+India,I32,30,68.75,PVA
+India,I32,30,68.75,PVA
+India,I32,30,68.73,PVA
+India,I32,30,68.62,PVA
+India,I32,30,68.62,PVA
+India,I32,30,68.61,PVA
+India,I32,30,68.48,PVA
+India,I34,20,87.09,PS
+India,I34,20,85.22,PS
+India,I34,20,85.20,PS
+India,I34,20,85.19,PS
+India,I34,20,85.16,PS
+India,I34,20,85.04,PS
+India,I34,20,85.00,PS
+India,I34,20,84.56,PS
+India,I34,20,84.45,PS
+India,I34,20,84.33,PS
+India,I35,30,76.26,PS
+India,I35,30,75.50,PS
+India,I35,30,75.49,PS
+India,I35,30,75.45,PS
+India,I35,30,75.18,PS
+India,I35,30,75.10,PS
+India,I35,30,74.72,PS
+India,I35,30,74.42,PS
+India,I35,30,74.41,PS
+India,I35,30,73.88,PS
+India,I37,20,66.00,PS
+India,I37,20,65.11,PS
+India,I37,20,65.05,PS
+India,I37,20,64.29,PS
+India,I37,20,63.88,PS
+India,I37,20,63.09,PS
+India,I37,20,62.61,PS
+India,I37,20,62.27,PS
+India,I37,20,61.88,PS
+India,I37,20,58.68,PS
+India,I38,20,73.22,PVC
+India,I38,20,73.19,PVC
+India,I38,20,72.93,PVC
+India,I38,20,72.86,PVC
+India,I38,20,72.80,PVC
+India,I38,20,72.76,PVC
+India,I38,20,72.50,PVC
+India,I38,20,72.47,PVC
+India,I38,20,72.45,PVC
+India,I38,20,72.07,PVC
+Sri Lanka,SL1,10,98.85,PE
+Sri Lanka,SL1,10,98.53,PE
+Sri Lanka,SL1,10,98.16,PP
+Sri Lanka,SL1,10,98.16,PE
+Sri Lanka,SL1,10,96.83,PE
+Sri Lanka,SL1,10,96.03,POM
+Sri Lanka,SL1,10,95.92,PET
+Sri Lanka,SL1,10,95.32,POM
+Sri Lanka,SL1,10,94.53,PA
+Sri Lanka,SL1,10,92.80,PE
+Sri Lanka,SL1,10,91.97,POM
+Sri Lanka,SL1,10,89.77,POM
+Sri Lanka,SL1,10,89.45,POM
+Sri Lanka,SL1,10,89.42,PE
+Sri Lanka,SL1,10,88.62,PA
+Sri Lanka,SL1,10,87.89,PA
+Sri Lanka,SL1,10,86.82,PA
+Sri Lanka,SL1,10,86.61,PE
+Sri Lanka,SL1,10,86.55,PU
+Sri Lanka,SL1,10,86.40,POM
+Sri Lanka,SL1,10,86.33,POM
+Sri Lanka,SL1,10,85.21,PET
+Sri Lanka,SL1,10,84.69,PP
+Sri Lanka,SL1,10,84.66,PE
+Sri Lanka,SL1,10,83.21,Rubber
+Sri Lanka,SL1,10,83.06,Rubber
+Sri Lanka,SL1,10,82.67,Rubber
+Sri Lanka,SL1,10,82.67,Rubber
+Sri Lanka,SL1,10,82.59,PA
+Sri Lanka,SL1,10,81.60,Rubber
+Sri Lanka,SL1,10,81.55,PA
+Sri Lanka,SL1,10,81.46,PE
+Sri Lanka,SL1,10,81.31,Rubber
+Sri Lanka,SL1,10,80.84,PVC
+Sri Lanka,SL1,10,80.54,Rubber
+Sri Lanka,SL1,10,80.49,PA
+Sri Lanka,SL1,10,80.14,Rubber
+Sri Lanka,SL1,20,96.05,PE
+Sri Lanka,SL1,20,94.53,Rubber
+Sri Lanka,SL1,20,88.79,PA
+Sri Lanka,SL1,20,84.89,PP
+Sri Lanka,SL1,20,81.63,PA
+Sri Lanka,SL1,20,81.44,Rubber
+Sri Lanka,SL1,20,81.13,PA
+Sri Lanka,SL1,20,80.81,PVC
+Sri Lanka,SL1,20,80.65,PA
+Sri Lanka,SL1,20,80.33,PE
+Sri Lanka,SL1,20,80.24,Rubber
+Sri Lanka,SL1,30,90.19,PET
+Sri Lanka,SL1,30,89.29,PA
+Sri Lanka,SL1,30,86.47,PA
+Sri Lanka,SL1,30,85.15,PA
+Sri Lanka,SL1,30,84.77,PA
+Sri Lanka,SL1,30,84.46,PA
+Sri Lanka,SL1,30,84.19,PA
+Sri Lanka,SL1,30,82.90,PE
+Sri Lanka,SL1,30,82.56,PA
+Sri Lanka,SL1,30,81.17,Rubber
+Sri Lanka,SL2,10,93.63,PET
+Sri Lanka,SL2,10,92.03,PA
+Sri Lanka,SL2,10,91.96,PA
+Sri Lanka,SL2,10,89.99,PA
+Sri Lanka,SL2,10,89.83,PP
+Sri Lanka,SL2,10,87.14,PET
+Sri Lanka,SL2,10,87.08,PA
+Sri Lanka,SL2,10,86.45,PA
+Sri Lanka,SL2,10,86.06,PA
+Sri Lanka,SL2,10,85.11,Rubber
+Sri Lanka,SL2,10,84.52,PA
+Sri Lanka,SL2,10,84.26,Rubber
+Sri Lanka,SL2,10,84.06,Rubber
+Sri Lanka,SL2,10,84.04,PA
+Sri Lanka,SL2,10,83.99,PA
+Sri Lanka,SL2,10,83.75,PA
+Sri Lanka,SL2,10,83.71,PE
+Sri Lanka,SL2,10,83.29,PA
+Sri Lanka,SL2,10,83.20,Rubber
+Sri Lanka,SL2,10,83.03,PA
+Sri Lanka,SL2,10,81.55,Rubber
+Sri Lanka,SL2,10,81.50,Rubber
+Sri Lanka,SL2,10,81.38,Rubber
+Sri Lanka,SL2,10,81.27,PA
+Sri Lanka,SL2,10,81.24,Rubber
+Sri Lanka,SL2,10,81.09,PA
+Sri Lanka,SL2,10,81.04,Rubber
+Sri Lanka,SL2,10,81.02,PA
+Sri Lanka,SL2,10,80.05,PA
+Sri Lanka,SL2,20,91.28,PET
+Sri Lanka,SL2,20,90.64,PA
+Sri Lanka,SL2,20,90.50,PA
+Sri Lanka,SL2,20,90.19,PA
+Sri Lanka,SL2,20,90.01,PA
+Sri Lanka,SL2,20,89.75,PA
+Sri Lanka,SL2,20,88.89,PA
+Sri Lanka,SL2,20,88.70,PA
+Sri Lanka,SL2,20,88.45,PA
+Sri Lanka,SL2,20,88.24,PA
+Sri Lanka,SL2,20,88.02,PA
+Sri Lanka,SL2,20,87.92,PTFE
+Sri Lanka,SL2,20,87.42,PA
+Sri Lanka,SL2,20,86.96,PU
+Sri Lanka,SL2,20,85.93,POM
+Sri Lanka,SL2,20,85.15,Rubber
+Sri Lanka,SL2,20,84.01,Rubber
+Sri Lanka,SL2,20,83.22,PA
+Sri Lanka,SL2,20,82.97,PA
+Sri Lanka,SL2,20,82.82,Rubber
+Sri Lanka,SL2,20,82.22,PA
+Sri Lanka,SL2,20,82.22,PA
+Sri Lanka,SL2,20,82.18,PTFE
+Sri Lanka,SL2,20,82.15,PA
+Sri Lanka,SL2,20,81.98,Rubber
+Sri Lanka,SL2,20,81.50,Rubber
+Sri Lanka,SL2,20,81.36,PA
+Sri Lanka,SL2,20,80.99,PA
+Sri Lanka,SL2,20,80.94,PTFE
+Sri Lanka,SL2,20,80.38,Rubber
+Sri Lanka,SL2,20,80.30,PA
+Sri Lanka,SL2,20,80.14,Rubber
+Sri Lanka,SL2,20,80.02,PA
+Sri Lanka,SL2,30,97.67,PP
+Sri Lanka,SL2,30,93.90,PP
+Sri Lanka,SL2,30,93.75,PP
+Sri Lanka,SL2,30,87.69,Rubber
+Sri Lanka,SL2,30,84.91,PTFE
+Sri Lanka,SL2,30,84.25,PU
+Sri Lanka,SL2,30,83.79,Rubber
+Sri Lanka,SL2,30,82.90,Rubber
+Sri Lanka,SL2,30,82.35,Rubber
+Sri Lanka,SL2,30,82.17,Rubber
+Sri Lanka,SL2,30,82.13,PA
+Sri Lanka,SL2,30,81.96,Rubber
+Sri Lanka,SL2,30,81.95,PA
+Sri Lanka,SL2,30,81.92,Rubber
+Sri Lanka,SL2,30,81.37,PA
+Sri Lanka,SL2,30,81.25,Rubber
+Sri Lanka,SL2,30,81.13,PA
+Sri Lanka,SL2,30,80.95,PVC
+Sri Lanka,SL2,30,80.62,Rubber
+Sri Lanka,SL2,30,80.38,Rubber
+Sri Lanka,SL2,30,80.26,PU
+Sri Lanka,SL2,30,80.20,PVC
+Sri Lanka,SL3,10,97.72,PE
+Sri Lanka,SL3,10,94.71,PET
+Sri Lanka,SL3,10,94.68,PE
+Sri Lanka,SL3,10,94.45,PE
+Sri Lanka,SL3,10,93.61,PE
+Sri Lanka,SL3,10,92.58,PA
+Sri Lanka,SL3,10,91.00,PA
+Sri Lanka,SL3,10,90.95,PET
+Sri Lanka,SL3,10,88.06,PE
+Sri Lanka,SL3,10,87.33,PE
+Sri Lanka,SL3,10,85.77,PA
+Sri Lanka,SL3,10,85.47,PE
+Sri Lanka,SL3,10,84.44,PET
+Sri Lanka,SL3,10,83.22,Rubber
+Sri Lanka,SL3,10,82.66,PET
+Sri Lanka,SL3,10,82.39,PA
+Sri Lanka,SL3,10,81.96,PET
+Sri Lanka,SL3,10,81.89,PA
+Sri Lanka,SL3,10,80.46,PA
+Sri Lanka,SL3,10,80.41,Rubber
+Sri Lanka,SL3,10,80.04,PP
+Sri Lanka,SL3,20,98.60,PP
+Sri Lanka,SL3,20,97.03,PP
+Sri Lanka,SL3,20,95.18,PET
+Sri Lanka,SL3,20,90.98,Rubber
+Sri Lanka,SL3,20,89.67,Rubber
+Sri Lanka,SL3,20,88.08,PP
+Sri Lanka,SL3,20,87.47,PE
+Sri Lanka,SL3,20,85.14,PVC
+Sri Lanka,SL3,20,85.03,PA
+Sri Lanka,SL3,20,84.86,Rubber
+Sri Lanka,SL3,20,84.85,PET
+Sri Lanka,SL3,20,84.58,Rubber
+Sri Lanka,SL3,20,84.19,PVC
+Sri Lanka,SL3,20,84.07,Rubber
+Sri Lanka,SL3,20,83.28,Rubber
+Sri Lanka,SL3,20,83.07,PP
+Sri Lanka,SL3,20,83.02,PA
+Sri Lanka,SL3,20,82.58,Rubber
+Sri Lanka,SL3,20,82.49,Rubber
+Sri Lanka,SL3,20,82.45,PA
+Sri Lanka,SL3,20,82.44,Rubber
+Sri Lanka,SL3,20,82.44,Rubber
+Sri Lanka,SL3,20,82.23,PU
+Sri Lanka,SL3,20,82.13,Rubber
+Sri Lanka,SL3,20,82.04,PA
+Sri Lanka,SL3,20,81.95,Rubber
+Sri Lanka,SL3,20,81.91,Rubber
+Sri Lanka,SL3,20,81.90,Rubber
+Sri Lanka,SL3,20,81.49,PVC
+Sri Lanka,SL3,20,81.45,Rubber
+Sri Lanka,SL3,20,81.43,Rubber
+Sri Lanka,SL3,20,81.39,PA
+Sri Lanka,SL3,20,81.27,Rubber
+Sri Lanka,SL3,20,81.23,Rubber
+Sri Lanka,SL3,20,81.16,Rubber
+Sri Lanka,SL3,20,81.07,PA
+Sri Lanka,SL3,20,81.07,Rubber
+Sri Lanka,SL3,20,80.96,Rubber
+Sri Lanka,SL3,20,80.76,Rubber
+Sri Lanka,SL3,20,80.71,Rubber
+Sri Lanka,SL3,20,80.65,Rubber
+Sri Lanka,SL3,20,80.45,Rubber
+Sri Lanka,SL3,20,80.44,Rubber
+Sri Lanka,SL3,20,80.38,Rubber
+Sri Lanka,SL3,20,80.36,Rubber
+Sri Lanka,SL3,20,80.34,Rubber
+Sri Lanka,SL3,20,80.34,Rubber
+Sri Lanka,SL3,20,80.18,Rubber
+Sri Lanka,SL3,20,80.16,Rubber
+Sri Lanka,SL3,20,80.12,PP
+Sri Lanka,SL3,30,93.60,PA
+Sri Lanka,SL3,30,92.71,PA
+Sri Lanka,SL3,30,92.65,POM
+Sri Lanka,SL3,30,92.40,PA
+Sri Lanka,SL3,30,92.25,PA
+Sri Lanka,SL3,30,91.38,PA
+Sri Lanka,SL3,30,90.88,PA
+Sri Lanka,SL3,30,90.57,PA
+Sri Lanka,SL3,30,89.93,PA
+Sri Lanka,SL3,30,89.62,PA
+Sri Lanka,SL3,30,89.59,PA
+Sri Lanka,SL3,30,88.15,PA
+Sri Lanka,SL3,30,86.89,PA
+Sri Lanka,SL3,30,86.75,Rubber
+Sri Lanka,SL3,30,86.18,PA
+Sri Lanka,SL3,30,86.18,PA
+Sri Lanka,SL3,30,86.11,PA
+Sri Lanka,SL3,30,86.06,PA
+Sri Lanka,SL3,30,85.78,Rubber
+Sri Lanka,SL3,30,85.68,PA
+Sri Lanka,SL3,30,85.28,PA
+Sri Lanka,SL3,30,85.13,PA
+Sri Lanka,SL3,30,84.48,PA
+Sri Lanka,SL3,30,84.42,Rubber
+Sri Lanka,SL3,30,84.15,Rubber
+Sri Lanka,SL3,30,83.84,Rubber
+Sri Lanka,SL3,30,83.61,Rubber
+Sri Lanka,SL3,30,83.27,PA
+Sri Lanka,SL3,30,83.25,PA
+Sri Lanka,SL3,30,83.16,Rubber
+Sri Lanka,SL3,30,82.99,Rubber
+Sri Lanka,SL3,30,82.60,Rubber
+Sri Lanka,SL3,30,82.52,PE
+Sri Lanka,SL3,30,82.44,Rubber
+Sri Lanka,SL3,30,82.44,Rubber
+Sri Lanka,SL3,30,82.42,PA
+Sri Lanka,SL3,30,82.33,PA
+Sri Lanka,SL3,30,82.12,PA
+Sri Lanka,SL3,30,82.06,PA
+Sri Lanka,SL3,30,82.05,Rubber
+Sri Lanka,SL3,30,81.95,PA
+Sri Lanka,SL3,30,81.86,Rubber
+Sri Lanka,SL3,30,81.54,PET
+Sri Lanka,SL3,30,81.47,Rubber
+Sri Lanka,SL3,30,81.46,PA
+Sri Lanka,SL3,30,81.37,Rubber
+Sri Lanka,SL3,30,81.31,PP
+Sri Lanka,SL3,30,81.06,PE
+Sri Lanka,SL3,30,81.04,PA
+Sri Lanka,SL3,30,80.98,PA
+Sri Lanka,SL3,30,80.93,POM
+Sri Lanka,SL3,30,80.90,PA
+Sri Lanka,SL3,30,80.86,PA
+Sri Lanka,SL3,30,80.82,PA
+Sri Lanka,SL3,30,80.72,PP
+Sri Lanka,SL3,30,80.44,PA
+Sri Lanka,SL3,30,80.43,PE
+Sri Lanka,SL3,30,80.24,Rubber
+Sri Lanka,SL3,30,80.24,Rubber
+Sri Lanka,SL3,30,80.20,Rubber
+Sri Lanka,SL3,30,80.16,PA
+Sri Lanka,SL3,30,80.02,Rubber
+Sri Lanka,SL4,10,93.31,PP
+Sri Lanka,SL4,10,91.30,PA
+Sri Lanka,SL4,10,89.36,PA
+Sri Lanka,SL4,10,86.63,Rubber
+Sri Lanka,SL4,10,86.13,PA
+Sri Lanka,SL4,10,85.03,PE
+Sri Lanka,SL4,10,83.53,PE
+Sri Lanka,SL4,10,83.49,Rubber
+Sri Lanka,SL4,10,82.84,Rubber
+Sri Lanka,SL4,10,82.36,PA
+Sri Lanka,SL4,10,82.29,Rubber
+Sri Lanka,SL4,10,82.29,Rubber
+Sri Lanka,SL4,10,82.07,PE
+Sri Lanka,SL4,10,81.85,PTFE
+Sri Lanka,SL4,10,81.24,PVC
+Sri Lanka,SL4,10,80.78,PA
+Sri Lanka,SL4,20,96.99,POM
+Sri Lanka,SL4,20,90.86,PA
+Sri Lanka,SL4,20,90.61,Rubber
+Sri Lanka,SL4,20,88.42,PA
+Sri Lanka,SL4,20,86.36,ABS
+Sri Lanka,SL4,20,85.03,ABS
+Sri Lanka,SL4,20,84.47,PA
+Sri Lanka,SL4,20,83.07,PTFE
+Sri Lanka,SL4,20,82.84,PA
+Sri Lanka,SL4,20,81.63,PA
+Sri Lanka,SL4,20,80.89,PA
+Sri Lanka,SL4,20,80.81,PP
+Sri Lanka,SL4,20,80.78,PA
+Sri Lanka,SL4,20,80.17,PA
+Sri Lanka,SL4,30,97.09,PE
+Sri Lanka,SL4,30,96.82,PP
+Sri Lanka,SL4,30,91.56,POM
+Sri Lanka,SL4,30,91.13,Rubber
+Sri Lanka,SL4,30,89.95,Rubber
+Sri Lanka,SL4,30,88.98,PA
+Sri Lanka,SL4,30,87.89,PA
+Sri Lanka,SL4,30,87.75,PP
+Sri Lanka,SL4,30,86.42,PA
+Sri Lanka,SL4,30,82.19,PA
+Sri Lanka,SL4,30,81.69,PA
+Sri Lanka,SL4,30,81.47,PA
+Sri Lanka,SL4,30,81.41,Rubber
+Sri Lanka,SL4,30,81.32,PA
+Sri Lanka,SL4,30,80.78,PA
+Sri Lanka,SL4,30,80.73,PA
+Sri Lanka,SL4,30,80.60,PP
+Sri Lanka,SL4,30,80.47,PA
+Sri Lanka,SL4,30,80.26,PP
+Sri Lanka,SL5,10,94.28,PP
+Sri Lanka,SL5,10,88.50,Rubber
+Sri Lanka,SL5,10,85.36,Rubber
+Sri Lanka,SL5,10,84.10,Rubber
+Sri Lanka,SL5,10,82.89,PVC
+Sri Lanka,SL5,10,81.92,PA
+Sri Lanka,SL5,10,81.13,PU
+Sri Lanka,SL5,10,80.70,PA
+Sri Lanka,SL5,10,80.27,PA
+Sri Lanka,SL5,10,80.02,PA
+Sri Lanka,SL5,20,97.94,PS
+Sri Lanka,SL5,20,93.48,PA
+Sri Lanka,SL5,20,92.37,PA
+Sri Lanka,SL5,20,92.01,PA
+Sri Lanka,SL5,20,91.58,PA
+Sri Lanka,SL5,20,91.41,PE
+Sri Lanka,SL5,20,89.63,PA
+Sri Lanka,SL5,20,89.45,PA
+Sri Lanka,SL5,20,88.84,PA
+Sri Lanka,SL5,20,88.37,PA
+Sri Lanka,SL5,20,87.72,PA
+Sri Lanka,SL5,20,87.66,PA
+Sri Lanka,SL5,20,87.39,Rubber
+Sri Lanka,SL5,20,87.37,PA
+Sri Lanka,SL5,20,86.42,PA
+Sri Lanka,SL5,20,86.22,PA
+Sri Lanka,SL5,20,85.04,Rubber
+Sri Lanka,SL5,20,84.94,Rubber
+Sri Lanka,SL5,20,84.83,PA
+Sri Lanka,SL5,20,84.79,PA
+Sri Lanka,SL5,20,84.38,PU
+Sri Lanka,SL5,20,84.17,ABS
+Sri Lanka,SL5,20,84.15,PA
+Sri Lanka,SL5,20,84.14,PA
+Sri Lanka,SL5,20,83.75,PA
+Sri Lanka,SL5,20,83.52,Rubber
+Sri Lanka,SL5,20,83.42,PA
+Sri Lanka,SL5,20,82.96,PA
+Sri Lanka,SL5,20,81.90,Rubber
+Sri Lanka,SL5,20,81.80,Rubber
+Sri Lanka,SL5,20,81.15,PA
+Sri Lanka,SL5,20,80.93,PA
+Sri Lanka,SL5,20,80.84,PA
+Sri Lanka,SL5,20,80.60,Rubber
+Sri Lanka,SL5,20,80.51,PA
+Sri Lanka,SL5,20,80.26,Rubber
+Sri Lanka,SL5,20,80.18,Rubber
+Sri Lanka,SL5,20,80.14,PA
+Sri Lanka,SL5,30,92.70,PE
+Sri Lanka,SL5,30,91.47,PA
+Sri Lanka,SL5,30,89.04,Rubber
+Sri Lanka,SL5,30,88.66,PE
+Sri Lanka,SL5,30,86.94,Rubber
+Sri Lanka,SL5,30,83.89,PVC
+Sri Lanka,SL5,30,83.19,Rubber
+Sri Lanka,SL5,30,83.05,Rubber
+Sri Lanka,SL5,30,83.02,Rubber
+Sri Lanka,SL5,30,82.94,Rubber
+Sri Lanka,SL5,30,82.89,Rubber
+Sri Lanka,SL5,30,82.80,Rubber
+Sri Lanka,SL5,30,82.20,Rubber
+Sri Lanka,SL5,30,81.98,Rubber
+Sri Lanka,SL5,30,81.93,Rubber
+Sri Lanka,SL5,30,81.71,PA
+Sri Lanka,SL5,30,81.44,Rubber
+Sri Lanka,SL5,30,80.89,PA
+Sri Lanka,SL5,30,80.73,Rubber
+Sri Lanka,SL5,30,80.32,Rubber
+Sri Lanka,SL5,30,80.22,PA
+Sri Lanka,SL6,10,92.27,PMMA
+Sri Lanka,SL6,10,92.09,PA
+Sri Lanka,SL6,10,91.31,PA
+Sri Lanka,SL6,10,89.22,PP
+Sri Lanka,SL6,10,89.16,PA
+Sri Lanka,SL6,10,88.43,PA
+Sri Lanka,SL6,10,86.08,ABS
+Sri Lanka,SL6,10,85.65,Rubber
+Sri Lanka,SL6,10,85.40,ABS
+Sri Lanka,SL6,10,84.84,PE
+Sri Lanka,SL6,10,84.30,PA
+Sri Lanka,SL6,10,83.90,Rubber
+Sri Lanka,SL6,10,83.39,PE
+Sri Lanka,SL6,10,83.26,Rubber
+Sri Lanka,SL6,10,82.77,Rubber
+Sri Lanka,SL6,10,82.37,Rubber
+Sri Lanka,SL6,10,82.01,Rubber
+Sri Lanka,SL6,10,81.99,Rubber
+Sri Lanka,SL6,10,81.98,Rubber
+Sri Lanka,SL6,10,81.65,PA
+Sri Lanka,SL6,10,81.61,Rubber
+Sri Lanka,SL6,10,81.60,PA
+Sri Lanka,SL6,10,81.59,Rubber
+Sri Lanka,SL6,10,81.48,PA
+Sri Lanka,SL6,10,81.47,Rubber
+Sri Lanka,SL6,10,81.25,PVC
+Sri Lanka,SL6,10,81.14,Rubber
+Sri Lanka,SL6,10,81.00,Rubber
+Sri Lanka,SL6,10,80.92,Rubber
+Sri Lanka,SL6,10,80.66,Rubber
+Sri Lanka,SL6,10,80.51,Rubber
+Sri Lanka,SL6,10,80.31,Rubber
+Sri Lanka,SL6,10,80.25,Rubber
+Sri Lanka,SL6,10,80.18,Rubber
+Sri Lanka,SL6,10,80.06,PP
+Sri Lanka,SL6,20,91.05,PA
+Sri Lanka,SL6,20,91.00,PA
+Sri Lanka,SL6,20,90.01,PA
+Sri Lanka,SL6,20,89.70,Rubber
+Sri Lanka,SL6,20,89.37,PA
+Sri Lanka,SL6,20,89.00,Rubber
+Sri Lanka,SL6,20,88.56,Rubber
+Sri Lanka,SL6,20,88.53,Rubber
+Sri Lanka,SL6,20,87.99,Rubber
+Sri Lanka,SL6,20,86.95,Rubber
+Sri Lanka,SL6,20,86.56,Rubber
+Sri Lanka,SL6,20,86.53,PA
+Sri Lanka,SL6,20,85.55,Rubber
+Sri Lanka,SL6,20,85.14,PA
+Sri Lanka,SL6,20,84.40,Rubber
+Sri Lanka,SL6,20,84.02,Rubber
+Sri Lanka,SL6,20,83.91,Rubber
+Sri Lanka,SL6,20,83.64,Rubber
+Sri Lanka,SL6,20,83.12,Rubber
+Sri Lanka,SL6,20,82.98,PA
+Sri Lanka,SL6,20,82.54,Rubber
+Sri Lanka,SL6,20,82.51,Rubber
+Sri Lanka,SL6,20,82.49,Rubber
+Sri Lanka,SL6,20,82.33,Rubber
+Sri Lanka,SL6,20,81.90,Rubber
+Sri Lanka,SL6,20,81.81,Rubber
+Sri Lanka,SL6,20,81.50,Rubber
+Sri Lanka,SL6,20,81.10,Rubber
+Sri Lanka,SL6,20,80.52,Rubber
+Sri Lanka,SL6,20,80.20,Rubber
+Sri Lanka,SL6,20,80.16,Rubber
+Sri Lanka,SL6,20,80.13,PA
+Sri Lanka,SL6,20,80.07,Rubber
+Sri Lanka,SL6,30,90.11,PET
+Sri Lanka,SL6,30,90.05,PA
+Sri Lanka,SL6,30,89.10,PA
+Sri Lanka,SL6,30,89.00,Rubber
+Sri Lanka,SL6,30,88.63,PET
+Sri Lanka,SL6,30,87.47,Rubber
+Sri Lanka,SL6,30,86.97,PA
+Sri Lanka,SL6,30,86.87,Rubber
+Sri Lanka,SL6,30,86.63,PE
+Sri Lanka,SL6,30,86.62,Rubber
+Sri Lanka,SL6,30,86.09,Rubber
+Sri Lanka,SL6,30,85.53,Rubber
+Sri Lanka,SL6,30,84.98,Rubber
+Sri Lanka,SL6,30,83.50,Rubber
+Sri Lanka,SL6,30,83.44,PET
+Sri Lanka,SL6,30,83.34,Rubber
+Sri Lanka,SL6,30,83.28,Rubber
+Sri Lanka,SL6,30,82.76,Rubber
+Sri Lanka,SL6,30,82.36,Rubber
+Sri Lanka,SL6,30,82.20,Rubber
+Sri Lanka,SL6,30,82.04,PA
+Sri Lanka,SL6,30,81.51,Rubber
+Sri Lanka,SL6,30,81.40,Rubber
+Sri Lanka,SL6,30,81.19,Rubber
+Sri Lanka,SL6,30,81.10,Rubber
+Sri Lanka,SL6,30,80.93,Rubber
+Sri Lanka,SL6,30,80.93,Rubber
+Sri Lanka,SL6,30,80.67,PET
+Sri Lanka,SL6,30,80.53,Rubber
+Sri Lanka,SL6,30,80.28,PA
+Sri Lanka,SL6,30,80.13,Rubber
+Sri Lanka,SL7,10,98.53,PP
+Sri Lanka,SL7,10,94.56,PET
+Sri Lanka,SL7,10,86.23,Rubber
+Sri Lanka,SL7,10,85.77,PA
+Sri Lanka,SL7,10,85.73,Rubber
+Sri Lanka,SL7,10,83.63,PET
+Sri Lanka,SL7,10,83.25,PA
+Sri Lanka,SL7,10,82.90,PA
+Sri Lanka,SL7,10,82.58,Rubber
+Sri Lanka,SL7,10,81.91,PET
+Sri Lanka,SL7,10,81.72,PTFE
+Sri Lanka,SL7,10,81.16,PA
+Sri Lanka,SL7,10,81.00,PA
+Sri Lanka,SL7,20,90.39,PP
+Sri Lanka,SL7,20,89.57,Rubber
+Sri Lanka,SL7,20,84.27,PA
+Sri Lanka,SL7,20,84.20,PA
+Sri Lanka,SL7,20,84.11,Rubber
+Sri Lanka,SL7,20,82.34,PA
+Sri Lanka,SL7,20,81.88,PA
+Sri Lanka,SL7,20,81.60,Rubber
+Sri Lanka,SL7,20,81.25,Rubber
+Sri Lanka,SL7,20,81.22,PA
+Sri Lanka,SL7,20,80.93,PA
+Sri Lanka,SL7,20,80.91,PA
+Sri Lanka,SL7,20,80.23,Rubber
+Sri Lanka,SL8,10,94.46,PA
+Sri Lanka,SL8,10,93.43,PA
+Sri Lanka,SL8,10,92.67,PA
+Sri Lanka,SL8,10,92.47,PA
+Sri Lanka,SL8,10,92.43,PA
+Sri Lanka,SL8,10,92.05,Rubber
+Sri Lanka,SL8,10,91.85,PA
+Sri Lanka,SL8,10,91.42,Rubber
+Sri Lanka,SL8,10,91.29,PA
+Sri Lanka,SL8,10,91.02,PA
+Sri Lanka,SL8,10,90.98,PA
+Sri Lanka,SL8,10,90.96,PA
+Sri Lanka,SL8,10,90.66,PA
+Sri Lanka,SL8,10,90.03,PA
+Sri Lanka,SL8,10,89.84,PA
+Sri Lanka,SL8,10,89.75,PA
+Sri Lanka,SL8,10,89.69,Rubber
+Sri Lanka,SL8,10,89.66,PA
+Sri Lanka,SL8,10,89.42,PET
+Sri Lanka,SL8,10,89.32,PP
+Sri Lanka,SL8,10,89.23,PA
+Sri Lanka,SL8,10,89.12,Rubber
+Sri Lanka,SL8,10,88.91,Rubber
+Sri Lanka,SL8,10,88.90,Rubber
+Sri Lanka,SL8,10,88.90,Rubber
+Sri Lanka,SL8,10,88.88,PA
+Sri Lanka,SL8,10,88.85,Rubber
+Sri Lanka,SL8,10,88.80,PA
+Sri Lanka,SL8,10,88.80,Rubber
+Sri Lanka,SL8,10,88.45,Rubber
+Sri Lanka,SL8,10,88.41,PA
+Sri Lanka,SL8,10,88.37,PA
+Sri Lanka,SL8,10,88.24,Rubber
+Sri Lanka,SL8,10,88.03,PA
+Sri Lanka,SL8,10,88.01,Rubber
+Sri Lanka,SL8,10,87.78,PA
+Sri Lanka,SL8,10,87.75,PA
+Sri Lanka,SL8,10,87.72,PET
+Sri Lanka,SL8,10,87.56,PA
+Sri Lanka,SL8,10,87.36,Rubber
+Sri Lanka,SL8,10,87.31,Rubber
+Sri Lanka,SL8,10,87.29,PET
+Sri Lanka,SL8,10,87.14,Rubber
+Sri Lanka,SL8,10,86.97,PA
+Sri Lanka,SL8,10,86.93,Rubber
+Sri Lanka,SL8,10,86.88,Rubber
+Sri Lanka,SL8,10,86.86,PA
+Sri Lanka,SL8,10,86.86,Rubber
+Sri Lanka,SL8,10,86.78,PA
+Sri Lanka,SL8,10,86.77,PA
+Sri Lanka,SL8,10,86.72,Rubber
+Sri Lanka,SL8,10,86.68,PA
+Sri Lanka,SL8,10,86.66,Rubber
+Sri Lanka,SL8,10,86.61,Rubber
+Sri Lanka,SL8,10,86.60,Rubber
+Sri Lanka,SL8,10,86.56,Rubber
+Sri Lanka,SL8,10,86.56,Rubber
+Sri Lanka,SL8,10,86.43,Rubber
+Sri Lanka,SL8,10,86.42,PTFE
+Sri Lanka,SL8,10,86.35,PA
+Sri Lanka,SL8,10,86.35,PA
+Sri Lanka,SL8,10,86.33,Rubber
+Sri Lanka,SL8,10,86.29,PA
+Sri Lanka,SL8,10,86.20,PA
+Sri Lanka,SL8,10,86.19,Rubber
+Sri Lanka,SL8,10,86.19,Rubber
+Sri Lanka,SL8,10,86.11,PA
+Sri Lanka,SL8,10,86.07,Rubber
+Sri Lanka,SL8,10,86.04,Rubber
+Sri Lanka,SL8,10,85.87,Rubber
+Sri Lanka,SL8,10,85.85,Rubber
+Sri Lanka,SL8,10,85.72,PET
+Sri Lanka,SL8,10,85.59,Rubber
+Sri Lanka,SL8,10,85.45,Rubber
+Sri Lanka,SL8,10,85.37,Rubber
+Sri Lanka,SL8,10,85.37,Rubber
+Sri Lanka,SL8,10,85.32,Rubber
+Sri Lanka,SL8,10,85.28,Rubber
+Sri Lanka,SL8,10,85.20,Rubber
+Sri Lanka,SL8,10,85.11,Rubber
+Sri Lanka,SL8,10,85.05,PA
+Sri Lanka,SL8,10,84.96,Rubber
+Sri Lanka,SL8,10,84.94,Rubber
+Sri Lanka,SL8,10,84.91,Rubber
+Sri Lanka,SL8,10,84.89,PE
+Sri Lanka,SL8,10,84.76,Rubber
+Sri Lanka,SL8,10,84.72,Rubber
+Sri Lanka,SL8,10,84.61,Rubber
+Sri Lanka,SL8,10,84.56,PA
+Sri Lanka,SL8,10,84.55,PE
+Sri Lanka,SL8,10,84.53,Rubber
+Sri Lanka,SL8,10,84.48,Rubber
+Sri Lanka,SL8,10,84.44,Rubber
+Sri Lanka,SL8,10,84.41,Rubber
+Sri Lanka,SL8,10,84.38,Rubber
+Sri Lanka,SL8,10,84.37,PA
+Sri Lanka,SL8,10,84.37,Rubber
+Sri Lanka,SL8,10,84.30,Rubber
+Sri Lanka,SL8,10,84.29,Rubber
+Sri Lanka,SL8,10,84.29,Rubber
+Sri Lanka,SL8,10,84.16,Rubber
+Sri Lanka,SL8,10,84.06,Rubber
+Sri Lanka,SL8,10,84.05,PET
+Sri Lanka,SL8,10,84.00,Rubber
+Sri Lanka,SL8,10,83.99,Rubber
+Sri Lanka,SL8,10,83.83,Rubber
+Sri Lanka,SL8,10,83.82,Rubber
+Sri Lanka,SL8,10,83.73,Rubber
+Sri Lanka,SL8,10,83.64,PA
+Sri Lanka,SL8,10,83.60,Rubber
+Sri Lanka,SL8,10,83.60,Rubber
+Sri Lanka,SL8,10,83.56,Rubber
+Sri Lanka,SL8,10,83.51,Rubber
+Sri Lanka,SL8,10,83.46,PA
+Sri Lanka,SL8,10,83.40,Rubber
+Sri Lanka,SL8,10,83.38,Rubber
+Sri Lanka,SL8,10,83.37,Rubber
+Sri Lanka,SL8,10,83.34,Rubber
+Sri Lanka,SL8,10,83.33,Rubber
+Sri Lanka,SL8,10,83.30,Rubber
+Sri Lanka,SL8,10,83.25,Rubber
+Sri Lanka,SL8,10,83.25,Rubber
+Sri Lanka,SL8,10,83.23,Rubber
+Sri Lanka,SL8,10,83.18,Rubber
+Sri Lanka,SL8,10,83.16,Rubber
+Sri Lanka,SL8,10,83.10,Rubber
+Sri Lanka,SL8,10,83.08,Rubber
+Sri Lanka,SL8,10,83.08,Rubber
+Sri Lanka,SL8,10,83.06,PA
+Sri Lanka,SL8,10,83.04,Rubber
+Sri Lanka,SL8,10,83.02,Rubber
+Sri Lanka,SL8,10,82.91,Rubber
+Sri Lanka,SL8,10,82.89,Rubber
+Sri Lanka,SL8,10,82.85,Rubber
+Sri Lanka,SL8,10,82.84,Rubber
+Sri Lanka,SL8,10,82.83,PA
+Sri Lanka,SL8,10,82.83,Rubber
+Sri Lanka,SL8,10,82.79,Rubber
+Sri Lanka,SL8,10,82.74,PE
+Sri Lanka,SL8,10,82.62,Rubber
+Sri Lanka,SL8,10,82.58,PA
+Sri Lanka,SL8,10,82.57,Rubber
+Sri Lanka,SL8,10,82.56,Rubber
+Sri Lanka,SL8,10,82.55,PA
+Sri Lanka,SL8,10,82.50,PA
+Sri Lanka,SL8,10,82.49,Rubber
+Sri Lanka,SL8,10,82.45,PA
+Sri Lanka,SL8,10,82.37,Rubber
+Sri Lanka,SL8,10,82.35,Rubber
+Sri Lanka,SL8,10,82.29,Rubber
+Sri Lanka,SL8,10,82.28,Rubber
+Sri Lanka,SL8,10,82.27,PA
+Sri Lanka,SL8,10,82.25,PA
+Sri Lanka,SL8,10,82.18,Rubber
+Sri Lanka,SL8,10,82.18,Rubber
+Sri Lanka,SL8,10,82.17,Rubber
+Sri Lanka,SL8,10,82.16,Rubber
+Sri Lanka,SL8,10,82.16,PTFE
+Sri Lanka,SL8,10,82.14,PA
+Sri Lanka,SL8,10,82.11,Rubber
+Sri Lanka,SL8,10,82.07,Rubber
+Sri Lanka,SL8,10,82.06,Rubber
+Sri Lanka,SL8,10,82.05,PA
+Sri Lanka,SL8,10,81.97,Rubber
+Sri Lanka,SL8,10,81.89,Rubber
+Sri Lanka,SL8,10,81.86,Rubber
+Sri Lanka,SL8,10,81.84,Rubber
+Sri Lanka,SL8,10,81.83,Rubber
+Sri Lanka,SL8,10,81.77,Rubber
+Sri Lanka,SL8,10,81.77,Rubber
+Sri Lanka,SL8,10,81.75,Rubber
+Sri Lanka,SL8,10,81.72,Rubber
+Sri Lanka,SL8,10,81.70,Rubber
+Sri Lanka,SL8,10,81.66,Rubber
+Sri Lanka,SL8,10,81.64,Rubber
+Sri Lanka,SL8,10,81.63,PA
+Sri Lanka,SL8,10,81.63,Rubber
+Sri Lanka,SL8,10,81.61,Rubber
+Sri Lanka,SL8,10,81.60,Rubber
+Sri Lanka,SL8,10,81.60,PA
+Sri Lanka,SL8,10,81.59,Rubber
+Sri Lanka,SL8,10,81.58,Rubber
+Sri Lanka,SL8,10,81.58,Rubber
+Sri Lanka,SL8,10,81.58,Rubber
+Sri Lanka,SL8,10,81.56,PA
+Sri Lanka,SL8,10,81.55,Rubber
+Sri Lanka,SL8,10,81.53,PTFE
+Sri Lanka,SL8,10,81.48,Rubber
+Sri Lanka,SL8,10,81.48,Rubber
+Sri Lanka,SL8,10,81.44,PA
+Sri Lanka,SL8,10,81.44,PA
+Sri Lanka,SL8,10,81.43,PA
+Sri Lanka,SL8,10,81.42,Rubber
+Sri Lanka,SL8,10,81.40,Rubber
+Sri Lanka,SL8,10,81.39,Rubber
+Sri Lanka,SL8,10,81.36,Rubber
+Sri Lanka,SL8,10,81.33,Rubber
+Sri Lanka,SL8,10,81.31,Rubber
+Sri Lanka,SL8,10,81.30,PA
+Sri Lanka,SL8,10,81.26,Rubber
+Sri Lanka,SL8,10,81.23,Rubber
+Sri Lanka,SL8,10,81.22,Rubber
+Sri Lanka,SL8,10,81.21,PA
+Sri Lanka,SL8,10,81.19,Rubber
+Sri Lanka,SL8,10,81.16,Rubber
+Sri Lanka,SL8,10,81.13,Rubber
+Sri Lanka,SL8,10,81.09,Rubber
+Sri Lanka,SL8,10,81.09,PE
+Sri Lanka,SL8,10,81.06,Rubber
+Sri Lanka,SL8,10,81.06,Rubber
+Sri Lanka,SL8,10,81.02,Rubber
+Sri Lanka,SL8,10,81.01,PA
+Sri Lanka,SL8,10,81.01,Rubber
+Sri Lanka,SL8,10,81.00,Rubber
+Sri Lanka,SL8,10,80.97,Rubber
+Sri Lanka,SL8,10,80.96,Rubber
+Sri Lanka,SL8,10,80.95,Rubber
+Sri Lanka,SL8,10,80.86,Rubber
+Sri Lanka,SL8,10,80.82,Rubber
+Sri Lanka,SL8,10,80.77,Rubber
+Sri Lanka,SL8,10,80.70,Rubber
+Sri Lanka,SL8,10,80.67,Rubber
+Sri Lanka,SL8,10,80.66,PE
+Sri Lanka,SL8,10,80.61,PA
+Sri Lanka,SL8,10,80.61,PA
+Sri Lanka,SL8,10,80.58,Rubber
+Sri Lanka,SL8,10,80.55,Rubber
+Sri Lanka,SL8,10,80.47,PA
+Sri Lanka,SL8,10,80.47,PVC
+Sri Lanka,SL8,10,80.45,Rubber
+Sri Lanka,SL8,10,80.44,Rubber
+Sri Lanka,SL8,10,80.44,Rubber
+Sri Lanka,SL8,10,80.43,Rubber
+Sri Lanka,SL8,10,80.38,Rubber
+Sri Lanka,SL8,10,80.38,Rubber
+Sri Lanka,SL8,10,80.37,Rubber
+Sri Lanka,SL8,10,80.36,Rubber
+Sri Lanka,SL8,10,80.36,Rubber
+Sri Lanka,SL8,10,80.34,Rubber
+Sri Lanka,SL8,10,80.33,Rubber
+Sri Lanka,SL8,10,80.33,Rubber
+Sri Lanka,SL8,10,80.32,Rubber
+Sri Lanka,SL8,10,80.31,Rubber
+Sri Lanka,SL8,10,80.30,Rubber
+Sri Lanka,SL8,10,80.30,Rubber
+Sri Lanka,SL8,10,80.29,Rubber
+Sri Lanka,SL8,10,80.24,Rubber
+Sri Lanka,SL8,10,80.23,Rubber
+Sri Lanka,SL8,10,80.17,PA
+Sri Lanka,SL8,10,80.16,Rubber
+Sri Lanka,SL8,10,80.10,Rubber
+Sri Lanka,SL8,10,80.09,Rubber
+Sri Lanka,SL8,10,80.08,Rubber
+Sri Lanka,SL8,10,80.04,Rubber
+Sri Lanka,SL8,10,80.00,PA
+Sri Lanka,SL8,20,96.84,PP
+Sri Lanka,SL8,20,95.02,PE
+Sri Lanka,SL8,20,94.36,Rubber
+Sri Lanka,SL8,20,92.04,PA
+Sri Lanka,SL8,20,91.34,PA
+Sri Lanka,SL8,20,91.15,Rubber
+Sri Lanka,SL8,20,90.46,PA
+Sri Lanka,SL8,20,89.95,PA
+Sri Lanka,SL8,20,89.58,PA
+Sri Lanka,SL8,20,89.41,PA
+Sri Lanka,SL8,20,88.66,Rubber
+Sri Lanka,SL8,20,88.61,PA
+Sri Lanka,SL8,20,88.56,PA
+Sri Lanka,SL8,20,87.94,PA
+Sri Lanka,SL8,20,87.75,PA
+Sri Lanka,SL8,20,87.74,PA
+Sri Lanka,SL8,20,87.41,PA
+Sri Lanka,SL8,20,85.47,Rubber
+Sri Lanka,SL8,20,85.09,PA
+Sri Lanka,SL8,20,84.99,PA
+Sri Lanka,SL8,20,84.91,PA
+Sri Lanka,SL8,20,84.59,PA
+Sri Lanka,SL8,20,84.50,PA
+Sri Lanka,SL8,20,84.49,PU
+Sri Lanka,SL8,20,84.49,Rubber
+Sri Lanka,SL8,20,84.48,PA
+Sri Lanka,SL8,20,84.35,PA
+Sri Lanka,SL8,20,84.13,PE
+Sri Lanka,SL8,20,84.02,Rubber
+Sri Lanka,SL8,20,83.96,Rubber
+Sri Lanka,SL8,20,83.91,Rubber
+Sri Lanka,SL8,20,83.87,PVC
+Sri Lanka,SL8,20,83.86,PA
+Sri Lanka,SL8,20,83.41,Rubber
+Sri Lanka,SL8,20,83.28,PET
+Sri Lanka,SL8,20,83.22,PA
+Sri Lanka,SL8,20,83.16,PA
+Sri Lanka,SL8,20,82.89,Rubber
+Sri Lanka,SL8,20,82.81,PA
+Sri Lanka,SL8,20,82.67,Rubber
+Sri Lanka,SL8,20,82.65,Rubber
+Sri Lanka,SL8,20,82.60,Rubber
+Sri Lanka,SL8,20,82.60,Rubber
+Sri Lanka,SL8,20,82.60,Rubber
+Sri Lanka,SL8,20,82.40,Rubber
+Sri Lanka,SL8,20,82.30,Rubber
+Sri Lanka,SL8,20,82.28,Rubber
+Sri Lanka,SL8,20,82.27,Rubber
+Sri Lanka,SL8,20,82.22,Rubber
+Sri Lanka,SL8,20,82.22,PU
+Sri Lanka,SL8,20,82.18,PU
+Sri Lanka,SL8,20,82.10,Rubber
+Sri Lanka,SL8,20,82.09,Rubber
+Sri Lanka,SL8,20,82.06,PU
+Sri Lanka,SL8,20,82.01,Rubber
+Sri Lanka,SL8,20,82.00,Rubber
+Sri Lanka,SL8,20,81.99,Rubber
+Sri Lanka,SL8,20,81.99,PU
+Sri Lanka,SL8,20,81.97,Rubber
+Sri Lanka,SL8,20,81.96,PE
+Sri Lanka,SL8,20,81.92,PU
+Sri Lanka,SL8,20,81.92,PU
+Sri Lanka,SL8,20,81.91,PU
+Sri Lanka,SL8,20,81.89,PU
+Sri Lanka,SL8,20,81.87,PU
+Sri Lanka,SL8,20,81.79,PU
+Sri Lanka,SL8,20,81.73,PU
+Sri Lanka,SL8,20,81.66,Rubber
+Sri Lanka,SL8,20,81.59,PE
+Sri Lanka,SL8,20,81.51,Rubber
+Sri Lanka,SL8,20,81.50,PE
+Sri Lanka,SL8,20,81.50,Rubber
+Sri Lanka,SL8,20,81.49,Rubber
+Sri Lanka,SL8,20,81.44,Rubber
+Sri Lanka,SL8,20,81.43,PU
+Sri Lanka,SL8,20,81.35,PU
+Sri Lanka,SL8,20,81.32,PU
+Sri Lanka,SL8,20,81.28,PA
+Sri Lanka,SL8,20,81.27,PE
+Sri Lanka,SL8,20,81.23,Rubber
+Sri Lanka,SL8,20,81.17,Rubber
+Sri Lanka,SL8,20,81.17,PU
+Sri Lanka,SL8,20,81.15,PU
+Sri Lanka,SL8,20,81.14,PU
+Sri Lanka,SL8,20,81.13,PA
+Sri Lanka,SL8,20,81.12,PU
+Sri Lanka,SL8,20,80.99,PU
+Sri Lanka,SL8,20,80.99,Rubber
+Sri Lanka,SL8,20,80.98,PU
+Sri Lanka,SL8,20,80.97,PU
+Sri Lanka,SL8,20,80.96,PU
+Sri Lanka,SL8,20,80.92,Rubber
+Sri Lanka,SL8,20,80.90,Rubber
+Sri Lanka,SL8,20,80.89,PU
+Sri Lanka,SL8,20,80.87,Rubber
+Sri Lanka,SL8,20,80.86,PA
+Sri Lanka,SL8,20,80.82,PU
+Sri Lanka,SL8,20,80.76,Rubber
+Sri Lanka,SL8,20,80.75,PE
+Sri Lanka,SL8,20,80.75,Rubber
+Sri Lanka,SL8,20,80.73,PU
+Sri Lanka,SL8,20,80.68,PU
+Sri Lanka,SL8,20,80.67,PU
+Sri Lanka,SL8,20,80.67,Rubber
+Sri Lanka,SL8,20,80.66,Rubber
+Sri Lanka,SL8,20,80.64,Rubber
+Sri Lanka,SL8,20,80.63,PU
+Sri Lanka,SL8,20,80.62,PU
+Sri Lanka,SL8,20,80.60,PU
+Sri Lanka,SL8,20,80.57,Rubber
+Sri Lanka,SL8,20,80.56,PU
+Sri Lanka,SL8,20,80.52,PU
+Sri Lanka,SL8,20,80.49,PU
+Sri Lanka,SL8,20,80.47,PU
+Sri Lanka,SL8,20,80.47,PU
+Sri Lanka,SL8,20,80.45,PU
+Sri Lanka,SL8,20,80.42,PE
+Sri Lanka,SL8,20,80.42,PU
+Sri Lanka,SL8,20,80.42,PU
+Sri Lanka,SL8,20,80.39,PU
+Sri Lanka,SL8,20,80.38,PA
+Sri Lanka,SL8,20,80.38,PU
+Sri Lanka,SL8,20,80.34,PE
+Sri Lanka,SL8,20,80.32,PU
+Sri Lanka,SL8,20,80.32,PU
+Sri Lanka,SL8,20,80.31,PU
+Sri Lanka,SL8,20,80.31,PU
+Sri Lanka,SL8,20,80.30,Rubber
+Sri Lanka,SL8,20,80.29,PU
+Sri Lanka,SL8,20,80.27,PU
+Sri Lanka,SL8,20,80.26,PU
+Sri Lanka,SL8,20,80.25,PU
+Sri Lanka,SL8,20,80.24,PA
+Sri Lanka,SL8,20,80.22,PU
+Sri Lanka,SL8,20,80.21,PU
+Sri Lanka,SL8,20,80.18,PU
+Sri Lanka,SL8,20,80.17,PVC
+Sri Lanka,SL8,20,80.17,Rubber
+Sri Lanka,SL8,20,80.17,PU
+Sri Lanka,SL8,20,80.17,PU
+Sri Lanka,SL8,20,80.16,Rubber
+Sri Lanka,SL8,20,80.15,PU
+Sri Lanka,SL8,20,80.15,PU
+Sri Lanka,SL8,20,80.13,Rubber
+Sri Lanka,SL8,20,80.09,PU
+Sri Lanka,SL8,20,80.09,PU
+Sri Lanka,SL8,20,80.08,PU
+Sri Lanka,SL8,20,80.08,PA
+Sri Lanka,SL8,20,80.07,PU
+Sri Lanka,SL8,20,80.06,Rubber
+Sri Lanka,SL8,20,80.05,PU
+Sri Lanka,SL8,20,80.05,PU
+Sri Lanka,SL8,20,80.04,PU
+Sri Lanka,SL8,20,80.03,Rubber
+Sri Lanka,SL8,30,92.03,PA
+Sri Lanka,SL8,30,87.70,PA
+Sri Lanka,SL8,30,85.27,PA
+Sri Lanka,SL8,30,84.44,PA
+Sri Lanka,SL8,30,84.31,PA
+Sri Lanka,SL8,30,83.53,PA
+Sri Lanka,SL8,30,83.52,PA
+Sri Lanka,SL8,30,83.20,PU
+Sri Lanka,SL8,30,82.79,PA
+Sri Lanka,SL8,30,82.71,PA
+Sri Lanka,SL8,30,82.65,PA
+Sri Lanka,SL8,30,82.42,Rubber
+Sri Lanka,SL8,30,82.40,PA
+Sri Lanka,SL8,30,81.90,PA
+Sri Lanka,SL8,30,81.89,PA
+Sri Lanka,SL8,30,81.79,PU
+Sri Lanka,SL8,30,81.62,Rubber
+Sri Lanka,SL8,30,81.44,Rubber
+Sri Lanka,SL8,30,81.17,PVC
+Sri Lanka,SL8,30,81.07,Rubber
+Sri Lanka,SL8,30,80.69,PA
+Sri Lanka,SL8,30,80.69,PA
+Sri Lanka,SL8,30,80.67,PA
+Sri Lanka,SL8,30,80.50,Rubber
+Sri Lanka,SL8,30,80.36,PA
+Sri Lanka,SL8,30,80.33,PA
+Sri Lanka,SL8,30,80.17,PU
+Sri Lanka,SL9,10,91.46,Rubber
+Sri Lanka,SL9,10,89.65,PA
+Sri Lanka,SL9,10,86.44,Rubber
+Sri Lanka,SL9,10,85.90,PA
+Sri Lanka,SL9,10,84.96,Rubber
+Sri Lanka,SL9,10,84.78,Rubber
+Sri Lanka,SL9,10,84.54,PA
+Sri Lanka,SL9,10,84.52,Rubber
+Sri Lanka,SL9,10,84.35,Rubber
+Sri Lanka,SL9,10,84.31,Rubber
+Sri Lanka,SL9,10,84.22,Rubber
+Sri Lanka,SL9,10,82.85,Rubber
+Sri Lanka,SL9,10,82.70,Rubber
+Sri Lanka,SL9,10,82.40,Rubber
+Sri Lanka,SL9,10,82.26,Rubber
+Sri Lanka,SL9,10,82.17,Rubber
+Sri Lanka,SL9,10,81.64,Rubber
+Sri Lanka,SL9,10,80.94,Rubber
+Sri Lanka,SL9,10,80.90,Rubber
+Sri Lanka,SL9,10,80.76,Rubber
+Sri Lanka,SL9,20,92.13,PP
+Sri Lanka,SL9,20,88.92,PA
+Sri Lanka,SL9,20,87.87,Rubber
+Sri Lanka,SL9,20,86.48,PA
+Sri Lanka,SL9,20,86.42,PA
+Sri Lanka,SL9,20,86.35,Rubber
+Sri Lanka,SL9,20,86.31,Rubber
+Sri Lanka,SL9,20,85.80,PA
+Sri Lanka,SL9,20,85.11,PA
+Sri Lanka,SL9,20,85.07,Rubber
+Sri Lanka,SL9,20,84.72,Rubber
+Sri Lanka,SL9,20,84.57,Rubber
+Sri Lanka,SL9,20,84.31,Rubber
+Sri Lanka,SL9,20,83.28,Rubber
+Sri Lanka,SL9,20,83.22,Rubber
+Sri Lanka,SL9,20,83.10,Rubber
+Sri Lanka,SL9,20,82.88,Rubber
+Sri Lanka,SL9,20,82.78,Rubber
+Sri Lanka,SL9,20,82.59,Rubber
+Sri Lanka,SL9,20,81.84,Rubber
+Sri Lanka,SL9,20,81.49,Rubber
+Sri Lanka,SL9,20,81.34,Rubber
+Sri Lanka,SL9,20,80.97,PA
+Sri Lanka,SL9,20,80.78,PE
+Sri Lanka,SL9,20,80.58,PA
+Sri Lanka,SL9,20,80.35,Rubber
+Sri Lanka,SL9,20,80.28,Rubber
+Sri Lanka,SL9,20,80.19,PA
+Sri Lanka,SL9,30,94.72,PA
+Sri Lanka,SL9,30,94.26,PET
+Sri Lanka,SL9,30,93.70,PA
+Sri Lanka,SL9,30,93.57,PA
+Sri Lanka,SL9,30,93.09,PA
+Sri Lanka,SL9,30,92.86,PA
+Sri Lanka,SL9,30,92.81,PET
+Sri Lanka,SL9,30,92.40,PA
+Sri Lanka,SL9,30,91.57,PP
+Sri Lanka,SL9,30,91.50,PA
+Sri Lanka,SL9,30,91.48,PA
+Sri Lanka,SL9,30,91.32,PA
+Sri Lanka,SL9,30,90.22,PA
+Sri Lanka,SL9,30,89.17,PET
+Sri Lanka,SL9,30,88.96,PA
+Sri Lanka,SL9,30,88.76,PA
+Sri Lanka,SL9,30,88.15,PA
+Sri Lanka,SL9,30,87.80,PA
+Sri Lanka,SL9,30,87.60,Rubber
+Sri Lanka,SL9,30,87.59,PA
+Sri Lanka,SL9,30,87.19,PA
+Sri Lanka,SL9,30,87.02,PA
+Sri Lanka,SL9,30,85.60,PET
+Sri Lanka,SL9,30,85.08,Rubber
+Sri Lanka,SL9,30,84.97,Rubber
+Sri Lanka,SL9,30,84.22,Rubber
+Sri Lanka,SL9,30,83.60,PA
+Sri Lanka,SL9,30,83.21,Rubber
+Sri Lanka,SL9,30,83.13,PA
+Sri Lanka,SL9,30,82.91,Rubber
+Sri Lanka,SL9,30,82.61,Rubber
+Sri Lanka,SL9,30,82.49,Rubber
+Sri Lanka,SL9,30,82.12,PA
+Sri Lanka,SL9,30,81.93,Rubber
+Sri Lanka,SL9,30,81.47,Rubber
+Sri Lanka,SL9,30,81.45,PP
+Sri Lanka,SL9,30,81.09,PA
+Sri Lanka,SL9,30,81.04,PA
+Sri Lanka,SL9,30,81.00,Rubber
+Sri Lanka,SL9,30,80.94,PET
+Sri Lanka,SL9,30,80.86,PP
+Sri Lanka,SL9,30,80.85,Rubber
+Sri Lanka,SL9,30,80.35,Rubber
+Sri Lanka,SL9,30,80.30,Rubber
+Sri Lanka,SL10,10,95.35,PET
+Sri Lanka,SL10,10,95.15,PE
+Sri Lanka,SL10,10,93.40,PA
+Sri Lanka,SL10,10,92.94,PA
+Sri Lanka,SL10,10,92.25,PA
+Sri Lanka,SL10,10,92.19,PA
+Sri Lanka,SL10,10,89.51,PP
+Sri Lanka,SL10,10,89.05,PA
+Sri Lanka,SL10,10,88.23,PA
+Sri Lanka,SL10,10,87.68,PA
+Sri Lanka,SL10,10,87.24,PA
+Sri Lanka,SL10,10,85.88,PU
+Sri Lanka,SL10,10,85.42,PA
+Sri Lanka,SL10,10,84.12,PA
+Sri Lanka,SL10,10,83.83,PA
+Sri Lanka,SL10,10,82.92,ABS
+Sri Lanka,SL10,10,81.04,Rubber
+Sri Lanka,SL10,10,80.34,PA
+Sri Lanka,SL10,10,80.10,PP
+Sri Lanka,SL10,20,98.91,PP
+Sri Lanka,SL10,20,98.25,PP
+Sri Lanka,SL10,20,92.96,PP
+Sri Lanka,SL10,20,92.69,PA
+Sri Lanka,SL10,20,90.11,Rubber
+Sri Lanka,SL10,20,88.78,Rubber
+Sri Lanka,SL10,20,88.17,Rubber
+Sri Lanka,SL10,20,87.60,PET
+Sri Lanka,SL10,20,87.60,PA
+Sri Lanka,SL10,20,87.32,Rubber
+Sri Lanka,SL10,20,87.14,Rubber
+Sri Lanka,SL10,20,87.06,Rubber
+Sri Lanka,SL10,20,86.69,Rubber
+Sri Lanka,SL10,20,86.37,PA
+Sri Lanka,SL10,20,86.09,Rubber
+Sri Lanka,SL10,20,86.06,Rubber
+Sri Lanka,SL10,20,85.97,Rubber
+Sri Lanka,SL10,20,85.76,Rubber
+Sri Lanka,SL10,20,85.60,PA
+Sri Lanka,SL10,20,85.59,PA
+Sri Lanka,SL10,20,85.47,Rubber
+Sri Lanka,SL10,20,85.47,Rubber
+Sri Lanka,SL10,20,85.28,Rubber
+Sri Lanka,SL10,20,85.13,Rubber
+Sri Lanka,SL10,20,84.98,Rubber
+Sri Lanka,SL10,20,84.98,Rubber
+Sri Lanka,SL10,20,84.94,Rubber
+Sri Lanka,SL10,20,84.50,Rubber
+Sri Lanka,SL10,20,84.48,Rubber
+Sri Lanka,SL10,20,84.47,Rubber
+Sri Lanka,SL10,20,84.38,PA
+Sri Lanka,SL10,20,84.28,Rubber
+Sri Lanka,SL10,20,84.10,Rubber
+Sri Lanka,SL10,20,83.99,Rubber
+Sri Lanka,SL10,20,83.97,Rubber
+Sri Lanka,SL10,20,83.30,Rubber
+Sri Lanka,SL10,20,83.28,Rubber
+Sri Lanka,SL10,20,83.24,Rubber
+Sri Lanka,SL10,20,83.09,Rubber
+Sri Lanka,SL10,20,83.07,Rubber
+Sri Lanka,SL10,20,83.02,Rubber
+Sri Lanka,SL10,20,82.93,Rubber
+Sri Lanka,SL10,20,82.92,Rubber
+Sri Lanka,SL10,20,82.89,Rubber
+Sri Lanka,SL10,20,82.60,PA
+Sri Lanka,SL10,20,82.37,Rubber
+Sri Lanka,SL10,20,82.36,PE
+Sri Lanka,SL10,20,82.35,Rubber
+Sri Lanka,SL10,20,82.34,Rubber
+Sri Lanka,SL10,20,82.19,Rubber
+Sri Lanka,SL10,20,82.07,Rubber
+Sri Lanka,SL10,20,82.03,Rubber
+Sri Lanka,SL10,20,81.97,Rubber
+Sri Lanka,SL10,20,81.87,Rubber
+Sri Lanka,SL10,20,81.79,Rubber
+Sri Lanka,SL10,20,81.63,Rubber
+Sri Lanka,SL10,20,81.33,Rubber
+Sri Lanka,SL10,20,81.19,Rubber
+Sri Lanka,SL10,20,80.96,Rubber
+Sri Lanka,SL10,20,80.68,Rubber
+Sri Lanka,SL10,20,80.57,Rubber
+Sri Lanka,SL10,20,80.53,Rubber
+Sri Lanka,SL10,20,80.40,Rubber
+Sri Lanka,SL10,20,80.33,Rubber
+Sri Lanka,SL10,20,80.33,Rubber
+Sri Lanka,SL10,20,80.22,Rubber
+Sri Lanka,SL10,20,80.22,Rubber
+Sri Lanka,SL10,20,80.21,Rubber
+Sri Lanka,SL10,20,80.16,Rubber
+Sri Lanka,SL10,20,80.14,Rubber
+Sri Lanka,SL10,20,80.08,Rubber
+Sri Lanka,SL10,20,80.03,Rubber
+Sri Lanka,SL10,30,97.69,PP
+Sri Lanka,SL10,30,94.22,PP
+Sri Lanka,SL10,30,94.00,PP
+Sri Lanka,SL10,30,92.16,PA
+Sri Lanka,SL10,30,92.00,PA
+Sri Lanka,SL10,30,91.21,PA
+Sri Lanka,SL10,30,88.87,PP
+Sri Lanka,SL10,30,88.85,PA
+Sri Lanka,SL10,30,88.70,PA
+Sri Lanka,SL10,30,86.48,PA
+Sri Lanka,SL10,30,85.71,PA
+Sri Lanka,SL10,30,83.71,PA
+Sri Lanka,SL10,30,83.68,PA
+Sri Lanka,SL10,30,83.38,Rubber
+Sri Lanka,SL10,30,81.82,PA
+Sri Lanka,SL10,30,81.74,Rubber
+Sri Lanka,SL10,30,81.55,PP
+Sri Lanka,SL10,30,81.27,PP
+Sri Lanka,SL10,30,81.18,Rubber
+Sri Lanka,SL10,30,81.01,PET
+Sri Lanka,SL10,30,80.81,PA
+Sri Lanka,SL10,30,80.78,PP
+Sri Lanka,SL10,30,80.29,Rubber
+Sri Lanka,SL10,30,80.13,PP
+Sri Lanka,SL11,10,95.76,PE
+Sri Lanka,SL11,10,94.57,PET
+Sri Lanka,SL11,10,93.95,PA
+Sri Lanka,SL11,10,93.65,PA
+Sri Lanka,SL11,10,93.64,PA
+Sri Lanka,SL11,10,93.32,PA
+Sri Lanka,SL11,10,92.60,PA
+Sri Lanka,SL11,10,91.96,PA
+Sri Lanka,SL11,10,91.96,PA
+Sri Lanka,SL11,10,91.66,PA
+Sri Lanka,SL11,10,91.15,PA
+Sri Lanka,SL11,10,91.09,PA
+Sri Lanka,SL11,10,90.77,PA
+Sri Lanka,SL11,10,90.37,PA
+Sri Lanka,SL11,10,89.64,PA
+Sri Lanka,SL11,10,89.15,PA
+Sri Lanka,SL11,10,89.06,PA
+Sri Lanka,SL11,10,88.85,PA
+Sri Lanka,SL11,10,88.82,PA
+Sri Lanka,SL11,10,87.85,PA
+Sri Lanka,SL11,10,87.60,PET
+Sri Lanka,SL11,10,87.60,PA
+Sri Lanka,SL11,10,86.84,PA
+Sri Lanka,SL11,10,86.25,PA
+Sri Lanka,SL11,10,85.59,Rubber
+Sri Lanka,SL11,10,85.45,PA
+Sri Lanka,SL11,10,84.50,PA
+Sri Lanka,SL11,10,84.05,PA
+Sri Lanka,SL11,10,84.01,PA
+Sri Lanka,SL11,10,83.93,PA
+Sri Lanka,SL11,10,83.48,PA
+Sri Lanka,SL11,10,82.73,Rubber
+Sri Lanka,SL11,10,82.47,PA
+Sri Lanka,SL11,10,82.04,PA
+Sri Lanka,SL11,10,81.89,PA
+Sri Lanka,SL11,10,81.48,PA
+Sri Lanka,SL11,10,81.36,PA
+Sri Lanka,SL11,10,81.30,Rubber
+Sri Lanka,SL11,10,81.25,PA
+Sri Lanka,SL11,10,81.00,Rubber
+Sri Lanka,SL11,20,98.65,PP
+Sri Lanka,SL11,20,96.92,PE
+Sri Lanka,SL11,20,94.90,PE
+Sri Lanka,SL11,20,93.86,PE
+Sri Lanka,SL11,20,93.65,PA
+Sri Lanka,SL11,20,93.62,PA
+Sri Lanka,SL11,20,93.53,PA
+Sri Lanka,SL11,20,93.09,PA
+Sri Lanka,SL11,20,92.49,PA
+Sri Lanka,SL11,20,92.14,PA
+Sri Lanka,SL11,20,91.95,PA
+Sri Lanka,SL11,20,91.62,PA
+Sri Lanka,SL11,20,91.60,PA
+Sri Lanka,SL11,20,91.20,PE
+Sri Lanka,SL11,20,91.11,PA
+Sri Lanka,SL11,20,90.74,PA
+Sri Lanka,SL11,20,90.43,PA
+Sri Lanka,SL11,20,90.33,PA
+Sri Lanka,SL11,20,90.02,PA
+Sri Lanka,SL11,20,89.89,PA
+Sri Lanka,SL11,20,89.65,PA
+Sri Lanka,SL11,20,89.16,PU
+Sri Lanka,SL11,20,88.12,PA
+Sri Lanka,SL11,20,87.96,PA
+Sri Lanka,SL11,20,87.72,PA
+Sri Lanka,SL11,20,87.27,PA
+Sri Lanka,SL11,20,86.58,PA
+Sri Lanka,SL11,20,86.58,PA
+Sri Lanka,SL11,20,86.27,PA
+Sri Lanka,SL11,20,85.84,PA
+Sri Lanka,SL11,20,85.58,PA
+Sri Lanka,SL11,20,85.25,Rubber
+Sri Lanka,SL11,20,85.10,PA
+Sri Lanka,SL11,20,84.98,PA
+Sri Lanka,SL11,20,84.61,PU
+Sri Lanka,SL11,20,84.37,PE
+Sri Lanka,SL11,20,84.36,ABS
+Sri Lanka,SL11,20,84.30,Rubber
+Sri Lanka,SL11,20,83.25,PA
+Sri Lanka,SL11,20,83.09,Rubber
+Sri Lanka,SL11,20,82.74,PA
+Sri Lanka,SL11,20,82.72,PA
+Sri Lanka,SL11,20,82.31,PA
+Sri Lanka,SL11,20,82.19,PA
+Sri Lanka,SL11,20,82.10,Rubber
+Sri Lanka,SL11,20,82.08,PP
+Sri Lanka,SL11,20,82.05,PA
+Sri Lanka,SL11,20,81.73,Rubber
+Sri Lanka,SL11,20,81.66,PET
+Sri Lanka,SL11,20,81.64,PA
+Sri Lanka,SL11,20,81.29,Rubber
+Sri Lanka,SL11,20,81.25,Rubber
+Sri Lanka,SL11,20,80.76,ABS
+Sri Lanka,SL11,20,80.13,PP
+Sri Lanka,SL11,30,97.16,PP
+Sri Lanka,SL11,30,94.97,PP
+Sri Lanka,SL11,30,94.11,PA
+Sri Lanka,SL11,30,93.62,Rubber
+Sri Lanka,SL11,30,93.43,Rubber
+Sri Lanka,SL11,30,92.90,PA
+Sri Lanka,SL11,30,91.77,PA
+Sri Lanka,SL11,30,90.97,PA
+Sri Lanka,SL11,30,90.74,Rubber
+Sri Lanka,SL11,30,90.59,PA
+Sri Lanka,SL11,30,89.68,PA
+Sri Lanka,SL11,30,88.65,PA
+Sri Lanka,SL11,30,87.91,PA
+Sri Lanka,SL11,30,87.87,Rubber
+Sri Lanka,SL11,30,87.36,PE
+Sri Lanka,SL11,30,87.30,Rubber
+Sri Lanka,SL11,30,86.82,PA
+Sri Lanka,SL11,30,85.58,PA
+Sri Lanka,SL11,30,85.51,PA
+Sri Lanka,SL11,30,83.94,Rubber
+Sri Lanka,SL11,30,83.81,Rubber
+Sri Lanka,SL11,30,83.62,PA
+Sri Lanka,SL11,30,83.57,Rubber
+Sri Lanka,SL11,30,83.24,PP
+Sri Lanka,SL11,30,83.05,Rubber
+Sri Lanka,SL11,30,82.57,PA
+Sri Lanka,SL11,30,82.53,Rubber
+Sri Lanka,SL11,30,82.37,Rubber
+Sri Lanka,SL11,30,82.08,Rubber
+Sri Lanka,SL11,30,81.36,Rubber
+Sri Lanka,SL11,30,81.07,Rubber
+Sri Lanka,SL11,30,81.00,PA
+Sri Lanka,SL11,30,80.84,Rubber
+Sri Lanka,SL11,30,80.61,Rubber
+Sri Lanka,SL11,30,80.39,Rubber
+Sri Lanka,SL11,30,80.21,Rubber
+Sri Lanka,SL12,10,94.01,POM
+Sri Lanka,SL12,10,93.80,Rubber
+Sri Lanka,SL12,10,92.94,PA
+Sri Lanka,SL12,10,92.18,PA
+Sri Lanka,SL12,10,91.09,PA
+Sri Lanka,SL12,10,90.99,PA
+Sri Lanka,SL12,10,90.84,PA
+Sri Lanka,SL12,10,90.78,PA
+Sri Lanka,SL12,10,90.61,PA
+Sri Lanka,SL12,10,90.49,PA
+Sri Lanka,SL12,10,90.23,PA
+Sri Lanka,SL12,10,89.64,PA
+Sri Lanka,SL12,10,89.64,PA
+Sri Lanka,SL12,10,89.58,Rubber
+Sri Lanka,SL12,10,89.37,PA
+Sri Lanka,SL12,10,89.11,Rubber
+Sri Lanka,SL12,10,88.70,Rubber
+Sri Lanka,SL12,10,88.32,POM
+Sri Lanka,SL12,10,88.21,PVC
+Sri Lanka,SL12,10,88.17,PA
+Sri Lanka,SL12,10,87.95,Rubber
+Sri Lanka,SL12,10,87.77,PA
+Sri Lanka,SL12,10,87.59,PA
+Sri Lanka,SL12,10,87.41,PET
+Sri Lanka,SL12,10,87.38,PA
+Sri Lanka,SL12,10,87.29,Rubber
+Sri Lanka,SL12,10,87.17,PA
+Sri Lanka,SL12,10,86.58,Rubber
+Sri Lanka,SL12,10,86.27,PA
+Sri Lanka,SL12,10,86.19,Rubber
+Sri Lanka,SL12,10,86.06,Rubber
+Sri Lanka,SL12,10,85.95,PA
+Sri Lanka,SL12,10,85.89,PA
+Sri Lanka,SL12,10,85.85,PA
+Sri Lanka,SL12,10,85.82,Rubber
+Sri Lanka,SL12,10,85.61,PA
+Sri Lanka,SL12,10,85.58,Rubber
+Sri Lanka,SL12,10,85.45,Rubber
+Sri Lanka,SL12,10,85.44,PA
+Sri Lanka,SL12,10,85.42,PA
+Sri Lanka,SL12,10,85.29,PET
+Sri Lanka,SL12,10,85.19,Rubber
+Sri Lanka,SL12,10,85.18,Rubber
+Sri Lanka,SL12,10,85.13,PA
+Sri Lanka,SL12,10,85.10,Rubber
+Sri Lanka,SL12,10,84.99,Rubber
+Sri Lanka,SL12,10,84.93,Rubber
+Sri Lanka,SL12,10,84.88,Rubber
+Sri Lanka,SL12,10,84.87,PA
+Sri Lanka,SL12,10,84.68,Rubber
+Sri Lanka,SL12,10,84.52,PP
+Sri Lanka,SL12,10,84.37,PA
+Sri Lanka,SL12,10,84.36,Rubber
+Sri Lanka,SL12,10,84.28,PA
+Sri Lanka,SL12,10,84.08,PA
+Sri Lanka,SL12,10,84.05,PA
+Sri Lanka,SL12,10,83.95,Rubber
+Sri Lanka,SL12,10,83.29,Rubber
+Sri Lanka,SL12,10,83.16,Rubber
+Sri Lanka,SL12,10,83.12,Rubber
+Sri Lanka,SL12,10,82.90,ABS
+Sri Lanka,SL12,10,82.82,Rubber
+Sri Lanka,SL12,10,82.76,PA
+Sri Lanka,SL12,10,82.73,Rubber
+Sri Lanka,SL12,10,82.69,Rubber
+Sri Lanka,SL12,10,82.67,PA
+Sri Lanka,SL12,10,82.66,PA
+Sri Lanka,SL12,10,82.63,Rubber
+Sri Lanka,SL12,10,82.61,Rubber
+Sri Lanka,SL12,10,82.58,Rubber
+Sri Lanka,SL12,10,82.55,Rubber
+Sri Lanka,SL12,10,82.53,Rubber
+Sri Lanka,SL12,10,82.38,Rubber
+Sri Lanka,SL12,10,82.23,Rubber
+Sri Lanka,SL12,10,82.22,PE
+Sri Lanka,SL12,10,82.22,Rubber
+Sri Lanka,SL12,10,82.15,Rubber
+Sri Lanka,SL12,10,82.15,Rubber
+Sri Lanka,SL12,10,82.14,PVC
+Sri Lanka,SL12,10,82.11,Rubber
+Sri Lanka,SL12,10,82.11,Rubber
+Sri Lanka,SL12,10,81.80,Rubber
+Sri Lanka,SL12,10,81.74,Rubber
+Sri Lanka,SL12,10,81.63,Rubber
+Sri Lanka,SL12,10,81.57,Rubber
+Sri Lanka,SL12,10,81.56,PA
+Sri Lanka,SL12,10,81.51,Rubber
+Sri Lanka,SL12,10,81.49,Rubber
+Sri Lanka,SL12,10,81.46,PA
+Sri Lanka,SL12,10,81.41,Rubber
+Sri Lanka,SL12,10,81.38,Rubber
+Sri Lanka,SL12,10,81.38,Rubber
+Sri Lanka,SL12,10,81.29,Rubber
+Sri Lanka,SL12,10,81.18,Rubber
+Sri Lanka,SL12,10,81.16,Rubber
+Sri Lanka,SL12,10,81.10,Rubber
+Sri Lanka,SL12,10,80.99,Rubber
+Sri Lanka,SL12,10,80.89,Rubber
+Sri Lanka,SL12,10,80.86,Rubber
+Sri Lanka,SL12,10,80.84,Rubber
+Sri Lanka,SL12,10,80.75,Rubber
+Sri Lanka,SL12,10,80.64,Rubber
+Sri Lanka,SL12,10,80.61,Rubber
+Sri Lanka,SL12,10,80.61,Rubber
+Sri Lanka,SL12,10,80.59,Rubber
+Sri Lanka,SL12,10,80.58,Rubber
+Sri Lanka,SL12,10,80.56,Rubber
+Sri Lanka,SL12,10,80.55,Rubber
+Sri Lanka,SL12,10,80.52,Rubber
+Sri Lanka,SL12,10,80.48,Rubber
+Sri Lanka,SL12,10,80.46,Rubber
+Sri Lanka,SL12,10,80.40,Rubber
+Sri Lanka,SL12,10,80.34,Rubber
+Sri Lanka,SL12,10,80.34,Rubber
+Sri Lanka,SL12,10,80.11,Rubber
+Sri Lanka,SL12,20,95.34,PET
+Sri Lanka,SL12,20,94.84,PA
+Sri Lanka,SL12,20,93.35,PA
+Sri Lanka,SL12,20,92.45,PA
+Sri Lanka,SL12,20,92.28,PP
+Sri Lanka,SL12,20,90.82,PA
+Sri Lanka,SL12,20,86.41,Rubber
+Sri Lanka,SL12,20,85.69,PA
+Sri Lanka,SL12,20,85.59,Rubber
+Sri Lanka,SL12,20,83.87,PA
+Sri Lanka,SL12,20,83.54,Rubber
+Sri Lanka,SL12,20,83.09,PET
+Sri Lanka,SL12,20,82.21,PA
+Sri Lanka,SL12,20,81.29,PA
+Sri Lanka,SL12,30,94.57,PA
+Sri Lanka,SL12,30,93.72,PA
+Sri Lanka,SL12,30,93.20,PA
+Sri Lanka,SL12,30,93.13,PA
+Sri Lanka,SL12,30,92.75,PA
+Sri Lanka,SL12,30,92.49,PA
+Sri Lanka,SL12,30,91.97,PA
+Sri Lanka,SL12,30,91.74,PA
+Sri Lanka,SL12,30,91.70,PET
+Sri Lanka,SL12,30,91.59,PA
+Sri Lanka,SL12,30,91.52,PA
+Sri Lanka,SL12,30,91.38,PA
+Sri Lanka,SL12,30,91.06,PA
+Sri Lanka,SL12,30,90.24,PA
+Sri Lanka,SL12,30,90.21,PA
+Sri Lanka,SL12,30,89.99,PA
+Sri Lanka,SL12,30,89.70,PA
+Sri Lanka,SL12,30,89.69,PA
+Sri Lanka,SL12,30,89.68,PA
+Sri Lanka,SL12,30,89.65,PA
+Sri Lanka,SL12,30,89.60,PA
+Sri Lanka,SL12,30,89.28,PA
+Sri Lanka,SL12,30,89.25,PA
+Sri Lanka,SL12,30,88.53,PA
+Sri Lanka,SL12,30,88.51,PA
+Sri Lanka,SL12,30,88.32,PA
+Sri Lanka,SL12,30,88.11,PA
+Sri Lanka,SL12,30,87.91,PA
+Sri Lanka,SL12,30,87.91,PA
+Sri Lanka,SL12,30,87.35,PA
+Sri Lanka,SL12,30,86.94,PA
+Sri Lanka,SL12,30,86.64,PTFE
+Sri Lanka,SL12,30,86.52,PA
+Sri Lanka,SL12,30,86.04,PA
+Sri Lanka,SL12,30,85.93,PA
+Sri Lanka,SL12,30,85.79,PA
+Sri Lanka,SL12,30,85.36,PA
+Sri Lanka,SL12,30,85.31,PP
+Sri Lanka,SL12,30,85.14,PA
+Sri Lanka,SL12,30,85.00,PA
+Sri Lanka,SL12,30,84.60,Rubber
+Sri Lanka,SL12,30,84.14,PA
+Sri Lanka,SL12,30,84.10,PA
+Sri Lanka,SL12,30,83.95,Rubber
+Sri Lanka,SL12,30,83.62,Rubber
+Sri Lanka,SL12,30,83.58,PA
+Sri Lanka,SL12,30,83.55,PA
+Sri Lanka,SL12,30,83.49,PA
+Sri Lanka,SL12,30,83.42,PP
+Sri Lanka,SL12,30,83.25,ABS
+Sri Lanka,SL12,30,82.91,PA
+Sri Lanka,SL12,30,82.80,Rubber
+Sri Lanka,SL12,30,82.62,PA
+Sri Lanka,SL12,30,82.46,PA
+Sri Lanka,SL12,30,82.33,Rubber
+Sri Lanka,SL12,30,82.14,PA
+Sri Lanka,SL12,30,82.13,PA
+Sri Lanka,SL12,30,82.06,PA
+Sri Lanka,SL12,30,82.05,PA
+Sri Lanka,SL12,30,81.87,PTFE
+Sri Lanka,SL12,30,81.75,PA
+Sri Lanka,SL12,30,81.46,PE
+Sri Lanka,SL12,30,81.33,PVC
+Sri Lanka,SL12,30,81.25,PA
+Sri Lanka,SL12,30,81.06,PA
+Sri Lanka,SL12,30,81.02,Rubber
+Sri Lanka,SL12,30,80.64,Rubber
+Sri Lanka,SL12,30,80.38,PP
+Sri Lanka,SL12,30,80.28,PA
+Sri Lanka,SL12,30,80.09,PE
+Sri Lanka,SL13,10,93.32,PA
+Sri Lanka,SL13,10,92.37,PA
+Sri Lanka,SL13,10,92.22,PET
+Sri Lanka,SL13,10,91.71,PET
+Sri Lanka,SL13,10,90.64,PA
+Sri Lanka,SL13,10,90.40,PET
+Sri Lanka,SL13,10,90.03,POM
+Sri Lanka,SL13,10,89.82,PA
+Sri Lanka,SL13,10,89.59,PA
+Sri Lanka,SL13,10,89.21,PET
+Sri Lanka,SL13,10,88.52,PA
+Sri Lanka,SL13,10,87.03,PA
+Sri Lanka,SL13,10,86.40,PA
+Sri Lanka,SL13,10,85.90,PA
+Sri Lanka,SL13,10,84.83,PA
+Sri Lanka,SL13,10,84.63,PA
+Sri Lanka,SL13,10,84.41,PA
+Sri Lanka,SL13,10,84.34,PA
+Sri Lanka,SL13,10,83.87,PA
+Sri Lanka,SL13,10,83.59,PA
+Sri Lanka,SL13,10,83.37,Rubber
+Sri Lanka,SL13,10,83.03,PTFE
+Sri Lanka,SL13,10,82.63,Rubber
+Sri Lanka,SL13,10,82.60,PA
+Sri Lanka,SL13,10,82.52,PA
+Sri Lanka,SL13,10,82.34,Rubber
+Sri Lanka,SL13,10,82.29,PA
+Sri Lanka,SL13,10,82.18,PA
+Sri Lanka,SL13,10,81.62,PA
+Sri Lanka,SL13,10,81.37,PA
+Sri Lanka,SL13,10,81.08,PA
+Sri Lanka,SL13,20,95.41,PA
+Sri Lanka,SL13,20,94.37,PA
+Sri Lanka,SL13,20,94.27,PA
+Sri Lanka,SL13,20,93.58,PA
+Sri Lanka,SL13,20,93.30,PA
+Sri Lanka,SL13,20,93.25,PA
+Sri Lanka,SL13,20,92.57,PA
+Sri Lanka,SL13,20,92.38,PA
+Sri Lanka,SL13,20,91.13,PA
+Sri Lanka,SL13,20,90.91,PA
+Sri Lanka,SL13,20,90.37,PA
+Sri Lanka,SL13,20,90.32,PA
+Sri Lanka,SL13,20,89.70,PA
+Sri Lanka,SL13,20,89.67,PA
+Sri Lanka,SL13,20,89.18,PA
+Sri Lanka,SL13,20,89.02,PA
+Sri Lanka,SL13,20,88.91,Rubber
+Sri Lanka,SL13,20,87.91,PA
+Sri Lanka,SL13,20,87.41,PET
+Sri Lanka,SL13,20,86.67,PA
+Sri Lanka,SL13,20,86.64,PU
+Sri Lanka,SL13,20,85.93,PA
+Sri Lanka,SL13,20,85.77,PA
+Sri Lanka,SL13,20,85.49,PA
+Sri Lanka,SL13,20,85.46,PA
+Sri Lanka,SL13,20,85.19,PA
+Sri Lanka,SL13,20,84.24,PA
+Sri Lanka,SL13,20,83.67,PA
+Sri Lanka,SL13,20,83.49,PP
+Sri Lanka,SL13,20,83.46,PA
+Sri Lanka,SL13,20,83.35,ABS
+Sri Lanka,SL13,20,82.96,Rubber
+Sri Lanka,SL13,20,82.69,PA
+Sri Lanka,SL13,20,81.47,PA
+Sri Lanka,SL13,20,81.44,PA
+Sri Lanka,SL13,20,81.41,PA
+Sri Lanka,SL13,20,81.13,PA
+Sri Lanka,SL13,20,80.76,PTFE
+Sri Lanka,SL13,20,80.43,PA
+Sri Lanka,SL13,20,80.31,PA
+Sri Lanka,SL13,20,80.30,PP
+Sri Lanka,SL13,30,96.99,PP
+Sri Lanka,SL13,30,94.91,PA
+Sri Lanka,SL13,30,93.16,PA
+Sri Lanka,SL13,30,92.94,PA
+Sri Lanka,SL13,30,92.31,PA
+Sri Lanka,SL13,30,91.95,PET
+Sri Lanka,SL13,30,91.80,PA
+Sri Lanka,SL13,30,91.31,PA
+Sri Lanka,SL13,30,90.97,PA
+Sri Lanka,SL13,30,89.00,PA
+Sri Lanka,SL13,30,88.85,Rubber
+Sri Lanka,SL13,30,86.81,Rubber
+Sri Lanka,SL13,30,86.72,Rubber
+Sri Lanka,SL13,30,86.28,PA
+Sri Lanka,SL13,30,86.08,PA
+Sri Lanka,SL13,30,85.69,Rubber
+Sri Lanka,SL13,30,85.32,Rubber
+Sri Lanka,SL13,30,84.78,Rubber
+Sri Lanka,SL13,30,84.73,PET
+Sri Lanka,SL13,30,84.43,Rubber
+Sri Lanka,SL13,30,84.26,PA
+Sri Lanka,SL13,30,84.18,Rubber
+Sri Lanka,SL13,30,84.07,Rubber
+Sri Lanka,SL13,30,83.80,PP
+Sri Lanka,SL13,30,83.65,PA
+Sri Lanka,SL13,30,83.59,Rubber
+Sri Lanka,SL13,30,83.03,Rubber
+Sri Lanka,SL13,30,82.92,Rubber
+Sri Lanka,SL13,30,82.90,Rubber
+Sri Lanka,SL13,30,82.78,PET
+Sri Lanka,SL13,30,81.96,Rubber
+Sri Lanka,SL13,30,81.42,Rubber
+Sri Lanka,SL13,30,81.02,Rubber
+Sri Lanka,SL13,30,81.00,Rubber
+Sri Lanka,SL13,30,80.19,Rubber
+Sri Lanka,SL13,30,80.16,Rubber
+Sri Lanka,SL13,30,80.07,Rubber
+Sri Lanka,SL13,30,80.04,Rubber
+Sri Lanka,SL14,10,96.60,PE
+Sri Lanka,SL14,10,96.26,PA
+Sri Lanka,SL14,10,96.04,PA
+Sri Lanka,SL14,10,95.26,PA
+Sri Lanka,SL14,10,94.85,PA
+Sri Lanka,SL14,10,94.34,PA
+Sri Lanka,SL14,10,94.33,PA
+Sri Lanka,SL14,10,94.05,PA
+Sri Lanka,SL14,10,93.70,PA
+Sri Lanka,SL14,10,93.46,PA
+Sri Lanka,SL14,10,93.24,PA
+Sri Lanka,SL14,10,93.07,PA
+Sri Lanka,SL14,10,92.65,PA
+Sri Lanka,SL14,10,92.58,PA
+Sri Lanka,SL14,10,92.44,PA
+Sri Lanka,SL14,10,92.29,PA
+Sri Lanka,SL14,10,92.03,PA
+Sri Lanka,SL14,10,91.95,PE
+Sri Lanka,SL14,10,91.74,PA
+Sri Lanka,SL14,10,91.53,PA
+Sri Lanka,SL14,10,91.44,PA
+Sri Lanka,SL14,10,91.16,PA
+Sri Lanka,SL14,10,90.79,PE
+Sri Lanka,SL14,10,90.49,PA
+Sri Lanka,SL14,10,90.43,PA
+Sri Lanka,SL14,10,89.85,PA
+Sri Lanka,SL14,10,89.58,PA
+Sri Lanka,SL14,10,89.57,PA
+Sri Lanka,SL14,10,88.93,PA
+Sri Lanka,SL14,10,88.66,PA
+Sri Lanka,SL14,10,87.85,PA
+Sri Lanka,SL14,10,87.75,PA
+Sri Lanka,SL14,10,87.48,PA
+Sri Lanka,SL14,10,87.24,PP
+Sri Lanka,SL14,10,87.03,Rubber
+Sri Lanka,SL14,10,87.01,PA
+Sri Lanka,SL14,10,86.74,PA
+Sri Lanka,SL14,10,86.15,ABS
+Sri Lanka,SL14,10,85.67,PA
+Sri Lanka,SL14,10,83.98,PA
+Sri Lanka,SL14,10,83.30,PE
+Sri Lanka,SL14,10,82.37,PA
+Sri Lanka,SL14,10,81.50,PA
+Sri Lanka,SL14,10,81.42,Rubber
+Sri Lanka,SL14,10,80.89,PET
+Sri Lanka,SL14,10,80.58,PU
+Sri Lanka,SL14,10,80.45,Rubber
+Sri Lanka,SL14,20,97.45,PP
+Sri Lanka,SL14,20,93.38,PA
+Sri Lanka,SL14,20,92.27,PET
+Sri Lanka,SL14,20,90.52,PA
+Sri Lanka,SL14,20,89.41,PA
+Sri Lanka,SL14,20,87.86,PET
+Sri Lanka,SL14,20,86.01,Rubber
+Sri Lanka,SL14,20,84.33,PU
+Sri Lanka,SL14,20,84.32,PA
+Sri Lanka,SL14,20,84.22,PA
+Sri Lanka,SL14,20,84.07,Rubber
+Sri Lanka,SL14,20,82.80,ABS
+Sri Lanka,SL14,20,81.43,PP
+Sri Lanka,SL14,20,81.30,PA
+Sri Lanka,SL14,20,80.34,PA
+Sri Lanka,SL14,20,80.29,Rubber
+Sri Lanka,SL14,20,80.01,PA
+Sri Lanka,SL14,30,98.31,PE
+Sri Lanka,SL14,30,95.21,Rubber
+Sri Lanka,SL14,30,94.90,PP
+Sri Lanka,SL14,30,93.69,PA
+Sri Lanka,SL14,30,93.19,PA
+Sri Lanka,SL14,30,91.48,PA
+Sri Lanka,SL14,30,90.84,PA
+Sri Lanka,SL14,30,90.04,Rubber
+Sri Lanka,SL14,30,89.51,Rubber
+Sri Lanka,SL14,30,89.47,PA
+Sri Lanka,SL14,30,88.61,Rubber
+Sri Lanka,SL14,30,88.08,Rubber
+Sri Lanka,SL14,30,87.88,Rubber
+Sri Lanka,SL14,30,87.28,Rubber
+Sri Lanka,SL14,30,86.96,Rubber
+Sri Lanka,SL14,30,86.71,PA
+Sri Lanka,SL14,30,86.46,PA
+Sri Lanka,SL14,30,86.36,Rubber
+Sri Lanka,SL14,30,86.31,PE
+Sri Lanka,SL14,30,86.28,Rubber
+Sri Lanka,SL14,30,86.15,Rubber
+Sri Lanka,SL14,30,85.95,Rubber
+Sri Lanka,SL14,30,85.44,PA
+Sri Lanka,SL14,30,85.41,Rubber
+Sri Lanka,SL14,30,85.33,Rubber
+Sri Lanka,SL14,30,85.27,Rubber
+Sri Lanka,SL14,30,84.98,Rubber
+Sri Lanka,SL14,30,84.50,Rubber
+Sri Lanka,SL14,30,84.00,Rubber
+Sri Lanka,SL14,30,83.96,Rubber
+Sri Lanka,SL14,30,83.95,Rubber
+Sri Lanka,SL14,30,83.69,Rubber
+Sri Lanka,SL14,30,83.58,Rubber
+Sri Lanka,SL14,30,83.22,Rubber
+Sri Lanka,SL14,30,83.10,PP
+Sri Lanka,SL14,30,83.09,Rubber
+Sri Lanka,SL14,30,82.96,PA
+Sri Lanka,SL14,30,82.63,PA
+Sri Lanka,SL14,30,82.58,PA
+Sri Lanka,SL14,30,82.49,Rubber
+Sri Lanka,SL14,30,82.49,Rubber
+Sri Lanka,SL14,30,82.38,Rubber
+Sri Lanka,SL14,30,82.32,Rubber
+Sri Lanka,SL14,30,82.17,Rubber
+Sri Lanka,SL14,30,82.15,PA
+Sri Lanka,SL14,30,82.12,Rubber
+Sri Lanka,SL14,30,82.00,PA
+Sri Lanka,SL14,30,81.94,Rubber
+Sri Lanka,SL14,30,81.88,Rubber
+Sri Lanka,SL14,30,81.70,Rubber
+Sri Lanka,SL14,30,81.65,Rubber
+Sri Lanka,SL14,30,81.65,Rubber
+Sri Lanka,SL14,30,81.57,Rubber
+Sri Lanka,SL14,30,81.54,Rubber
+Sri Lanka,SL14,30,80.90,Rubber
+Sri Lanka,SL14,30,80.85,Rubber
+Sri Lanka,SL14,30,80.52,Rubber
+Sri Lanka,SL14,30,80.50,Rubber
+Sri Lanka,SL14,30,80.34,Rubber
+Sri Lanka,SL14,30,80.23,Rubber
+Sri Lanka,SL14,30,80.02,PP
+Sri Lanka,SL15,10,90.42,PA
+Sri Lanka,SL15,10,90.06,PA
+Sri Lanka,SL15,10,89.67,PA
+Sri Lanka,SL15,10,89.03,Rubber
+Sri Lanka,SL15,10,86.96,Rubber
+Sri Lanka,SL15,10,86.81,PTFE
+Sri Lanka,SL15,10,86.24,Rubber
+Sri Lanka,SL15,10,85.79,Rubber
+Sri Lanka,SL15,10,85.77,PA
+Sri Lanka,SL15,10,85.44,PA
+Sri Lanka,SL15,10,84.65,PA
+Sri Lanka,SL15,10,84.55,Rubber
+Sri Lanka,SL15,10,83.89,Rubber
+Sri Lanka,SL15,10,83.61,Rubber
+Sri Lanka,SL15,10,83.52,Rubber
+Sri Lanka,SL15,10,83.19,PA
+Sri Lanka,SL15,10,82.84,PA
+Sri Lanka,SL15,10,82.15,PTFE
+Sri Lanka,SL15,10,82.03,Rubber
+Sri Lanka,SL15,10,81.98,Rubber
+Sri Lanka,SL15,10,81.77,Rubber
+Sri Lanka,SL15,10,81.61,Rubber
+Sri Lanka,SL15,10,81.60,Rubber
+Sri Lanka,SL15,10,81.48,Rubber
+Sri Lanka,SL15,10,81.09,PVC
+Sri Lanka,SL15,10,80.94,Rubber
+Sri Lanka,SL15,10,80.67,Rubber
+Sri Lanka,SL15,10,80.65,Rubber
+Sri Lanka,SL15,10,80.55,Rubber
+Sri Lanka,SL15,10,80.42,Rubber
+Sri Lanka,SL15,10,80.25,Rubber
+Sri Lanka,SL15,10,80.24,Rubber
+Sri Lanka,SL15,10,80.21,Rubber
+Sri Lanka,SL15,20,92.36,Rubber
+Sri Lanka,SL15,20,91.77,PA
+Sri Lanka,SL15,20,90.13,PA
+Sri Lanka,SL15,20,87.68,PA
+Sri Lanka,SL15,20,87.63,PET
+Sri Lanka,SL15,20,86.76,PA
+Sri Lanka,SL15,20,86.54,Rubber
+Sri Lanka,SL15,20,86.37,Rubber
+Sri Lanka,SL15,20,85.13,PA
+Sri Lanka,SL15,20,84.89,Rubber
+Sri Lanka,SL15,20,84.50,Rubber
+Sri Lanka,SL15,20,84.22,PA
+Sri Lanka,SL15,20,83.93,PA
+Sri Lanka,SL15,20,83.81,Rubber
+Sri Lanka,SL15,20,83.71,ABS
+Sri Lanka,SL15,20,83.62,Rubber
+Sri Lanka,SL15,20,83.60,PA
+Sri Lanka,SL15,20,83.31,PA
+Sri Lanka,SL15,20,82.91,Rubber
+Sri Lanka,SL15,20,82.86,PA
+Sri Lanka,SL15,20,82.82,Rubber
+Sri Lanka,SL15,20,82.35,Rubber
+Sri Lanka,SL15,20,82.24,PA
+Sri Lanka,SL15,20,81.90,PA
+Sri Lanka,SL15,20,81.74,Rubber
+Sri Lanka,SL15,20,81.72,Rubber
+Sri Lanka,SL15,20,81.70,PA
+Sri Lanka,SL15,20,81.69,PA
+Sri Lanka,SL15,20,81.49,PA
+Sri Lanka,SL15,20,81.45,Rubber
+Sri Lanka,SL15,20,81.42,Rubber
+Sri Lanka,SL15,20,81.22,PA
+Sri Lanka,SL15,20,81.20,Rubber
+Sri Lanka,SL15,20,81.09,Rubber
+Sri Lanka,SL15,20,81.01,PA
+Sri Lanka,SL15,20,80.86,Rubber
+Sri Lanka,SL15,20,80.56,Rubber
+Sri Lanka,SL15,20,80.48,PVC
+Sri Lanka,SL15,20,80.43,PA
+Sri Lanka,SL15,20,80.27,Rubber
+Sri Lanka,SL15,20,80.21,PA
+Sri Lanka,SL15,20,80.18,PA
+Sri Lanka,SL15,20,80.03,PA
+Sri Lanka,SL15,30,95.71,PS
+Sri Lanka,SL15,30,89.89,PA
+Sri Lanka,SL15,30,87.23,PA
+Sri Lanka,SL15,30,87.23,PA
+Sri Lanka,SL15,30,87.06,Rubber
+Sri Lanka,SL15,30,87.03,PET
+Sri Lanka,SL15,30,86.00,POM
+Sri Lanka,SL15,30,85.22,PA
+Sri Lanka,SL15,30,84.29,PA
+Sri Lanka,SL15,30,83.50,PP
+Sri Lanka,SL15,30,83.24,ABS
+Sri Lanka,SL15,30,82.43,Rubber
+Sri Lanka,SL15,30,82.01,Rubber
+Sri Lanka,SL15,30,81.55,PP
+Sri Lanka,SL15,30,81.26,PA
+Sri Lanka,SL15,30,81.22,Rubber
+Sri Lanka,SL15,30,81.13,Rubber
+Sri Lanka,SL15,30,80.96,Rubber
+Sri Lanka,SL15,30,80.52,PP
+Sri Lanka,SL15,30,80.50,PA
+Sri Lanka,SL15,30,80.45,PC
+Sri Lanka,SL15,30,80.32,Rubber
+Sri Lanka,SL15,30,80.20,PA
+Sri Lanka,SL16,10,97.52,PE
+Sri Lanka,SL16,10,92.70,PET
+Sri Lanka,SL16,10,90.11,PA
+Sri Lanka,SL16,10,89.95,PA
+Sri Lanka,SL16,10,84.32,PA
+Sri Lanka,SL16,10,83.52,PA
+Sri Lanka,SL16,10,82.73,Rubber
+Sri Lanka,SL16,10,82.15,PTFE
+Sri Lanka,SL16,10,82.04,Rubber
+Sri Lanka,SL16,10,81.65,PA
+Sri Lanka,SL16,10,81.38,PA
+Sri Lanka,SL16,10,81.06,PP
+Sri Lanka,SL16,10,81.04,PA
+Sri Lanka,SL16,10,80.71,Rubber
+Sri Lanka,SL16,10,80.26,Rubber
+Sri Lanka,SL16,20,98.50,PP
+Sri Lanka,SL16,20,98.22,PP
+Sri Lanka,SL16,20,93.60,PA
+Sri Lanka,SL16,20,92.10,PA
+Sri Lanka,SL16,20,91.73,PA
+Sri Lanka,SL16,20,90.91,Rubber
+Sri Lanka,SL16,20,89.88,PA
+Sri Lanka,SL16,20,89.25,PA
+Sri Lanka,SL16,20,88.76,PA
+Sri Lanka,SL16,20,88.45,Rubber
+Sri Lanka,SL16,20,87.58,Rubber
+Sri Lanka,SL16,20,87.54,PA
+Sri Lanka,SL16,20,87.38,PA
+Sri Lanka,SL16,20,87.36,PA
+Sri Lanka,SL16,20,87.19,PA
+Sri Lanka,SL16,20,87.12,PA
+Sri Lanka,SL16,20,86.89,Rubber
+Sri Lanka,SL16,20,86.75,Rubber
+Sri Lanka,SL16,20,86.44,Rubber
+Sri Lanka,SL16,20,86.15,PA
+Sri Lanka,SL16,20,85.81,Rubber
+Sri Lanka,SL16,20,85.24,Rubber
+Sri Lanka,SL16,20,85.21,Rubber
+Sri Lanka,SL16,20,85.12,Rubber
+Sri Lanka,SL16,20,85.02,PA
+Sri Lanka,SL16,20,84.92,PA
+Sri Lanka,SL16,20,84.76,Rubber
+Sri Lanka,SL16,20,84.67,PA
+Sri Lanka,SL16,20,84.64,PA
+Sri Lanka,SL16,20,84.15,Rubber
+Sri Lanka,SL16,20,84.15,Rubber
+Sri Lanka,SL16,20,83.70,PA
+Sri Lanka,SL16,20,83.42,PA
+Sri Lanka,SL16,20,83.11,PA
+Sri Lanka,SL16,20,82.89,PA
+Sri Lanka,SL16,20,82.34,PA
+Sri Lanka,SL16,20,82.31,Rubber
+Sri Lanka,SL16,20,81.66,PA
+Sri Lanka,SL16,20,81.63,PA
+Sri Lanka,SL16,20,81.51,PU
+Sri Lanka,SL16,20,81.38,Rubber
+Sri Lanka,SL16,20,81.06,PE
+Sri Lanka,SL16,20,81.00,Rubber
+Sri Lanka,SL16,20,80.88,PA
+Sri Lanka,SL16,20,80.78,PA
+Sri Lanka,SL16,20,80.70,PVC
+Sri Lanka,SL16,20,80.54,PA
+Sri Lanka,SL16,20,80.48,PA
+Sri Lanka,SL16,20,80.43,Rubber
+Sri Lanka,SL16,20,80.11,PA
+Sri Lanka,SL16,20,80.00,PA
+Sri Lanka,SL16,30,95.39,POM
+Sri Lanka,SL16,30,93.74,PA
+Sri Lanka,SL16,30,91.48,Rubber
+Sri Lanka,SL16,30,90.54,ABS
+Sri Lanka,SL16,30,89.55,PA
+Sri Lanka,SL16,30,89.28,PA
+Sri Lanka,SL16,30,89.06,PA
+Sri Lanka,SL16,30,87.09,PA
+Sri Lanka,SL16,30,86.96,Rubber
+Sri Lanka,SL16,30,85.80,Rubber
+Sri Lanka,SL16,30,85.70,PA
+Sri Lanka,SL16,30,85.47,PU
+Sri Lanka,SL16,30,85.27,PTFE
+Sri Lanka,SL16,30,85.17,PA
+Sri Lanka,SL16,30,84.82,PET
+Sri Lanka,SL16,30,84.58,PA
+Sri Lanka,SL16,30,84.40,PA
+Sri Lanka,SL16,30,84.31,Rubber
+Sri Lanka,SL16,30,84.02,PA
+Sri Lanka,SL16,30,84.00,PA
+Sri Lanka,SL16,30,83.42,PA
+Sri Lanka,SL16,30,83.14,Rubber
+Sri Lanka,SL16,30,82.62,Rubber
+Sri Lanka,SL16,30,82.28,Rubber
+Sri Lanka,SL16,30,82.02,Rubber
+Sri Lanka,SL16,30,81.84,PA
+Sri Lanka,SL16,30,81.78,Rubber
+Sri Lanka,SL16,30,81.77,PVC
+Sri Lanka,SL16,30,81.74,PA
+Sri Lanka,SL16,30,81.73,PA
+Sri Lanka,SL16,30,81.69,PA
+Sri Lanka,SL16,30,81.60,PA
+Sri Lanka,SL16,30,81.44,Rubber
+Sri Lanka,SL16,30,81.34,PA
+Sri Lanka,SL16,30,81.16,PE
+Sri Lanka,SL16,30,81.03,PA
+Sri Lanka,SL16,30,80.98,PA
+Sri Lanka,SL16,30,80.98,PA
+Sri Lanka,SL16,30,80.96,PA
+Sri Lanka,SL16,30,80.71,PU
+Sri Lanka,SL16,30,80.55,PP
+Sri Lanka,SL16,30,80.49,PA
+Sri Lanka,SL16,30,80.44,PTFE
+Sri Lanka,SL16,30,80.28,PA
+Sri Lanka,SL16,30,80.26,PA
+Sri Lanka,SL16,30,80.12,PU
+Sri Lanka,SL17,10,92.96,PS
+Sri Lanka,SL17,10,89.09,PA
+Sri Lanka,SL17,10,88.69,PA
+Sri Lanka,SL17,10,88.50,PA
+Sri Lanka,SL17,10,88.35,PA
+Sri Lanka,SL17,10,88.04,Rubber
+Sri Lanka,SL17,10,88.00,PA
+Sri Lanka,SL17,10,87.78,PA
+Sri Lanka,SL17,10,87.18,PA
+Sri Lanka,SL17,10,87.16,Rubber
+Sri Lanka,SL17,10,86.79,PA
+Sri Lanka,SL17,10,86.46,PA
+Sri Lanka,SL17,10,86.46,PA
+Sri Lanka,SL17,10,86.34,PA
+Sri Lanka,SL17,10,85.93,PA
+Sri Lanka,SL17,10,85.61,Rubber
+Sri Lanka,SL17,10,85.59,PA
+Sri Lanka,SL17,10,85.43,Rubber
+Sri Lanka,SL17,10,85.43,PA
+Sri Lanka,SL17,10,85.38,PA
+Sri Lanka,SL17,10,85.34,PA
+Sri Lanka,SL17,10,85.29,Rubber
+Sri Lanka,SL17,10,85.24,PA
+Sri Lanka,SL17,10,85.21,PA
+Sri Lanka,SL17,10,85.16,PA
+Sri Lanka,SL17,10,85.06,PA
+Sri Lanka,SL17,10,84.93,PA
+Sri Lanka,SL17,10,84.90,PA
+Sri Lanka,SL17,10,84.85,PA
+Sri Lanka,SL17,10,84.85,PA
+Sri Lanka,SL17,10,84.77,PA
+Sri Lanka,SL17,10,84.37,Rubber
+Sri Lanka,SL17,10,84.09,PA
+Sri Lanka,SL17,10,83.88,PA
+Sri Lanka,SL17,10,83.72,PA
+Sri Lanka,SL17,10,83.70,PA
+Sri Lanka,SL17,10,83.58,PA
+Sri Lanka,SL17,10,83.57,PA
+Sri Lanka,SL17,10,83.55,Rubber
+Sri Lanka,SL17,10,83.29,PC
+Sri Lanka,SL17,10,83.27,PA
+Sri Lanka,SL17,10,83.11,PA
+Sri Lanka,SL17,10,83.04,Rubber
+Sri Lanka,SL17,10,83.02,PA
+Sri Lanka,SL17,10,83.01,PA
+Sri Lanka,SL17,10,82.99,PA
+Sri Lanka,SL17,10,82.99,PA
+Sri Lanka,SL17,10,82.94,PA
+Sri Lanka,SL17,10,82.90,PA
+Sri Lanka,SL17,10,82.80,PA
+Sri Lanka,SL17,10,82.80,Rubber
+Sri Lanka,SL17,10,82.80,PA
+Sri Lanka,SL17,10,82.80,PVC
+Sri Lanka,SL17,10,82.78,Rubber
+Sri Lanka,SL17,10,82.74,PA
+Sri Lanka,SL17,10,82.73,PVC
+Sri Lanka,SL17,10,82.71,PA
+Sri Lanka,SL17,10,82.67,PA
+Sri Lanka,SL17,10,82.44,PA
+Sri Lanka,SL17,10,82.35,PA
+Sri Lanka,SL17,10,82.34,Rubber
+Sri Lanka,SL17,10,82.31,PVC
+Sri Lanka,SL17,10,82.31,Rubber
+Sri Lanka,SL17,10,82.11,PA
+Sri Lanka,SL17,10,82.10,Rubber
+Sri Lanka,SL17,10,82.06,PA
+Sri Lanka,SL17,10,81.94,Rubber
+Sri Lanka,SL17,10,81.93,PA
+Sri Lanka,SL17,10,81.87,PA
+Sri Lanka,SL17,10,81.78,PA
+Sri Lanka,SL17,10,81.73,PA
+Sri Lanka,SL17,10,81.64,PA
+Sri Lanka,SL17,10,81.64,PA
+Sri Lanka,SL17,10,81.64,PA
+Sri Lanka,SL17,10,81.51,PA
+Sri Lanka,SL17,10,81.47,Rubber
+Sri Lanka,SL17,10,81.45,Rubber
+Sri Lanka,SL17,10,81.26,PA
+Sri Lanka,SL17,10,81.06,PA
+Sri Lanka,SL17,10,80.96,PA
+Sri Lanka,SL17,10,80.86,PVC
+Sri Lanka,SL17,10,80.83,PA
+Sri Lanka,SL17,10,80.81,PA
+Sri Lanka,SL17,10,80.80,Rubber
+Sri Lanka,SL17,10,80.77,PA
+Sri Lanka,SL17,10,80.77,PA
+Sri Lanka,SL17,10,80.77,PA
+Sri Lanka,SL17,10,80.58,PA
+Sri Lanka,SL17,10,80.54,PA
+Sri Lanka,SL17,10,80.52,PA
+Sri Lanka,SL17,10,80.47,PA
+Sri Lanka,SL17,10,80.47,PA
+Sri Lanka,SL17,10,80.46,Rubber
+Sri Lanka,SL17,10,80.41,PA
+Sri Lanka,SL17,10,80.29,PA
+Sri Lanka,SL17,10,80.27,PVC
+Sri Lanka,SL17,10,80.12,Rubber
+Sri Lanka,SL17,10,80.11,PA
+Sri Lanka,SL17,10,80.07,PA
+Sri Lanka,SL17,10,80.06,PA
+Sri Lanka,SL17,10,80.05,PA
+Sri Lanka,SL17,10,80.05,PA
+Sri Lanka,SL17,10,80.03,PA
+Sri Lanka,SL17,10,80.03,PA
+Sri Lanka,SL17,20,97.03,PP
+Sri Lanka,SL17,20,97.01,PP
+Sri Lanka,SL17,20,95.56,PA
+Sri Lanka,SL17,20,95.02,PA
+Sri Lanka,SL17,20,94.52,PA
+Sri Lanka,SL17,20,94.35,PA
+Sri Lanka,SL17,20,94.20,PP
+Sri Lanka,SL17,20,93.86,PA
+Sri Lanka,SL17,20,93.09,PA
+Sri Lanka,SL17,20,92.11,PS
+Sri Lanka,SL17,20,91.77,PET
+Sri Lanka,SL17,20,91.67,PA
+Sri Lanka,SL17,20,91.64,PA
+Sri Lanka,SL17,20,91.21,PA
+Sri Lanka,SL17,20,91.15,PA
+Sri Lanka,SL17,20,91.11,PET
+Sri Lanka,SL17,20,90.96,PA
+Sri Lanka,SL17,20,90.72,PA
+Sri Lanka,SL17,20,90.46,PET
+Sri Lanka,SL17,20,90.24,PA
+Sri Lanka,SL17,20,90.08,PA
+Sri Lanka,SL17,20,89.93,PET
+Sri Lanka,SL17,20,88.99,PA
+Sri Lanka,SL17,20,87.54,PA
+Sri Lanka,SL17,20,85.68,PA
+Sri Lanka,SL17,20,85.62,PA
+Sri Lanka,SL17,20,85.07,PA
+Sri Lanka,SL17,20,85.00,PA
+Sri Lanka,SL17,20,84.83,PA
+Sri Lanka,SL17,20,84.75,PA
+Sri Lanka,SL17,20,84.36,PET
+Sri Lanka,SL17,20,84.32,PA
+Sri Lanka,SL17,20,82.90,PA
+Sri Lanka,SL17,20,82.78,PA
+Sri Lanka,SL17,20,82.75,PA
+Sri Lanka,SL17,20,82.74,PA
+Sri Lanka,SL17,20,82.43,Rubber
+Sri Lanka,SL17,20,82.21,PET
+Sri Lanka,SL17,20,82.20,PA
+Sri Lanka,SL17,20,81.92,Rubber
+Sri Lanka,SL17,20,81.64,PA
+Sri Lanka,SL17,20,81.26,Rubber
+Sri Lanka,SL17,20,81.16,PA
+Sri Lanka,SL17,20,80.95,PA
+Sri Lanka,SL17,20,80.93,POM
+Sri Lanka,SL17,20,80.77,ABS
+Sri Lanka,SL17,20,80.31,PP
+Sri Lanka,SL17,20,80.16,Rubber
+Sri Lanka,SL17,30,84.23,PA
+Sri Lanka,SL17,30,83.12,Rubber
+Sri Lanka,SL17,30,82.69,Rubber
+Sri Lanka,SL17,30,82.38,Rubber
+Sri Lanka,SL17,30,82.29,Rubber
+Sri Lanka,SL17,30,82.25,PA
+Sri Lanka,SL17,30,82.25,Rubber
+Sri Lanka,SL17,30,81.85,Rubber
+Sri Lanka,SL17,30,81.75,Rubber
+Sri Lanka,SL17,30,81.50,Rubber
+Sri Lanka,SL17,30,81.19,Rubber
+Sri Lanka,SL17,30,81.17,Rubber
+Sri Lanka,SL17,30,81.04,PTFE
+Sri Lanka,SL17,30,81.04,Rubber
+Sri Lanka,SL17,30,80.98,PTFE
+Sri Lanka,SL17,30,80.97,Rubber
+Sri Lanka,SL17,30,80.88,PVC
+Sri Lanka,SL17,30,80.86,Rubber
+Sri Lanka,SL17,30,80.61,Rubber
+Sri Lanka,SL17,30,80.59,Rubber
+Sri Lanka,SL17,30,80.46,Rubber
+Sri Lanka,SL17,30,80.20,Rubber
+Sri Lanka,SL17,30,80.15,Rubber
+Sri Lanka,SL17,30,80.04,Rubber
+Sri Lanka,SL18,10,98.56,PP
+Sri Lanka,SL18,10,91.41,PE
+Sri Lanka,SL18,10,90.74,Rubber
+Sri Lanka,SL18,10,88.60,Rubber
+Sri Lanka,SL18,10,88.20,Rubber
+Sri Lanka,SL18,10,86.62,Rubber
+Sri Lanka,SL18,10,85.70,PA
+Sri Lanka,SL18,10,85.69,PA
+Sri Lanka,SL18,10,85.24,Rubber
+Sri Lanka,SL18,10,84.79,PU
+Sri Lanka,SL18,10,84.72,Rubber
+Sri Lanka,SL18,10,84.15,PA
+Sri Lanka,SL18,10,83.96,PA
+Sri Lanka,SL18,10,83.75,PA
+Sri Lanka,SL18,10,83.54,PE
+Sri Lanka,SL18,10,83.35,PA
+Sri Lanka,SL18,10,82.26,PE
+Sri Lanka,SL18,10,82.14,PP
+Sri Lanka,SL18,10,81.94,PA
+Sri Lanka,SL18,10,81.87,PA
+Sri Lanka,SL18,10,81.77,PA
+Sri Lanka,SL18,10,81.75,PE
+Sri Lanka,SL18,10,81.61,PA
+Sri Lanka,SL18,10,81.46,PA
+Sri Lanka,SL18,10,81.40,PA
+Sri Lanka,SL18,10,81.02,Rubber
+Sri Lanka,SL18,10,80.91,PA
+Sri Lanka,SL18,10,80.84,PU
+Sri Lanka,SL18,10,80.82,PA
+Sri Lanka,SL18,10,80.77,PA
+Sri Lanka,SL18,10,80.73,PP
+Sri Lanka,SL18,10,80.57,PE
+Sri Lanka,SL18,10,80.57,PVC
+Sri Lanka,SL18,10,80.52,PC
+Sri Lanka,SL18,10,80.49,PA
+Sri Lanka,SL18,10,80.48,Rubber
+Sri Lanka,SL18,10,80.36,PA
+Sri Lanka,SL18,10,80.30,PP
+Sri Lanka,SL18,10,80.11,PP
+Sri Lanka,SL18,10,80.09,PA
+Sri Lanka,SL18,20,92.98,PA
+Sri Lanka,SL18,20,92.62,PA
+Sri Lanka,SL18,20,91.18,PA
+Sri Lanka,SL18,20,90.47,PA
+Sri Lanka,SL18,20,89.38,PA
+Sri Lanka,SL18,20,88.94,PA
+Sri Lanka,SL18,20,88.83,PU
+Sri Lanka,SL18,20,88.46,POM
+Sri Lanka,SL18,20,88.34,POM
+Sri Lanka,SL18,20,85.24,PE
+Sri Lanka,SL18,20,85.18,PA
+Sri Lanka,SL18,20,84.46,PA
+Sri Lanka,SL18,20,84.25,PA
+Sri Lanka,SL18,20,82.80,PET
+Sri Lanka,SL18,20,82.37,POM
+Sri Lanka,SL18,20,81.88,PA
+Sri Lanka,SL18,20,80.79,PA
+Sri Lanka,SL18,20,80.60,PA
+Sri Lanka,SL18,20,80.58,PU
+Sri Lanka,SL18,20,80.57,PA
+Sri Lanka,SL18,20,80.39,PA
+Sri Lanka,SL18,20,80.26,PA
+Sri Lanka,SL18,20,80.25,PA
+Sri Lanka,SL18,20,80.24,PTFE
+Sri Lanka,SL18,20,80.07,PTFE
+Sri Lanka,SL18,30,97.79,POM
+Sri Lanka,SL18,30,97.14,PP
+Sri Lanka,SL18,30,96.25,POM
+Sri Lanka,SL18,30,95.55,POM
+Sri Lanka,SL18,30,94.84,POM
+Sri Lanka,SL18,30,94.43,POM
+Sri Lanka,SL18,30,94.25,POM
+Sri Lanka,SL18,30,93.73,POM
+Sri Lanka,SL18,30,93.35,POM
+Sri Lanka,SL18,30,92.77,POM
+Sri Lanka,SL18,30,91.63,PA
+Sri Lanka,SL18,30,90.80,PP
+Sri Lanka,SL18,30,88.15,Rubber
+Sri Lanka,SL18,30,85.27,PA
+Sri Lanka,SL18,30,84.98,Rubber
+Sri Lanka,SL18,30,84.78,Rubber
+Sri Lanka,SL18,30,84.69,PA
+Sri Lanka,SL18,30,83.53,Rubber
+Sri Lanka,SL18,30,83.41,PA
+Sri Lanka,SL18,30,82.61,PA
+Sri Lanka,SL18,30,82.11,PP
+Sri Lanka,SL18,30,82.11,Rubber
+Sri Lanka,SL18,30,81.38,PA
+Sri Lanka,SL18,30,81.18,PP
+Sri Lanka,SL18,30,80.99,PA
+Sri Lanka,SL18,30,80.88,PP
+Sri Lanka,SL18,30,80.71,PP
+Sri Lanka,SL18,30,80.45,PP
+Sri Lanka,SL18,30,80.19,PA
+Sri Lanka,SL19,10,85.53,PET
+Sri Lanka,SL19,10,82.74,Rubber
+Sri Lanka,SL19,10,82.11,PVC
+Sri Lanka,SL19,10,81.28,Rubber
+Sri Lanka,SL19,10,81.14,Rubber
+Sri Lanka,SL19,10,80.02,Rubber
+Sri Lanka,SL19,20,93.47,PA
+Sri Lanka,SL19,20,93.43,PA
+Sri Lanka,SL19,20,93.28,PA
+Sri Lanka,SL19,20,93.28,PA
+Sri Lanka,SL19,20,93.15,PA
+Sri Lanka,SL19,20,90.90,PA
+Sri Lanka,SL19,20,90.44,PA
+Sri Lanka,SL19,20,90.04,PA
+Sri Lanka,SL19,20,88.64,PA
+Sri Lanka,SL19,20,87.76,PA
+Sri Lanka,SL19,20,87.41,PA
+Sri Lanka,SL19,20,87.34,PA
+Sri Lanka,SL19,20,87.32,PA
+Sri Lanka,SL19,20,87.28,PA
+Sri Lanka,SL19,20,87.14,PA
+Sri Lanka,SL19,20,87.07,PA
+Sri Lanka,SL19,20,86.68,Rubber
+Sri Lanka,SL19,20,86.31,PA
+Sri Lanka,SL19,20,86.11,PA
+Sri Lanka,SL19,20,86.00,PA
+Sri Lanka,SL19,20,85.74,PA
+Sri Lanka,SL19,20,85.71,PA
+Sri Lanka,SL19,20,85.69,PA
+Sri Lanka,SL19,20,85.65,PA
+Sri Lanka,SL19,20,85.31,PA
+Sri Lanka,SL19,20,85.21,Rubber
+Sri Lanka,SL19,20,85.06,Rubber
+Sri Lanka,SL19,20,84.83,PA
+Sri Lanka,SL19,20,84.35,PET
+Sri Lanka,SL19,20,84.25,PA
+Sri Lanka,SL19,20,84.07,Rubber
+Sri Lanka,SL19,20,84.04,PA
+Sri Lanka,SL19,20,84.03,PA
+Sri Lanka,SL19,20,83.81,PA
+Sri Lanka,SL19,20,83.62,PP
+Sri Lanka,SL19,20,83.53,PA
+Sri Lanka,SL19,20,83.51,PA
+Sri Lanka,SL19,20,82.85,PE
+Sri Lanka,SL19,20,82.82,PP
+Sri Lanka,SL19,20,82.30,PA
+Sri Lanka,SL19,20,82.15,PA
+Sri Lanka,SL19,20,82.01,PA
+Sri Lanka,SL19,20,81.71,PP
+Sri Lanka,SL19,20,81.65,PA
+Sri Lanka,SL19,20,81.60,PP
+Sri Lanka,SL19,20,81.55,PA
+Sri Lanka,SL19,20,81.47,PA
+Sri Lanka,SL19,20,81.31,Rubber
+Sri Lanka,SL19,20,81.19,PET
+Sri Lanka,SL19,20,81.16,PA
+Sri Lanka,SL19,20,81.08,PA
+Sri Lanka,SL19,20,80.95,PA
+Sri Lanka,SL19,20,80.94,PP
+Sri Lanka,SL19,20,80.78,PP
+Sri Lanka,SL19,20,80.54,PA
+Sri Lanka,SL19,20,80.47,PA
+Sri Lanka,SL19,20,80.47,Rubber
+Sri Lanka,SL19,20,80.14,PA
+Sri Lanka,SL19,20,80.04,PA
+Sri Lanka,SL19,30,94.83,PA
+Sri Lanka,SL19,30,94.72,PMMA
+Sri Lanka,SL19,30,92.19,POM
+Sri Lanka,SL19,30,91.70,PA
+Sri Lanka,SL19,30,90.27,PET
+Sri Lanka,SL19,30,88.84,PVC
+Sri Lanka,SL19,30,86.43,PVC
+Sri Lanka,SL19,30,86.19,PVC
+Sri Lanka,SL19,30,85.75,PA
+Sri Lanka,SL19,30,84.85,PVC
+Sri Lanka,SL19,30,83.30,Rubber
+Sri Lanka,SL19,30,83.29,PET
+Sri Lanka,SL19,30,82.33,ABS
+Sri Lanka,SL19,30,82.33,Rubber
+Sri Lanka,SL19,30,82.12,PVC
+Sri Lanka,SL19,30,82.08,PET
+Sri Lanka,SL19,30,81.74,PP
+Sri Lanka,SL19,30,81.71,ABS
+Sri Lanka,SL19,30,81.61,PA
+Sri Lanka,SL19,30,81.30,ABS
+Sri Lanka,SL19,30,81.09,PET
+Sri Lanka,SL19,30,81.02,ABS
+Sri Lanka,SL19,30,80.98,PET
+Sri Lanka,SL19,30,80.89,PA
+Sri Lanka,SL19,30,80.76,PA
+Sri Lanka,SL19,30,80.74,PET
+Sri Lanka,SL19,30,80.71,PA
+Sri Lanka,SL19,30,80.69,PVC
+Sri Lanka,SL19,30,80.67,PVC
+Sri Lanka,SL19,30,80.62,PET
+Sri Lanka,SL19,30,80.51,PTFE
+Sri Lanka,SL19,30,80.45,PET
+Sri Lanka,SL19,30,80.43,PET
+Sri Lanka,SL19,30,80.42,Rubber
+Sri Lanka,SL19,30,80.41,PET
+Sri Lanka,SL19,30,80.12,PP
+Sri Lanka,SL19,30,80.07,PET
+Sri Lanka,SL20,10,97.22,PP
+Sri Lanka,SL20,10,95.36,Rubber
+Sri Lanka,SL20,10,95.10,PE
+Sri Lanka,SL20,10,83.93,PA
+Sri Lanka,SL20,10,83.04,Rubber
+Sri Lanka,SL20,10,82.45,PVC
+Sri Lanka,SL20,10,81.55,PA
+Sri Lanka,SL20,10,80.32,PU
+Sri Lanka,SL20,20,96.57,PP
+Sri Lanka,SL20,20,83.20,PP
+Sri Lanka,SL20,20,82.76,PA
+Sri Lanka,SL20,20,82.18,PA
+Sri Lanka,SL20,20,81.18,PA
+Sri Lanka,SL20,20,80.32,PA
+Sri Lanka,SL20,30,96.89,PS
+Sri Lanka,SL20,30,94.99,PS
+Sri Lanka,SL20,30,90.24,PA
+Sri Lanka,SL20,30,88.23,Rubber
+Sri Lanka,SL20,30,87.54,PA
+Sri Lanka,SL20,30,86.64,PA
+Sri Lanka,SL20,30,85.61,PP
+Sri Lanka,SL20,30,85.45,Rubber
+Sri Lanka,SL20,30,85.35,PTFE
+Sri Lanka,SL20,30,85.06,PA
+Sri Lanka,SL20,30,84.24,PP
+Sri Lanka,SL20,30,84.23,PP
+Sri Lanka,SL20,30,83.86,PP
+Sri Lanka,SL20,30,83.52,PA
+Sri Lanka,SL20,30,83.46,PP
+Sri Lanka,SL20,30,83.45,PP
+Sri Lanka,SL20,30,83.37,PP
+Sri Lanka,SL20,30,83.00,PP
+Sri Lanka,SL20,30,82.94,PA
+Sri Lanka,SL20,30,82.91,PP
+Sri Lanka,SL20,30,82.70,PA
+Sri Lanka,SL20,30,82.69,PP
+Sri Lanka,SL20,30,82.61,PA
+Sri Lanka,SL20,30,82.18,PP
+Sri Lanka,SL20,30,82.15,PP
+Sri Lanka,SL20,30,82.07,PA
+Sri Lanka,SL20,30,82.06,PP
+Sri Lanka,SL20,30,81.91,PA
+Sri Lanka,SL20,30,81.89,PA
+Sri Lanka,SL20,30,81.77,PE
+Sri Lanka,SL20,30,81.77,PA
+Sri Lanka,SL20,30,81.72,PP
+Sri Lanka,SL20,30,81.62,PA
+Sri Lanka,SL20,30,81.57,PA
+Sri Lanka,SL20,30,81.54,PP
+Sri Lanka,SL20,30,81.50,PP
+Sri Lanka,SL20,30,81.41,PP
+Sri Lanka,SL20,30,81.26,PP
+Sri Lanka,SL20,30,81.22,PP
+Sri Lanka,SL20,30,81.06,PP
+Sri Lanka,SL20,30,81.02,PA
+Sri Lanka,SL20,30,80.87,PP
+Sri Lanka,SL20,30,80.87,PP
+Sri Lanka,SL20,30,80.82,PA
+Sri Lanka,SL20,30,80.80,PA
+Sri Lanka,SL20,30,80.79,PA
+Sri Lanka,SL20,30,80.75,PP
+Sri Lanka,SL20,30,80.73,PP
+Sri Lanka,SL20,30,80.68,PP
+Sri Lanka,SL20,30,80.63,PA
+Sri Lanka,SL20,30,80.60,PP
+Sri Lanka,SL20,30,80.51,PP
+Sri Lanka,SL20,30,80.45,PE
+Sri Lanka,SL20,30,80.45,PA
+Sri Lanka,SL20,30,80.41,PA
+Sri Lanka,SL20,30,80.26,PP
+Sri Lanka,SL20,30,80.25,PA
+Sri Lanka,SL20,30,80.24,PA
+Sri Lanka,SL20,30,80.16,PA
+Sri Lanka,SL20,30,80.10,PP
+Sri Lanka,SL21,10,98.57,PP
+Sri Lanka,SL21,10,96.92,PP
+Sri Lanka,SL21,10,94.99,PA
+Sri Lanka,SL21,10,93.81,PA
+Sri Lanka,SL21,10,93.77,PA
+Sri Lanka,SL21,10,93.69,PA
+Sri Lanka,SL21,10,93.63,PA
+Sri Lanka,SL21,10,93.52,PA
+Sri Lanka,SL21,10,91.95,Rubber
+Sri Lanka,SL21,10,91.80,PA
+Sri Lanka,SL21,10,91.68,PA
+Sri Lanka,SL21,10,91.58,PET
+Sri Lanka,SL21,10,91.57,PA
+Sri Lanka,SL21,10,91.56,PA
+Sri Lanka,SL21,10,91.24,PA
+Sri Lanka,SL21,10,91.22,PA
+Sri Lanka,SL21,10,91.15,PET
+Sri Lanka,SL21,10,90.84,PA
+Sri Lanka,SL21,10,90.81,PA
+Sri Lanka,SL21,10,90.68,PA
+Sri Lanka,SL21,10,90.66,PA
+Sri Lanka,SL21,10,90.41,PE
+Sri Lanka,SL21,10,90.30,PA
+Sri Lanka,SL21,10,90.13,PA
+Sri Lanka,SL21,10,89.51,PA
+Sri Lanka,SL21,10,89.43,PA
+Sri Lanka,SL21,10,89.37,PA
+Sri Lanka,SL21,10,88.90,PA
+Sri Lanka,SL21,10,88.42,Rubber
+Sri Lanka,SL21,10,88.25,PA
+Sri Lanka,SL21,10,87.34,PA
+Sri Lanka,SL21,10,86.91,PA
+Sri Lanka,SL21,10,86.62,PP
+Sri Lanka,SL21,10,86.45,PU
+Sri Lanka,SL21,10,86.24,PE
+Sri Lanka,SL21,10,85.98,PA
+Sri Lanka,SL21,10,84.77,PA
+Sri Lanka,SL21,10,83.64,PA
+Sri Lanka,SL21,10,82.51,PA
+Sri Lanka,SL21,10,82.48,PA
+Sri Lanka,SL21,10,82.16,PA
+Sri Lanka,SL21,10,81.78,Rubber
+Sri Lanka,SL21,10,81.53,PA
+Sri Lanka,SL21,10,81.17,PA
+Sri Lanka,SL21,10,80.92,PA
+Sri Lanka,SL21,10,80.10,PA
+Sri Lanka,SL21,20,94.31,PA
+Sri Lanka,SL21,20,94.05,PA
+Sri Lanka,SL21,20,93.93,PA
+Sri Lanka,SL21,20,93.78,PA
+Sri Lanka,SL21,20,93.48,PA
+Sri Lanka,SL21,20,92.48,PA
+Sri Lanka,SL21,20,92.14,PA
+Sri Lanka,SL21,20,91.87,PA
+Sri Lanka,SL21,20,91.32,PA
+Sri Lanka,SL21,20,90.91,PA
+Sri Lanka,SL21,20,90.27,PA
+Sri Lanka,SL21,20,90.23,PA
+Sri Lanka,SL21,20,90.15,PA
+Sri Lanka,SL21,20,90.04,PA
+Sri Lanka,SL21,20,89.59,PA
+Sri Lanka,SL21,20,89.56,PA
+Sri Lanka,SL21,20,89.39,PA
+Sri Lanka,SL21,20,89.39,PA
+Sri Lanka,SL21,20,89.35,PET
+Sri Lanka,SL21,20,89.02,PA
+Sri Lanka,SL21,20,88.89,PA
+Sri Lanka,SL21,20,88.87,PA
+Sri Lanka,SL21,20,88.64,PA
+Sri Lanka,SL21,20,88.50,PA
+Sri Lanka,SL21,20,88.41,PA
+Sri Lanka,SL21,20,88.09,PA
+Sri Lanka,SL21,20,88.08,PA
+Sri Lanka,SL21,20,88.00,PA
+Sri Lanka,SL21,20,87.44,PA
+Sri Lanka,SL21,20,86.58,PE
+Sri Lanka,SL21,20,86.09,PA
+Sri Lanka,SL21,20,86.04,PA
+Sri Lanka,SL21,20,85.81,PA
+Sri Lanka,SL21,20,85.50,PA
+Sri Lanka,SL21,20,85.20,PA
+Sri Lanka,SL21,20,85.14,PA
+Sri Lanka,SL21,20,85.14,PA
+Sri Lanka,SL21,20,85.06,PA
+Sri Lanka,SL21,20,85.05,PA
+Sri Lanka,SL21,20,84.92,PA
+Sri Lanka,SL21,20,84.90,PA
+Sri Lanka,SL21,20,84.86,PA
+Sri Lanka,SL21,20,84.73,Rubber
+Sri Lanka,SL21,20,84.66,PA
+Sri Lanka,SL21,20,84.46,PA
+Sri Lanka,SL21,20,84.27,PA
+Sri Lanka,SL21,20,84.23,PA
+Sri Lanka,SL21,20,84.19,PA
+Sri Lanka,SL21,20,83.94,Rubber
+Sri Lanka,SL21,20,83.68,PA
+Sri Lanka,SL21,20,83.32,PA
+Sri Lanka,SL21,20,83.30,PTFE
+Sri Lanka,SL21,20,83.16,PA
+Sri Lanka,SL21,20,82.17,Rubber
+Sri Lanka,SL21,20,82.17,PA
+Sri Lanka,SL21,20,82.05,PP
+Sri Lanka,SL21,20,81.89,PA
+Sri Lanka,SL21,20,81.71,PA
+Sri Lanka,SL21,20,81.58,PA
+Sri Lanka,SL21,20,81.54,PA
+Sri Lanka,SL21,20,81.53,PA
+Sri Lanka,SL21,20,81.16,PA
+Sri Lanka,SL21,20,81.07,PA
+Sri Lanka,SL21,20,80.66,PP
+Sri Lanka,SL21,20,80.61,PP
+Sri Lanka,SL21,20,80.51,PP
+Sri Lanka,SL21,20,80.19,PP
+Sri Lanka,SL21,20,80.09,Rubber
+Sri Lanka,SL21,20,80.05,Rubber
+Sri Lanka,SL21,30,89.58,PA
+Sri Lanka,SL21,30,89.03,Rubber
+Sri Lanka,SL21,30,85.70,PP
+Sri Lanka,SL21,30,83.68,PA
+Sri Lanka,SL21,30,83.61,PTFE
+Sri Lanka,SL21,30,82.72,PVC
+Sri Lanka,SL21,30,82.28,PA
+Sri Lanka,SL21,30,82.01,PA
+Sri Lanka,SL21,30,81.06,PA
+Sri Lanka,SL21,30,80.43,Rubber
+Sri Lanka,SL21,30,80.04,PVC
+Sri Lanka,SL22,10,94.76,PA
+Sri Lanka,SL22,10,94.60,PA
+Sri Lanka,SL22,10,94.10,PA
+Sri Lanka,SL22,10,93.00,PA
+Sri Lanka,SL22,10,92.21,PA
+Sri Lanka,SL22,10,92.19,PA
+Sri Lanka,SL22,10,90.37,Rubber
+Sri Lanka,SL22,10,90.01,Rubber
+Sri Lanka,SL22,10,89.93,PA
+Sri Lanka,SL22,10,89.70,Rubber
+Sri Lanka,SL22,10,89.60,PA
+Sri Lanka,SL22,10,88.73,POM
+Sri Lanka,SL22,10,88.29,PP
+Sri Lanka,SL22,10,88.07,PA
+Sri Lanka,SL22,10,88.05,PA
+Sri Lanka,SL22,10,87.22,PET
+Sri Lanka,SL22,10,86.74,PA
+Sri Lanka,SL22,10,86.01,PA
+Sri Lanka,SL22,10,85.88,PA
+Sri Lanka,SL22,10,85.75,PA
+Sri Lanka,SL22,10,85.46,PP
+Sri Lanka,SL22,10,85.33,PA
+Sri Lanka,SL22,10,85.18,Rubber
+Sri Lanka,SL22,10,85.04,PA
+Sri Lanka,SL22,10,84.80,PA
+Sri Lanka,SL22,10,84.24,PA
+Sri Lanka,SL22,10,84.24,Rubber
+Sri Lanka,SL22,10,84.09,Rubber
+Sri Lanka,SL22,10,83.34,Rubber
+Sri Lanka,SL22,10,82.71,PA
+Sri Lanka,SL22,10,82.35,PA
+Sri Lanka,SL22,10,82.34,POM
+Sri Lanka,SL22,10,81.79,Rubber
+Sri Lanka,SL22,10,81.73,PA
+Sri Lanka,SL22,10,81.72,PA
+Sri Lanka,SL22,10,81.65,PVC
+Sri Lanka,SL22,10,81.57,Rubber
+Sri Lanka,SL22,10,81.15,PA
+Sri Lanka,SL22,10,81.06,Rubber
+Sri Lanka,SL22,10,80.92,Rubber
+Sri Lanka,SL22,10,80.76,PA
+Sri Lanka,SL22,10,80.60,Rubber
+Sri Lanka,SL22,10,80.43,PTFE
+Sri Lanka,SL22,10,80.13,PA
+Sri Lanka,SL22,20,98.80,PP
+Sri Lanka,SL22,20,94.30,PA
+Sri Lanka,SL22,20,93.62,PA
+Sri Lanka,SL22,20,92.71,PA
+Sri Lanka,SL22,20,92.64,PA
+Sri Lanka,SL22,20,92.46,PA
+Sri Lanka,SL22,20,92.38,PA
+Sri Lanka,SL22,20,91.85,PA
+Sri Lanka,SL22,20,91.84,PA
+Sri Lanka,SL22,20,91.59,PA
+Sri Lanka,SL22,20,91.42,PA
+Sri Lanka,SL22,20,91.16,PA
+Sri Lanka,SL22,20,91.05,PA
+Sri Lanka,SL22,20,90.94,PA
+Sri Lanka,SL22,20,90.74,PA
+Sri Lanka,SL22,20,90.58,PA
+Sri Lanka,SL22,20,90.46,PA
+Sri Lanka,SL22,20,90.26,PA
+Sri Lanka,SL22,20,89.51,PA
+Sri Lanka,SL22,20,89.49,PA
+Sri Lanka,SL22,20,89.09,PA
+Sri Lanka,SL22,20,88.38,PA
+Sri Lanka,SL22,20,88.35,PA
+Sri Lanka,SL22,20,88.11,PA
+Sri Lanka,SL22,20,87.94,PA
+Sri Lanka,SL22,20,87.42,PA
+Sri Lanka,SL22,20,87.39,Rubber
+Sri Lanka,SL22,20,87.07,PA
+Sri Lanka,SL22,20,86.96,PA
+Sri Lanka,SL22,20,86.71,PA
+Sri Lanka,SL22,20,86.23,PA
+Sri Lanka,SL22,20,85.99,PA
+Sri Lanka,SL22,20,85.75,Rubber
+Sri Lanka,SL22,20,85.69,Rubber
+Sri Lanka,SL22,20,85.59,PA
+Sri Lanka,SL22,20,85.35,PA
+Sri Lanka,SL22,20,84.65,Rubber
+Sri Lanka,SL22,20,84.44,Rubber
+Sri Lanka,SL22,20,84.08,PA
+Sri Lanka,SL22,20,83.95,PA
+Sri Lanka,SL22,20,83.74,PA
+Sri Lanka,SL22,20,83.35,PA
+Sri Lanka,SL22,20,83.30,PA
+Sri Lanka,SL22,20,83.30,PA
+Sri Lanka,SL22,20,83.16,PA
+Sri Lanka,SL22,20,83.06,PA
+Sri Lanka,SL22,20,82.37,ABS
+Sri Lanka,SL22,20,82.09,PA
+Sri Lanka,SL22,20,81.81,Rubber
+Sri Lanka,SL22,20,81.60,PTFE
+Sri Lanka,SL22,20,81.60,PA
+Sri Lanka,SL22,20,81.59,PP
+Sri Lanka,SL22,20,81.38,PA
+Sri Lanka,SL22,20,80.03,PA
+Sri Lanka,SL22,30,96.00,PA
+Sri Lanka,SL22,30,90.41,PA
+Sri Lanka,SL22,30,89.72,PA
+Sri Lanka,SL22,30,89.49,PA
+Sri Lanka,SL22,30,87.90,PA
+Sri Lanka,SL22,30,85.69,PA
+Sri Lanka,SL22,30,83.90,PA
+Sri Lanka,SL22,30,83.86,PA
+Sri Lanka,SL22,30,83.09,PA
+Sri Lanka,SL22,30,83.04,PC
+Sri Lanka,SL22,30,82.86,PA
+Sri Lanka,SL22,30,82.68,PA
+Sri Lanka,SL22,30,82.53,PA
+Sri Lanka,SL22,30,81.86,PA
+Sri Lanka,SL22,30,81.75,PA
+Sri Lanka,SL22,30,81.65,PVC
+Sri Lanka,SL22,30,81.50,PA
+Sri Lanka,SL22,30,81.26,PU
+Sri Lanka,SL22,30,80.71,PA
+Sri Lanka,SL22,30,80.35,PVC
+Sri Lanka,SL22,30,80.30,PU
+Sri Lanka,SL22,30,80.24,PVC
+Sri Lanka,SL23,10,92.85,PET
+Sri Lanka,SL23,10,92.82,PA
+Sri Lanka,SL23,10,92.61,PA
+Sri Lanka,SL23,10,91.78,PA
+Sri Lanka,SL23,10,91.38,PA
+Sri Lanka,SL23,10,90.89,PA
+Sri Lanka,SL23,10,90.79,PA
+Sri Lanka,SL23,10,90.18,PA
+Sri Lanka,SL23,10,90.17,PA
+Sri Lanka,SL23,10,90.03,PA
+Sri Lanka,SL23,10,89.93,PA
+Sri Lanka,SL23,10,88.82,PA
+Sri Lanka,SL23,10,88.16,PA
+Sri Lanka,SL23,10,87.81,PA
+Sri Lanka,SL23,10,87.75,PA
+Sri Lanka,SL23,10,86.97,PA
+Sri Lanka,SL23,10,86.30,PA
+Sri Lanka,SL23,10,86.26,PA
+Sri Lanka,SL23,10,85.59,PET
+Sri Lanka,SL23,10,85.10,PA
+Sri Lanka,SL23,10,84.42,PA
+Sri Lanka,SL23,10,84.09,PA
+Sri Lanka,SL23,10,84.08,Rubber
+Sri Lanka,SL23,10,83.97,PA
+Sri Lanka,SL23,10,82.86,PA
+Sri Lanka,SL23,10,82.24,PA
+Sri Lanka,SL23,10,81.90,PA
+Sri Lanka,SL23,10,81.23,PU
+Sri Lanka,SL23,10,81.21,Rubber
+Sri Lanka,SL23,10,81.00,PA
+Sri Lanka,SL23,10,80.82,PA
+Sri Lanka,SL23,10,80.52,PU
+Sri Lanka,SL23,10,80.35,PET
+Sri Lanka,SL23,20,94.22,PA
+Sri Lanka,SL23,20,92.49,PA
+Sri Lanka,SL23,20,92.07,PE
+Sri Lanka,SL23,20,91.08,PA
+Sri Lanka,SL23,20,88.91,PA
+Sri Lanka,SL23,20,87.21,PA
+Sri Lanka,SL23,20,86.58,PA
+Sri Lanka,SL23,20,86.55,ABS
+Sri Lanka,SL23,20,84.24,Rubber
+Sri Lanka,SL23,20,84.09,Rubber
+Sri Lanka,SL23,20,83.99,Rubber
+Sri Lanka,SL23,20,81.39,Rubber
+Sri Lanka,SL23,20,81.14,PE
+Sri Lanka,SL23,20,80.89,PP
+Sri Lanka,SL23,20,80.36,Rubber
+Sri Lanka,SL23,20,80.30,Rubber
+Sri Lanka,SL23,20,80.10,PA
+Sri Lanka,SL23,20,80.02,PA
+Sri Lanka,SL23,30,95.82,PE
+Sri Lanka,SL23,30,91.13,Rubber
+Sri Lanka,SL23,30,88.46,PU
+Sri Lanka,SL23,30,87.66,ABS
+Sri Lanka,SL23,30,86.66,PA
+Sri Lanka,SL23,30,84.07,PA
+Sri Lanka,SL23,30,83.10,PA
+Sri Lanka,SL23,30,81.74,PA
+Sri Lanka,SL23,30,81.73,PU
+Sri Lanka,SL23,30,81.14,PA
+Sri Lanka,SL23,30,80.68,ABS
+Sri Lanka,SL24,10,94.62,PE
+Sri Lanka,SL24,10,90.87,PA
+Sri Lanka,SL24,10,90.85,PA
+Sri Lanka,SL24,10,90.81,PET
+Sri Lanka,SL24,10,90.38,PA
+Sri Lanka,SL24,10,90.14,POM
+Sri Lanka,SL24,10,89.45,PET
+Sri Lanka,SL24,10,88.49,PA
+Sri Lanka,SL24,10,88.41,Rubber
+Sri Lanka,SL24,10,87.66,PA
+Sri Lanka,SL24,10,87.21,PA
+Sri Lanka,SL24,10,86.87,Rubber
+Sri Lanka,SL24,10,85.16,PA
+Sri Lanka,SL24,10,83.86,PA
+Sri Lanka,SL24,10,83.54,PP
+Sri Lanka,SL24,10,83.00,PVC
+Sri Lanka,SL24,10,82.61,Rubber
+Sri Lanka,SL24,10,80.91,Rubber
+Sri Lanka,SL24,10,80.56,PA
+Sri Lanka,SL24,10,80.38,PA
+Sri Lanka,SL24,20,96.73,PP
+Sri Lanka,SL24,20,95.33,PA
+Sri Lanka,SL24,20,95.12,PA
+Sri Lanka,SL24,20,94.94,PA
+Sri Lanka,SL24,20,94.49,PA
+Sri Lanka,SL24,20,94.08,PA
+Sri Lanka,SL24,20,94.00,PA
+Sri Lanka,SL24,20,93.60,PA
+Sri Lanka,SL24,20,93.60,PA
+Sri Lanka,SL24,20,93.19,PA
+Sri Lanka,SL24,20,93.14,PA
+Sri Lanka,SL24,20,92.51,PA
+Sri Lanka,SL24,20,92.30,PA
+Sri Lanka,SL24,20,90.87,PA
+Sri Lanka,SL24,20,90.66,PA
+Sri Lanka,SL24,20,90.65,PP
+Sri Lanka,SL24,20,89.82,PA
+Sri Lanka,SL24,20,89.45,PA
+Sri Lanka,SL24,20,89.18,PA
+Sri Lanka,SL24,20,88.71,PU
+Sri Lanka,SL24,20,88.20,PA
+Sri Lanka,SL24,20,87.44,PA
+Sri Lanka,SL24,20,86.52,PA
+Sri Lanka,SL24,20,82.28,Rubber
+Sri Lanka,SL24,20,81.82,PE
+Sri Lanka,SL24,20,81.44,PA
+Sri Lanka,SL24,20,80.25,PA
+Sri Lanka,SL24,20,80.18,PA
+Sri Lanka,SL24,20,80.13,PVC
+Sri Lanka,SL24,30,94.24,PA
+Sri Lanka,SL24,30,93.29,PA
+Sri Lanka,SL24,30,92.22,PA
+Sri Lanka,SL24,30,91.56,PA
+Sri Lanka,SL24,30,91.02,PA
+Sri Lanka,SL24,30,90.33,PET
+Sri Lanka,SL24,30,90.19,PVC
+Sri Lanka,SL24,30,89.77,PA
+Sri Lanka,SL24,30,89.01,PA
+Sri Lanka,SL24,30,87.38,Rubber
+Sri Lanka,SL24,30,86.36,PA
+Sri Lanka,SL24,30,86.23,PA
+Sri Lanka,SL24,30,86.09,PA
+Sri Lanka,SL24,30,84.81,PA
+Sri Lanka,SL24,30,83.64,Rubber
+Sri Lanka,SL24,30,83.18,PA
+Sri Lanka,SL24,30,83.05,PA
+Sri Lanka,SL24,30,82.99,PU
+Sri Lanka,SL24,30,82.41,PA
+Sri Lanka,SL24,30,82.40,PA
+Sri Lanka,SL24,30,82.31,POM
+Sri Lanka,SL24,30,81.53,PA
+Sri Lanka,SL24,30,81.16,PA
+Sri Lanka,SL24,30,81.04,PA
+Sri Lanka,SL24,30,80.99,PA
+Sri Lanka,SL24,30,80.40,PA
+Sri Lanka,SL24,30,80.25,PA
+Sri Lanka,SL24,30,80.15,PE
+Sri Lanka,SL24,30,80.01,PA
+Sri Lanka,SL25,10,95.32,PP
+Sri Lanka,SL25,10,95.00,PE
+Sri Lanka,SL25,10,94.88,PP
+Sri Lanka,SL25,10,90.96,PET
+Sri Lanka,SL25,10,89.87,PA
+Sri Lanka,SL25,10,89.62,PA
+Sri Lanka,SL25,10,89.56,PA
+Sri Lanka,SL25,10,89.46,PA
+Sri Lanka,SL25,10,89.40,PA
+Sri Lanka,SL25,10,88.89,ABS
+Sri Lanka,SL25,10,88.55,PA
+Sri Lanka,SL25,10,87.65,PA
+Sri Lanka,SL25,10,84.88,Rubber
+Sri Lanka,SL25,10,84.65,PA
+Sri Lanka,SL25,10,83.91,PA
+Sri Lanka,SL25,10,81.35,PA
+Sri Lanka,SL25,10,80.29,ABS
+Sri Lanka,SL25,20,98.49,PE
+Sri Lanka,SL25,20,98.34,PP
+Sri Lanka,SL25,20,94.18,PE
+Sri Lanka,SL25,20,93.87,PP
+Sri Lanka,SL25,20,90.83,Rubber
+Sri Lanka,SL25,20,90.53,PA
+Sri Lanka,SL25,20,83.83,Rubber
+Sri Lanka,SL25,20,83.34,Rubber
+Sri Lanka,SL25,20,81.68,PA
+Sri Lanka,SL25,30,98.30,PP
+Sri Lanka,SL25,30,96.35,POM
+Sri Lanka,SL25,30,96.06,POM
+Sri Lanka,SL25,30,95.72,POM
+Sri Lanka,SL25,30,95.33,POM
+Sri Lanka,SL25,30,95.31,POM
+Sri Lanka,SL25,30,94.97,POM
+Sri Lanka,SL25,30,94.15,PA
+Sri Lanka,SL25,30,93.93,POM
+Sri Lanka,SL25,30,91.85,PP
+Sri Lanka,SL25,30,89.83,PET
+Sri Lanka,SL25,30,86.04,ABS
+Sri Lanka,SL25,30,85.98,PA
+Sri Lanka,SL25,30,84.78,PA
+Sri Lanka,SL25,30,84.76,PA
+Sri Lanka,SL25,30,84.42,PA
+Sri Lanka,SL25,30,84.11,PA
+Sri Lanka,SL25,30,84.09,Rubber
+Sri Lanka,SL25,30,83.63,PP
+Sri Lanka,SL25,30,83.58,Rubber
+Sri Lanka,SL25,30,83.53,POM
+Sri Lanka,SL25,30,83.23,Rubber
+Sri Lanka,SL25,30,82.88,PA
+Sri Lanka,SL25,30,81.25,PA
+Sri Lanka,SL25,30,81.18,Rubber
+Sri Lanka,SL25,30,81.14,PA
+Sri Lanka,SL25,30,80.89,Rubber
+Sri Lanka,SL25,30,80.84,Rubber
+Sri Lanka,SL25,30,80.81,POM
+Sri Lanka,SL26,10,98.68,PP
+Sri Lanka,SL26,10,94.80,PE
+Sri Lanka,SL26,10,93.07,PA
+Sri Lanka,SL26,10,90.91,PA
+Sri Lanka,SL26,10,90.90,PA
+Sri Lanka,SL26,10,88.96,PA
+Sri Lanka,SL26,10,82.50,PVC
+Sri Lanka,SL26,10,82.23,ABS
+Sri Lanka,SL26,10,81.71,PA
+Sri Lanka,SL26,10,81.67,Rubber
+Sri Lanka,SL26,20,98.33,PP
+Sri Lanka,SL26,20,97.39,PP
+Sri Lanka,SL26,20,96.88,PP
+Sri Lanka,SL26,20,95.84,PP
+Sri Lanka,SL26,20,94.40,PP
+Sri Lanka,SL26,20,93.80,PA
+Sri Lanka,SL26,20,93.76,PP
+Sri Lanka,SL26,20,93.12,PA
+Sri Lanka,SL26,20,92.07,PP
+Sri Lanka,SL26,20,91.46,Rubber
+Sri Lanka,SL26,20,90.05,PP
+Sri Lanka,SL26,20,89.89,PA
+Sri Lanka,SL26,20,89.17,PP
+Sri Lanka,SL26,20,86.75,Rubber
+Sri Lanka,SL26,20,86.73,PA
+Sri Lanka,SL26,20,86.50,POM
+Sri Lanka,SL26,20,86.31,PA
+Sri Lanka,SL26,20,85.81,PU
+Sri Lanka,SL26,20,85.19,PET
+Sri Lanka,SL26,20,84.72,Rubber
+Sri Lanka,SL26,20,83.90,Rubber
+Sri Lanka,SL26,20,83.63,ABS
+Sri Lanka,SL26,20,83.47,Rubber
+Sri Lanka,SL26,20,83.46,Rubber
+Sri Lanka,SL26,20,83.29,Rubber
+Sri Lanka,SL26,20,82.57,Rubber
+Sri Lanka,SL26,20,82.24,PA
+Sri Lanka,SL26,20,82.11,Rubber
+Sri Lanka,SL26,20,81.43,PP
+Sri Lanka,SL26,20,81.35,Rubber
+Sri Lanka,SL26,20,80.98,Rubber
+Sri Lanka,SL26,20,80.80,Rubber
+Sri Lanka,SL26,20,80.11,Rubber
+Sri Lanka,SL26,20,80.04,PP
+Sri Lanka,SL26,30,98.30,PE
+Sri Lanka,SL26,30,98.02,PP
+Sri Lanka,SL26,30,97.76,PP
+Sri Lanka,SL26,30,96.01,PE
+Sri Lanka,SL26,30,95.87,PP
+Sri Lanka,SL26,30,93.06,PET
+Sri Lanka,SL26,30,90.78,PA
+Sri Lanka,SL26,30,89.24,PA
+Sri Lanka,SL26,30,88.94,PU
+Sri Lanka,SL26,30,88.51,PP
+Sri Lanka,SL26,30,86.17,PU
+Sri Lanka,SL26,30,85.30,PTFE
+Sri Lanka,SL26,30,84.19,Rubber
+Sri Lanka,SL26,30,83.54,Rubber
+Sri Lanka,SL26,30,82.67,ABS
+Sri Lanka,SL26,30,82.22,PE
+Sri Lanka,SL26,30,81.50,Rubber
+Sri Lanka,SL26,30,81.11,Rubber
+Sri Lanka,SL26,30,80.87,Rubber
+Sri Lanka,SL26,30,80.23,PVC
+Sri Lanka,SL26,30,80.15,Rubber
+Sri Lanka,SL26,30,80.15,PE
+Sri Lanka,SL26,30,80.14,Rubber
+Sri Lanka,SL27,10,92.43,PET
+Sri Lanka,SL27,10,92.16,PA
+Sri Lanka,SL27,10,91.93,PA
+Sri Lanka,SL27,10,89.90,PA
+Sri Lanka,SL27,10,89.74,PA
+Sri Lanka,SL27,10,89.44,PA
+Sri Lanka,SL27,10,89.38,PA
+Sri Lanka,SL27,10,89.17,PA
+Sri Lanka,SL27,10,89.06,PA
+Sri Lanka,SL27,10,87.68,PA
+Sri Lanka,SL27,10,87.39,PA
+Sri Lanka,SL27,10,86.42,PU
+Sri Lanka,SL27,10,86.12,PA
+Sri Lanka,SL27,10,84.85,PA
+Sri Lanka,SL27,10,84.54,PA
+Sri Lanka,SL27,10,84.41,Rubber
+Sri Lanka,SL27,10,84.24,PA
+Sri Lanka,SL27,10,84.17,PA
+Sri Lanka,SL27,10,84.08,PA
+Sri Lanka,SL27,10,83.49,PP
+Sri Lanka,SL27,10,83.10,PA
+Sri Lanka,SL27,10,82.94,PA
+Sri Lanka,SL27,10,82.91,PTFE
+Sri Lanka,SL27,10,82.91,PP
+Sri Lanka,SL27,10,82.85,Rubber
+Sri Lanka,SL27,10,82.77,PP
+Sri Lanka,SL27,10,82.71,PP
+Sri Lanka,SL27,10,82.51,Rubber
+Sri Lanka,SL27,10,82.47,PP
+Sri Lanka,SL27,10,82.44,PP
+Sri Lanka,SL27,10,82.38,PA
+Sri Lanka,SL27,10,82.15,PA
+Sri Lanka,SL27,10,81.96,PP
+Sri Lanka,SL27,10,81.93,PA
+Sri Lanka,SL27,10,81.89,PP
+Sri Lanka,SL27,10,81.82,PA
+Sri Lanka,SL27,10,81.77,PP
+Sri Lanka,SL27,10,81.72,PP
+Sri Lanka,SL27,10,81.66,Rubber
+Sri Lanka,SL27,10,81.34,PU
+Sri Lanka,SL27,10,81.20,PP
+Sri Lanka,SL27,10,81.06,PP
+Sri Lanka,SL27,10,80.96,PVC
+Sri Lanka,SL27,10,80.86,PVC
+Sri Lanka,SL27,10,80.63,PP
+Sri Lanka,SL27,10,80.62,PA
+Sri Lanka,SL27,10,80.62,PA
+Sri Lanka,SL27,10,80.62,Rubber
+Sri Lanka,SL27,10,80.60,PP
+Sri Lanka,SL27,10,80.55,PA
+Sri Lanka,SL27,10,80.19,ABS
+Sri Lanka,SL27,10,80.13,PA
+Sri Lanka,SL27,10,80.09,PA
+Sri Lanka,SL27,10,80.04,Rubber
+Sri Lanka,SL27,10,80.02,Rubber
+Sri Lanka,SL27,10,80.01,PP
+Sri Lanka,SL27,20,92.01,PA
+Sri Lanka,SL27,20,89.87,POM
+Sri Lanka,SL27,20,89.41,POM
+Sri Lanka,SL27,20,89.15,POM
+Sri Lanka,SL27,20,88.67,PA
+Sri Lanka,SL27,20,87.23,PA
+Sri Lanka,SL27,20,87.21,PA
+Sri Lanka,SL27,20,86.26,PA
+Sri Lanka,SL27,20,85.21,PE
+Sri Lanka,SL27,20,85.03,PE
+Sri Lanka,SL27,20,84.35,PA
+Sri Lanka,SL27,20,83.71,PET
+Sri Lanka,SL27,20,83.66,PE
+Sri Lanka,SL27,20,83.17,Rubber
+Sri Lanka,SL27,20,83.11,PTFE
+Sri Lanka,SL27,20,82.62,Rubber
+Sri Lanka,SL27,20,82.59,PE
+Sri Lanka,SL27,20,82.25,Rubber
+Sri Lanka,SL27,20,81.80,ABS
+Sri Lanka,SL27,20,81.65,Rubber
+Sri Lanka,SL27,20,81.21,PA
+Sri Lanka,SL27,20,81.19,Rubber
+Sri Lanka,SL27,20,80.72,Rubber
+Sri Lanka,SL27,20,80.41,Rubber
+Sri Lanka,SL27,20,80.32,Rubber
+Sri Lanka,SL27,20,80.27,PA
+Sri Lanka,SL27,20,80.06,PE
+Sri Lanka,SL27,30,88.90,PA
+Sri Lanka,SL27,30,88.49,PA
+Sri Lanka,SL27,30,86.97,PA
+Sri Lanka,SL27,30,86.76,PA
+Sri Lanka,SL27,30,85.95,PA
+Sri Lanka,SL27,30,83.73,PE
+Sri Lanka,SL27,30,83.65,POM
+Sri Lanka,SL27,30,83.25,PA
+Sri Lanka,SL27,30,82.67,Rubber
+Sri Lanka,SL27,30,82.43,POM
+Sri Lanka,SL27,30,82.42,PU
+Sri Lanka,SL27,30,81.73,PU
+Sri Lanka,SL27,30,81.72,POM
+Sri Lanka,SL27,30,81.29,PA
+Sri Lanka,SL27,30,81.22,POM
+Sri Lanka,SL27,30,81.06,Rubber
+Sri Lanka,SL27,30,80.99,Rubber
+Sri Lanka,SL27,30,80.98,PE
+Sri Lanka,SL27,30,80.95,PA
+Sri Lanka,SL27,30,80.42,PE
+Sri Lanka,SL27,30,80.31,Rubber
+Sri Lanka,SL27,30,80.13,PU
+Sri Lanka,SL27,30,80.10,POM
+Sri Lanka,SL27,30,80.02,ABS
+Sri Lanka,SL28,10,90.43,PA
+Sri Lanka,SL28,10,89.29,Rubber
+Sri Lanka,SL28,10,89.12,PA
+Sri Lanka,SL28,10,86.52,Rubber
+Sri Lanka,SL28,10,85.38,PA
+Sri Lanka,SL28,10,81.74,Rubber
+Sri Lanka,SL28,10,81.06,Rubber
+Sri Lanka,SL28,10,81.05,Rubber
+Sri Lanka,SL28,10,80.99,PA
+Sri Lanka,SL28,10,80.13,Rubber
+Sri Lanka,SL28,10,80.12,PE
+Sri Lanka,SL28,20,89.72,PA
+Sri Lanka,SL28,20,88.03,Rubber
+Sri Lanka,SL28,20,86.59,PE
+Sri Lanka,SL28,20,85.94,Rubber
+Sri Lanka,SL28,20,85.25,PA
+Sri Lanka,SL28,20,84.72,Rubber
+Sri Lanka,SL28,20,84.69,PE
+Sri Lanka,SL28,20,84.38,Rubber
+Sri Lanka,SL28,20,84.09,PA
+Sri Lanka,SL28,20,83.88,Rubber
+Sri Lanka,SL28,20,83.82,PE
+Sri Lanka,SL28,20,83.60,PE
+Sri Lanka,SL28,20,83.41,Rubber
+Sri Lanka,SL28,20,83.02,Rubber
+Sri Lanka,SL28,20,82.98,Rubber
+Sri Lanka,SL28,20,82.96,PE
+Sri Lanka,SL28,20,82.91,PE
+Sri Lanka,SL28,20,82.86,Rubber
+Sri Lanka,SL28,20,82.85,Rubber
+Sri Lanka,SL28,20,82.77,Rubber
+Sri Lanka,SL28,20,82.52,Rubber
+Sri Lanka,SL28,20,82.42,PE
+Sri Lanka,SL28,20,82.41,PE
+Sri Lanka,SL28,20,82.39,PA
+Sri Lanka,SL28,20,82.25,PA
+Sri Lanka,SL28,20,81.99,Rubber
+Sri Lanka,SL28,20,81.95,PA
+Sri Lanka,SL28,20,81.91,PA
+Sri Lanka,SL28,20,81.81,PA
+Sri Lanka,SL28,20,81.80,PU
+Sri Lanka,SL28,20,81.78,PE
+Sri Lanka,SL28,20,81.69,PE
+Sri Lanka,SL28,20,81.68,PE
+Sri Lanka,SL28,20,81.53,Rubber
+Sri Lanka,SL28,20,81.44,PA
+Sri Lanka,SL28,20,81.36,PE
+Sri Lanka,SL28,20,81.21,PE
+Sri Lanka,SL28,20,81.17,Rubber
+Sri Lanka,SL28,20,81.15,PVC
+Sri Lanka,SL28,20,81.06,PTFE
+Sri Lanka,SL28,20,81.00,PA
+Sri Lanka,SL28,20,80.96,PE
+Sri Lanka,SL28,20,80.89,PE
+Sri Lanka,SL28,20,80.87,PU
+Sri Lanka,SL28,20,80.56,Rubber
+Sri Lanka,SL28,20,80.41,PA
+Sri Lanka,SL28,20,80.33,PE
+Sri Lanka,SL28,20,80.28,PE
+Sri Lanka,SL28,20,80.25,PE
+Sri Lanka,SL28,20,80.23,PA
+Sri Lanka,SL28,20,80.20,PVC
+Sri Lanka,SL28,20,80.20,PVC
+Sri Lanka,SL28,20,80.15,Rubber
+Sri Lanka,SL28,20,80.10,PA
+Sri Lanka,SL28,20,80.02,Rubber
+Sri Lanka,SL28,30,90.67,PA
+Sri Lanka,SL28,30,89.82,PA
+Sri Lanka,SL28,30,88.07,PA
+Sri Lanka,SL28,30,85.93,PA
+Sri Lanka,SL28,30,84.26,Rubber
+Sri Lanka,SL28,30,81.81,PA
+Sri Lanka,SL28,30,81.76,Rubber
+Sri Lanka,SL28,30,81.67,PA
+Sri Lanka,SL28,30,81.06,PA
+Sri Lanka,SL28,30,80.74,PA
+Sri Lanka,SL28,30,80.33,Rubber
+Sri Lanka,SL28,30,80.28,Rubber
+Sri Lanka,SL28,30,80.18,Rubber
+Sri Lanka,SL29,10,97.83,PE
+Sri Lanka,SL29,10,96.33,PS
+Sri Lanka,SL29,10,94.73,PS
+Sri Lanka,SL29,10,91.61,PS
+Sri Lanka,SL29,10,90.92,PS
+Sri Lanka,SL29,10,89.36,PET
+Sri Lanka,SL29,10,86.68,Rubber
+Sri Lanka,SL29,10,86.44,PA
+Sri Lanka,SL29,10,85.53,Rubber
+Sri Lanka,SL29,10,85.46,PA
+Sri Lanka,SL29,10,85.38,Rubber
+Sri Lanka,SL29,10,85.26,PA
+Sri Lanka,SL29,10,85.03,Rubber
+Sri Lanka,SL29,10,84.62,PA
+Sri Lanka,SL29,10,84.49,PA
+Sri Lanka,SL29,10,84.01,PA
+Sri Lanka,SL29,10,83.16,Rubber
+Sri Lanka,SL29,10,83.09,PA
+Sri Lanka,SL29,10,82.64,PA
+Sri Lanka,SL29,10,82.41,Rubber
+Sri Lanka,SL29,10,82.00,PTFE
+Sri Lanka,SL29,10,81.39,PA
+Sri Lanka,SL29,10,81.24,PA
+Sri Lanka,SL29,10,81.04,PA
+Sri Lanka,SL29,10,81.03,Rubber
+Sri Lanka,SL29,10,80.95,PA
+Sri Lanka,SL29,10,80.80,Rubber
+Sri Lanka,SL29,10,80.73,Rubber
+Sri Lanka,SL29,10,80.73,Rubber
+Sri Lanka,SL29,10,80.71,Rubber
+Sri Lanka,SL29,10,80.69,PA
+Sri Lanka,SL29,10,80.62,Rubber
+Sri Lanka,SL29,10,80.42,PA
+Sri Lanka,SL29,10,80.39,Rubber
+Sri Lanka,SL29,10,80.26,Rubber
+Sri Lanka,SL29,10,80.26,Rubber
+Sri Lanka,SL29,10,80.10,Rubber
+Sri Lanka,SL29,10,80.04,PP
+Sri Lanka,SL29,10,80.02,PP
+Sri Lanka,SL29,30,90.97,PU
+Sri Lanka,SL29,30,90.77,PU
+Sri Lanka,SL29,30,89.85,PU
+Sri Lanka,SL29,30,89.80,PU
+Sri Lanka,SL29,30,89.50,PU
+Sri Lanka,SL29,30,89.49,PU
+Sri Lanka,SL29,30,89.21,PU
+Sri Lanka,SL29,30,89.21,Rubber
+Sri Lanka,SL29,30,88.59,PET
+Sri Lanka,SL29,30,88.39,PU
+Sri Lanka,SL29,30,88.17,PU
+Sri Lanka,SL29,30,87.88,PA
+Sri Lanka,SL29,30,87.80,PU
+Sri Lanka,SL29,30,87.68,PU
+Sri Lanka,SL29,30,87.52,PU
+Sri Lanka,SL29,30,87.46,PU
+Sri Lanka,SL29,30,87.35,PU
+Sri Lanka,SL29,30,87.31,PU
+Sri Lanka,SL29,30,87.26,PU
+Sri Lanka,SL29,30,87.18,Rubber
+Sri Lanka,SL29,30,87.03,PU
+Sri Lanka,SL29,30,86.98,Rubber
+Sri Lanka,SL29,30,86.95,Rubber
+Sri Lanka,SL29,30,86.93,PU
+Sri Lanka,SL29,30,86.86,PU
+Sri Lanka,SL29,30,86.75,PU
+Sri Lanka,SL29,30,86.64,Rubber
+Sri Lanka,SL29,30,86.63,PU
+Sri Lanka,SL29,30,86.61,PU
+Sri Lanka,SL29,30,86.60,PU
+Sri Lanka,SL29,30,86.59,Rubber
+Sri Lanka,SL29,30,86.54,Rubber
+Sri Lanka,SL29,30,86.49,PU
+Sri Lanka,SL29,30,86.47,PU
+Sri Lanka,SL29,30,86.42,Rubber
+Sri Lanka,SL29,30,86.37,PU
+Sri Lanka,SL29,30,86.31,PU
+Sri Lanka,SL29,30,86.30,Rubber
+Sri Lanka,SL29,30,86.27,Rubber
+Sri Lanka,SL29,30,86.27,Rubber
+Sri Lanka,SL29,30,86.25,Rubber
+Sri Lanka,SL29,30,86.21,PU
+Sri Lanka,SL29,30,86.14,PU
+Sri Lanka,SL29,30,86.11,Rubber
+Sri Lanka,SL29,30,86.10,PU
+Sri Lanka,SL29,30,86.06,PU
+Sri Lanka,SL29,30,86.06,Rubber
+Sri Lanka,SL29,30,86.04,Rubber
+Sri Lanka,SL29,30,86.01,Rubber
+Sri Lanka,SL29,30,86.01,PU
+Sri Lanka,SL29,30,85.99,Rubber
+Sri Lanka,SL29,30,85.97,PU
+Sri Lanka,SL29,30,85.96,Rubber
+Sri Lanka,SL29,30,85.96,Rubber
+Sri Lanka,SL29,30,85.93,Rubber
+Sri Lanka,SL29,30,85.88,PU
+Sri Lanka,SL29,30,85.88,PU
+Sri Lanka,SL29,30,85.88,Rubber
+Sri Lanka,SL29,30,85.86,PU
+Sri Lanka,SL29,30,85.86,Rubber
+Sri Lanka,SL29,30,85.85,PU
+Sri Lanka,SL29,30,85.84,Rubber
+Sri Lanka,SL29,30,85.84,Rubber
+Sri Lanka,SL29,30,85.83,Rubber
+Sri Lanka,SL29,30,85.82,Rubber
+Sri Lanka,SL29,30,85.78,Rubber
+Sri Lanka,SL29,30,85.78,Rubber
+Sri Lanka,SL29,30,85.76,Rubber
+Sri Lanka,SL29,30,85.76,PVC
+Sri Lanka,SL29,30,85.76,PU
+Sri Lanka,SL29,30,85.74,Rubber
+Sri Lanka,SL29,30,85.71,Rubber
+Sri Lanka,SL29,30,85.68,Rubber
+Sri Lanka,SL29,30,85.67,Rubber
+Sri Lanka,SL29,30,85.67,Rubber
+Sri Lanka,SL29,30,85.67,PU
+Sri Lanka,SL29,30,85.65,Rubber
+Sri Lanka,SL29,30,85.65,Rubber
+Sri Lanka,SL29,30,85.65,Rubber
+Sri Lanka,SL29,30,85.63,Rubber
+Sri Lanka,SL29,30,85.61,Rubber
+Sri Lanka,SL29,30,85.59,PU
+Sri Lanka,SL29,30,85.58,Rubber
+Sri Lanka,SL29,30,85.58,Rubber
+Sri Lanka,SL29,30,85.57,Rubber
+Sri Lanka,SL29,30,85.56,Rubber
+Sri Lanka,SL29,30,85.54,Rubber
+Sri Lanka,SL29,30,85.53,Rubber
+Sri Lanka,SL29,30,85.53,Rubber
+Sri Lanka,SL29,30,85.52,Rubber
+Sri Lanka,SL29,30,85.51,Rubber
+Sri Lanka,SL29,30,85.51,Rubber
+Sri Lanka,SL29,30,85.49,Rubber
+Sri Lanka,SL29,30,85.47,Rubber
+Sri Lanka,SL29,30,85.47,Rubber
+Sri Lanka,SL29,30,85.46,Rubber
+Sri Lanka,SL29,30,85.46,Rubber
+Sri Lanka,SL29,30,85.44,Rubber
+Sri Lanka,SL29,30,85.44,Rubber
+Sri Lanka,SL29,30,85.44,Rubber
+Sri Lanka,SL29,30,85.44,Rubber
+Sri Lanka,SL29,30,85.43,Rubber
+Sri Lanka,SL29,30,85.42,Rubber
+Sri Lanka,SL29,30,85.41,Rubber
+Sri Lanka,SL29,30,85.39,Rubber
+Sri Lanka,SL29,30,85.39,Rubber
+Sri Lanka,SL29,30,85.39,Rubber
+Sri Lanka,SL29,30,85.38,Rubber
+Sri Lanka,SL29,30,85.32,Rubber
+Sri Lanka,SL29,30,85.32,PU
+Sri Lanka,SL29,30,85.30,PU
+Sri Lanka,SL29,30,85.30,Rubber
+Sri Lanka,SL29,30,85.30,Rubber
+Sri Lanka,SL29,30,85.29,Rubber
+Sri Lanka,SL29,30,85.29,Rubber
+Sri Lanka,SL29,30,85.29,Rubber
+Sri Lanka,SL29,30,85.27,Rubber
+Sri Lanka,SL29,30,85.26,Rubber
+Sri Lanka,SL29,30,85.26,Rubber
+Sri Lanka,SL29,30,85.25,Rubber
+Sri Lanka,SL29,30,85.24,Rubber
+Sri Lanka,SL29,30,85.24,Rubber
+Sri Lanka,SL29,30,85.23,PU
+Sri Lanka,SL29,30,85.22,Rubber
+Sri Lanka,SL29,30,85.20,Rubber
+Sri Lanka,SL29,30,85.20,PU
+Sri Lanka,SL29,30,85.18,Rubber
+Sri Lanka,SL29,30,85.10,Rubber
+Sri Lanka,SL29,30,85.09,Rubber
+Sri Lanka,SL29,30,85.07,Rubber
+Sri Lanka,SL29,30,85.04,PU
+Sri Lanka,SL29,30,85.02,Rubber
+Sri Lanka,SL29,30,85.00,Rubber
+Sri Lanka,SL29,30,84.98,Rubber
+Sri Lanka,SL29,30,84.96,Rubber
+Sri Lanka,SL29,30,84.96,PU
+Sri Lanka,SL29,30,84.95,Rubber
+Sri Lanka,SL29,30,84.94,Rubber
+Sri Lanka,SL29,30,84.94,PU
+Sri Lanka,SL29,30,84.87,Rubber
+Sri Lanka,SL29,30,84.87,PU
+Sri Lanka,SL29,30,84.87,Rubber
+Sri Lanka,SL29,30,84.86,Rubber
+Sri Lanka,SL29,30,84.84,Rubber
+Sri Lanka,SL29,30,84.84,Rubber
+Sri Lanka,SL29,30,84.83,Rubber
+Sri Lanka,SL29,30,84.83,Rubber
+Sri Lanka,SL29,30,84.83,PU
+Sri Lanka,SL29,30,84.81,PU
+Sri Lanka,SL29,30,84.81,Rubber
+Sri Lanka,SL29,30,84.79,Rubber
+Sri Lanka,SL29,30,84.79,Rubber
+Sri Lanka,SL29,30,84.77,Rubber
+Sri Lanka,SL29,30,84.76,Rubber
+Sri Lanka,SL29,30,84.75,Rubber
+Sri Lanka,SL29,30,84.74,PU
+Sri Lanka,SL29,30,84.68,Rubber
+Sri Lanka,SL29,30,84.68,Rubber
+Sri Lanka,SL29,30,84.66,PU
+Sri Lanka,SL29,30,84.64,Rubber
+Sri Lanka,SL29,30,84.62,Rubber
+Sri Lanka,SL29,30,84.59,PU
+Sri Lanka,SL29,30,84.58,PU
+Sri Lanka,SL29,30,84.52,Rubber
+Sri Lanka,SL29,30,84.50,PU
+Sri Lanka,SL29,30,84.43,Rubber
+Sri Lanka,SL29,30,84.35,Rubber
+Sri Lanka,SL29,30,84.33,Rubber
+Sri Lanka,SL29,30,84.33,Rubber
+Sri Lanka,SL29,30,84.31,PU
+Sri Lanka,SL29,30,84.28,Rubber
+Sri Lanka,SL29,30,84.26,Rubber
+Sri Lanka,SL29,30,84.25,Rubber
+Sri Lanka,SL29,30,84.25,PU
+Sri Lanka,SL29,30,84.24,Rubber
+Sri Lanka,SL29,30,84.21,Rubber
+Sri Lanka,SL29,30,84.20,Rubber
+Sri Lanka,SL29,30,84.19,Rubber
+Sri Lanka,SL29,30,84.16,Rubber
+Sri Lanka,SL29,30,84.06,Rubber
+Sri Lanka,SL29,30,84.05,Rubber
+Sri Lanka,SL29,30,84.00,Rubber
+Sri Lanka,SL29,30,83.97,Rubber
+Sri Lanka,SL29,30,83.96,PU
+Sri Lanka,SL29,30,83.92,Rubber
+Sri Lanka,SL29,30,83.91,ABS
+Sri Lanka,SL29,30,83.88,Rubber
+Sri Lanka,SL29,30,83.78,Rubber
+Sri Lanka,SL29,30,83.78,Rubber
+Sri Lanka,SL29,30,83.76,Rubber
+Sri Lanka,SL29,30,83.74,PA
+Sri Lanka,SL29,30,83.67,Rubber
+Sri Lanka,SL29,30,83.65,Rubber
+Sri Lanka,SL29,30,83.63,Rubber
+Sri Lanka,SL29,30,83.55,PU
+Sri Lanka,SL29,30,83.54,PET
+Sri Lanka,SL29,30,83.46,PVC
+Sri Lanka,SL29,30,83.41,ABS
+Sri Lanka,SL29,30,83.37,PA
+Sri Lanka,SL29,30,83.25,Rubber
+Sri Lanka,SL29,30,83.24,Rubber
+Sri Lanka,SL29,30,83.20,PU
+Sri Lanka,SL29,30,83.11,Rubber
+Sri Lanka,SL29,30,83.09,PU
+Sri Lanka,SL29,30,83.09,Rubber
+Sri Lanka,SL29,30,83.07,Rubber
+Sri Lanka,SL29,30,83.06,Rubber
+Sri Lanka,SL29,30,83.06,Rubber
+Sri Lanka,SL29,30,83.00,PU
+Sri Lanka,SL29,30,83.00,Rubber
+Sri Lanka,SL29,30,82.98,Rubber
+Sri Lanka,SL29,30,82.63,Rubber
+Sri Lanka,SL29,30,82.61,PU
+Sri Lanka,SL29,30,82.54,PU
+Sri Lanka,SL29,30,82.52,Rubber
+Sri Lanka,SL29,30,82.50,PET
+Sri Lanka,SL29,30,82.49,Rubber
+Sri Lanka,SL29,30,82.48,Rubber
+Sri Lanka,SL29,30,82.36,PU
+Sri Lanka,SL29,30,82.18,PU
+Sri Lanka,SL29,30,82.01,Rubber
+Sri Lanka,SL29,30,82.00,ABS
+Sri Lanka,SL29,30,81.96,Rubber
+Sri Lanka,SL29,30,81.92,PA
+Sri Lanka,SL29,30,81.91,Rubber
+Sri Lanka,SL29,30,81.56,Rubber
+Sri Lanka,SL29,30,81.45,Rubber
+Sri Lanka,SL29,30,81.33,Rubber
+Sri Lanka,SL29,30,81.27,PA
+Sri Lanka,SL29,30,81.04,PU
+Sri Lanka,SL29,30,81.00,Rubber
+Sri Lanka,SL29,30,80.96,Rubber
+Sri Lanka,SL29,30,80.94,PU
+Sri Lanka,SL29,30,80.94,Rubber
+Sri Lanka,SL29,30,80.91,Rubber
+Sri Lanka,SL29,30,80.87,PU
+Sri Lanka,SL29,30,80.83,Rubber
+Sri Lanka,SL29,30,80.77,Rubber
+Sri Lanka,SL29,30,80.62,PVC
+Sri Lanka,SL29,30,80.47,PA
+Sri Lanka,SL29,30,80.44,Rubber
+Sri Lanka,SL29,30,80.38,Rubber
+Sri Lanka,SL29,30,80.36,PVC
+Sri Lanka,SL29,30,80.32,Rubber
+Sri Lanka,SL29,30,80.22,PVC
+Sri Lanka,SL29,30,80.22,PU
+Sri Lanka,SL29,30,80.20,PU
+Sri Lanka,SL29,30,80.10,Rubber
+Sri Lanka,SL29,30,80.01,PA
+Sri Lanka,SL33,10,97.64,PP
+Sri Lanka,SL33,10,93.79,POM
+Sri Lanka,SL33,10,91.84,Rubber
+Sri Lanka,SL33,10,91.13,PA
+Sri Lanka,SL33,10,89.43,PET
+Sri Lanka,SL33,10,87.05,Rubber
+Sri Lanka,SL33,10,86.94,Rubber
+Sri Lanka,SL33,10,86.34,Rubber
+Sri Lanka,SL33,10,86.28,Rubber
+Sri Lanka,SL33,10,85.49,Rubber
+Sri Lanka,SL33,10,85.43,PTFE
+Sri Lanka,SL33,10,85.38,Rubber
+Sri Lanka,SL33,10,85.23,PTFE
+Sri Lanka,SL33,10,85.21,PTFE
+Sri Lanka,SL33,10,85.14,PET
+Sri Lanka,SL33,10,84.82,Rubber
+Sri Lanka,SL33,10,84.66,PTFE
+Sri Lanka,SL33,10,84.39,Rubber
+Sri Lanka,SL33,10,83.72,Rubber
+Sri Lanka,SL33,10,83.53,Rubber
+Sri Lanka,SL33,10,83.34,PA
+Sri Lanka,SL33,10,83.23,Rubber
+Sri Lanka,SL33,10,83.01,Rubber
+Sri Lanka,SL33,10,82.93,PTFE
+Sri Lanka,SL33,10,82.61,Rubber
+Sri Lanka,SL33,10,82.26,Rubber
+Sri Lanka,SL33,10,81.82,Rubber
+Sri Lanka,SL33,10,81.67,Rubber
+Sri Lanka,SL33,10,81.64,Rubber
+Sri Lanka,SL33,10,81.34,Rubber
+Sri Lanka,SL33,10,81.29,PTFE
+Sri Lanka,SL33,10,81.26,Rubber
+Sri Lanka,SL33,10,81.15,Rubber
+Sri Lanka,SL33,10,80.94,Rubber
+Sri Lanka,SL33,10,80.73,PA
+Sri Lanka,SL33,10,80.61,Rubber
+Sri Lanka,SL33,20,96.38,PP
+Sri Lanka,SL33,20,92.74,PA
+Sri Lanka,SL33,20,92.39,PA
+Sri Lanka,SL33,20,92.02,PA
+Sri Lanka,SL33,20,91.99,PA
+Sri Lanka,SL33,20,91.54,PA
+Sri Lanka,SL33,20,91.17,PA
+Sri Lanka,SL33,20,90.54,PA
+Sri Lanka,SL33,20,90.16,PA
+Sri Lanka,SL33,20,89.99,PA
+Sri Lanka,SL33,20,89.90,PA
+Sri Lanka,SL33,20,89.28,PA
+Sri Lanka,SL33,20,89.25,PA
+Sri Lanka,SL33,20,88.43,Rubber
+Sri Lanka,SL33,20,88.07,PA
+Sri Lanka,SL33,20,87.20,PA
+Sri Lanka,SL33,20,87.03,PA
+Sri Lanka,SL33,20,85.71,PTFE
+Sri Lanka,SL33,20,85.70,Rubber
+Sri Lanka,SL33,20,84.99,PA
+Sri Lanka,SL33,20,84.76,PA
+Sri Lanka,SL33,20,84.39,PA
+Sri Lanka,SL33,20,84.23,PA
+Sri Lanka,SL33,20,83.46,PA
+Sri Lanka,SL33,20,83.43,PA
+Sri Lanka,SL33,20,83.12,Rubber
+Sri Lanka,SL33,20,83.03,Rubber
+Sri Lanka,SL33,20,82.69,Rubber
+Sri Lanka,SL33,20,82.07,PP
+Sri Lanka,SL33,20,82.03,PA
+Sri Lanka,SL33,20,81.89,PP
+Sri Lanka,SL33,20,81.87,PA
+Sri Lanka,SL33,20,81.83,Rubber
+Sri Lanka,SL33,20,81.83,PP
+Sri Lanka,SL33,20,81.66,Rubber
+Sri Lanka,SL33,20,81.53,PA
+Sri Lanka,SL33,20,81.29,PA
+Sri Lanka,SL33,20,81.23,PA
+Sri Lanka,SL33,20,81.12,Rubber
+Sri Lanka,SL33,20,80.92,PA
+Sri Lanka,SL33,20,80.59,PA
+Sri Lanka,SL33,20,80.42,Rubber
+Sri Lanka,SL33,20,80.36,PA
+Sri Lanka,SL33,20,80.25,Rubber
+Sri Lanka,SL33,20,80.20,PA
+Sri Lanka,SL33,30,94.53,PTFE
+Sri Lanka,SL33,30,92.96,PA
+Sri Lanka,SL33,30,92.23,PA
+Sri Lanka,SL33,30,91.47,PA
+Sri Lanka,SL33,30,89.62,PA
+Sri Lanka,SL33,30,88.22,PA
+Sri Lanka,SL33,30,87.54,PE
+Sri Lanka,SL33,30,87.29,Rubber
+Sri Lanka,SL33,30,86.82,PP
+Sri Lanka,SL33,30,86.25,PA
+Sri Lanka,SL33,30,84.85,PA
+Sri Lanka,SL33,30,83.18,Rubber
+Sri Lanka,SL33,30,83.17,PET
+Sri Lanka,SL33,30,82.85,PA
+Sri Lanka,SL33,30,82.72,PA
+Sri Lanka,SL33,30,82.49,PA
+Sri Lanka,SL33,30,82.21,PA
+Sri Lanka,SL33,30,80.21,Rubber
+Sri Lanka,SL34,10,92.22,PA
+Sri Lanka,SL34,10,91.67,PA
+Sri Lanka,SL34,10,91.66,PET
+Sri Lanka,SL34,10,91.05,PA
+Sri Lanka,SL34,10,89.26,PA
+Sri Lanka,SL34,10,88.83,PA
+Sri Lanka,SL34,10,88.55,Rubber
+Sri Lanka,SL34,10,86.29,Rubber
+Sri Lanka,SL34,10,84.96,PU
+Sri Lanka,SL34,10,84.90,PA
+Sri Lanka,SL34,10,84.20,PA
+Sri Lanka,SL34,10,82.43,PA
+Sri Lanka,SL34,10,82.27,PA
+Sri Lanka,SL34,10,82.16,PE
+Sri Lanka,SL34,10,81.95,Rubber
+Sri Lanka,SL34,10,80.32,PA
+Sri Lanka,SL34,10,80.32,Rubber
+Sri Lanka,SL34,10,80.30,PA
+Sri Lanka,SL34,20,92.95,Rubber
+Sri Lanka,SL34,20,92.61,Rubber
+Sri Lanka,SL34,20,92.08,Rubber
+Sri Lanka,SL34,20,90.88,PU
+Sri Lanka,SL34,20,89.71,Rubber
+Sri Lanka,SL34,20,89.69,PA
+Sri Lanka,SL34,20,88.24,PA
+Sri Lanka,SL34,20,86.30,PC
+Sri Lanka,SL34,20,85.14,PET
+Sri Lanka,SL34,20,84.11,PA
+Sri Lanka,SL34,20,83.94,PA
+Sri Lanka,SL34,20,83.38,ABS
+Sri Lanka,SL34,20,83.09,ABS
+Sri Lanka,SL34,20,82.76,ABS
+Sri Lanka,SL34,20,82.64,PC
+Sri Lanka,SL34,20,82.55,Rubber
+Sri Lanka,SL34,20,82.24,PVC
+Sri Lanka,SL34,20,82.13,ABS
+Sri Lanka,SL34,20,81.47,ABS
+Sri Lanka,SL34,20,81.38,PET
+Sri Lanka,SL34,20,81.35,ABS
+Sri Lanka,SL34,20,81.29,ABS
+Sri Lanka,SL34,20,81.25,PA
+Sri Lanka,SL34,20,81.17,PET
+Sri Lanka,SL34,20,80.98,PET
+Sri Lanka,SL34,20,80.90,PET
+Sri Lanka,SL34,20,80.85,PA
+Sri Lanka,SL34,20,80.83,PET
+Sri Lanka,SL34,20,80.73,PET
+Sri Lanka,SL34,20,80.70,PA
+Sri Lanka,SL34,20,80.67,ABS
+Sri Lanka,SL34,20,80.58,PET
+Sri Lanka,SL34,20,80.53,PET
+Sri Lanka,SL34,20,80.50,PVC
+Sri Lanka,SL34,20,80.47,ABS
+Sri Lanka,SL34,20,80.45,PET
+Sri Lanka,SL34,20,80.45,PVC
+Sri Lanka,SL34,20,80.27,PP
+Sri Lanka,SL34,20,80.21,ABS
+Sri Lanka,SL34,20,80.13,ABS
+Sri Lanka,SL34,20,80.10,PA
+Sri Lanka,SL34,20,80.07,ABS
+Sri Lanka,SL34,20,80.04,PET
+Sri Lanka,SL34,20,80.03,PET
+Sri Lanka,SL34,30,92.85,PA
+Sri Lanka,SL34,30,91.23,Rubber
+Sri Lanka,SL34,30,86.76,PA
+Sri Lanka,SL34,30,85.91,PA
+Sri Lanka,SL34,30,85.91,PA
+Sri Lanka,SL34,30,84.69,PA
+Sri Lanka,SL34,30,84.69,PP
+Sri Lanka,SL34,30,84.60,PP
+Sri Lanka,SL34,30,84.34,PVC
+Sri Lanka,SL34,30,83.45,PA
+Sri Lanka,SL34,30,83.09,Rubber
+Sri Lanka,SL34,30,82.69,PA
+Sri Lanka,SL34,30,82.06,PP
+Sri Lanka,SL34,30,82.00,PP
+Sri Lanka,SL34,30,81.91,PA
+Sri Lanka,SL34,30,81.78,PA
+Sri Lanka,SL34,30,81.49,PA
+Sri Lanka,SL34,30,80.91,PA
+Sri Lanka,SL34,30,80.74,PA
+Sri Lanka,SL34,30,80.67,PP
+Sri Lanka,SL34,30,80.62,PP
+Sri Lanka,SL34,30,80.54,ABS
+Sri Lanka,SL34,30,80.51,PP
+Sri Lanka,SL34,30,80.47,PA
+Sri Lanka,SL34,30,80.43,PA
+Sri Lanka,SL34,30,80.35,PP
+Sri Lanka,SL34,30,80.22,PP
+Sri Lanka,SL34,30,80.03,PP
+Sri Lanka,SL35,10,93.31,PA
+Sri Lanka,SL35,10,91.95,PP
+Sri Lanka,SL35,10,90.87,PA
+Sri Lanka,SL35,10,90.29,PTFE
+Sri Lanka,SL35,10,86.59,Rubber
+Sri Lanka,SL35,10,85.03,PA
+Sri Lanka,SL35,10,84.78,Rubber
+Sri Lanka,SL35,10,84.48,PA
+Sri Lanka,SL35,10,84.39,Rubber
+Sri Lanka,SL35,10,83.89,PA
+Sri Lanka,SL35,10,83.26,Rubber
+Sri Lanka,SL35,10,83.24,PA
+Sri Lanka,SL35,10,83.09,PVC
+Sri Lanka,SL35,10,83.08,Rubber
+Sri Lanka,SL35,10,82.90,Rubber
+Sri Lanka,SL35,10,82.54,PA
+Sri Lanka,SL35,10,82.52,PA
+Sri Lanka,SL35,10,82.49,PA
+Sri Lanka,SL35,10,82.43,Rubber
+Sri Lanka,SL35,10,82.34,PA
+Sri Lanka,SL35,10,82.31,PA
+Sri Lanka,SL35,10,82.27,Rubber
+Sri Lanka,SL35,10,82.26,PA
+Sri Lanka,SL35,10,82.17,PA
+Sri Lanka,SL35,10,82.07,PA
+Sri Lanka,SL35,10,81.95,PA
+Sri Lanka,SL35,10,81.95,Rubber
+Sri Lanka,SL35,10,81.52,PC
+Sri Lanka,SL35,10,81.47,PA
+Sri Lanka,SL35,10,81.41,PU
+Sri Lanka,SL35,10,81.31,PA
+Sri Lanka,SL35,10,81.19,PA
+Sri Lanka,SL35,10,80.98,PA
+Sri Lanka,SL35,10,80.77,PA
+Sri Lanka,SL35,10,80.70,PA
+Sri Lanka,SL35,10,80.51,PC
+Sri Lanka,SL35,10,80.50,PA
+Sri Lanka,SL35,10,80.48,PA
+Sri Lanka,SL35,10,80.44,PA
+Sri Lanka,SL35,10,80.38,PA
+Sri Lanka,SL35,10,80.32,Rubber
+Sri Lanka,SL35,10,80.21,PA
+Sri Lanka,SL35,10,80.12,Rubber
+Sri Lanka,SL35,10,80.11,PA
+Sri Lanka,SL35,10,80.11,PA
+Sri Lanka,SL35,10,80.06,PA
+Sri Lanka,SL35,20,95.24,PET
+Sri Lanka,SL35,20,93.55,PA
+Sri Lanka,SL35,20,90.27,PP
+Sri Lanka,SL35,20,89.70,PA
+Sri Lanka,SL35,20,88.59,PA
+Sri Lanka,SL35,20,86.29,PE
+Sri Lanka,SL35,20,86.11,PA
+Sri Lanka,SL35,20,86.00,PA
+Sri Lanka,SL35,20,85.92,Rubber
+Sri Lanka,SL35,20,85.38,Rubber
+Sri Lanka,SL35,20,85.17,Rubber
+Sri Lanka,SL35,20,85.09,PA
+Sri Lanka,SL35,20,84.89,PA
+Sri Lanka,SL35,20,84.43,Rubber
+Sri Lanka,SL35,20,83.77,Rubber
+Sri Lanka,SL35,20,83.64,PA
+Sri Lanka,SL35,20,83.58,Rubber
+Sri Lanka,SL35,20,83.36,Rubber
+Sri Lanka,SL35,20,83.29,Rubber
+Sri Lanka,SL35,20,83.14,PP
+Sri Lanka,SL35,20,83.11,PA
+Sri Lanka,SL35,20,82.94,PA
+Sri Lanka,SL35,20,82.84,Rubber
+Sri Lanka,SL35,20,82.48,PE
+Sri Lanka,SL35,20,82.47,Rubber
+Sri Lanka,SL35,20,82.42,PVC
+Sri Lanka,SL35,20,82.38,Rubber
+Sri Lanka,SL35,20,82.33,PA
+Sri Lanka,SL35,20,82.23,PA
+Sri Lanka,SL35,20,82.20,PE
+Sri Lanka,SL35,20,82.04,PA
+Sri Lanka,SL35,20,81.86,PE
+Sri Lanka,SL35,20,81.61,Rubber
+Sri Lanka,SL35,20,81.54,PA
+Sri Lanka,SL35,20,81.48,PE
+Sri Lanka,SL35,20,81.36,PTFE
+Sri Lanka,SL35,20,81.31,Rubber
+Sri Lanka,SL35,20,81.31,PA
+Sri Lanka,SL35,20,81.28,PE
+Sri Lanka,SL35,20,81.24,PVC
+Sri Lanka,SL35,20,81.20,Rubber
+Sri Lanka,SL35,20,81.02,PA
+Sri Lanka,SL35,20,81.00,Rubber
+Sri Lanka,SL35,20,80.79,PA
+Sri Lanka,SL35,20,80.66,Rubber
+Sri Lanka,SL35,20,80.65,PA
+Sri Lanka,SL35,20,80.58,PA
+Sri Lanka,SL35,20,80.54,Rubber
+Sri Lanka,SL35,20,80.42,PA
+Sri Lanka,SL35,20,80.41,PA
+Sri Lanka,SL35,20,80.37,Rubber
+Sri Lanka,SL35,20,80.33,PA
+Sri Lanka,SL35,20,80.23,PE
+Sri Lanka,SL35,20,80.18,Rubber
+Sri Lanka,SL35,20,80.15,PA
+Sri Lanka,SL35,20,80.08,PA
+Sri Lanka,SL35,20,80.07,Rubber
+Sri Lanka,SL35,20,80.01,PA
+Sri Lanka,SL35,30,96.87,PP
+Sri Lanka,SL35,30,96.17,PP
+Sri Lanka,SL35,30,95.97,POM
+Sri Lanka,SL35,30,95.45,PP
+Sri Lanka,SL35,30,93.72,POM
+Sri Lanka,SL35,30,93.15,POM
+Sri Lanka,SL35,30,92.96,PET
+Sri Lanka,SL35,30,91.91,POM
+Sri Lanka,SL35,30,90.59,Rubber
+Sri Lanka,SL35,30,90.16,Rubber
+Sri Lanka,SL35,30,89.28,POM
+Sri Lanka,SL35,30,89.27,Rubber
+Sri Lanka,SL35,30,88.84,PA
+Sri Lanka,SL35,30,88.20,Rubber
+Sri Lanka,SL35,30,87.91,Rubber
+Sri Lanka,SL35,30,87.70,PA
+Sri Lanka,SL35,30,87.65,Rubber
+Sri Lanka,SL35,30,87.57,Rubber
+Sri Lanka,SL35,30,87.20,PA
+Sri Lanka,SL35,30,87.19,Rubber
+Sri Lanka,SL35,30,87.17,PA
+Sri Lanka,SL35,30,87.08,Rubber
+Sri Lanka,SL35,30,86.89,Rubber
+Sri Lanka,SL35,30,86.83,POM
+Sri Lanka,SL35,30,86.74,Rubber
+Sri Lanka,SL35,30,86.42,PA
+Sri Lanka,SL35,30,86.41,Rubber
+Sri Lanka,SL35,30,86.05,Rubber
+Sri Lanka,SL35,30,85.42,Rubber
+Sri Lanka,SL35,30,84.96,Rubber
+Sri Lanka,SL35,30,84.94,Rubber
+Sri Lanka,SL35,30,84.89,Rubber
+Sri Lanka,SL35,30,84.83,Rubber
+Sri Lanka,SL35,30,84.82,Rubber
+Sri Lanka,SL35,30,84.81,Rubber
+Sri Lanka,SL35,30,84.71,Rubber
+Sri Lanka,SL35,30,84.59,Rubber
+Sri Lanka,SL35,30,84.47,Rubber
+Sri Lanka,SL35,30,84.31,Rubber
+Sri Lanka,SL35,30,84.24,Rubber
+Sri Lanka,SL35,30,84.20,Rubber
+Sri Lanka,SL35,30,84.11,Rubber
+Sri Lanka,SL35,30,83.97,Rubber
+Sri Lanka,SL35,30,83.77,Rubber
+Sri Lanka,SL35,30,83.75,Rubber
+Sri Lanka,SL35,30,83.68,Rubber
+Sri Lanka,SL35,30,83.64,Rubber
+Sri Lanka,SL35,30,83.49,Rubber
+Sri Lanka,SL35,30,83.38,Rubber
+Sri Lanka,SL35,30,83.38,Rubber
+Sri Lanka,SL35,30,83.37,Rubber
+Sri Lanka,SL35,30,83.36,Rubber
+Sri Lanka,SL35,30,83.35,Rubber
+Sri Lanka,SL35,30,83.26,Rubber
+Sri Lanka,SL35,30,83.26,Rubber
+Sri Lanka,SL35,30,83.17,Rubber
+Sri Lanka,SL35,30,83.14,Rubber
+Sri Lanka,SL35,30,83.10,Rubber
+Sri Lanka,SL35,30,83.09,Rubber
+Sri Lanka,SL35,30,83.00,Rubber
+Sri Lanka,SL35,30,82.97,Rubber
+Sri Lanka,SL35,30,82.83,Rubber
+Sri Lanka,SL35,30,82.79,Rubber
+Sri Lanka,SL35,30,82.65,PA
+Sri Lanka,SL35,30,82.64,Rubber
+Sri Lanka,SL35,30,82.57,Rubber
+Sri Lanka,SL35,30,82.53,Rubber
+Sri Lanka,SL35,30,82.52,Rubber
+Sri Lanka,SL35,30,82.50,Rubber
+Sri Lanka,SL35,30,82.49,Rubber
+Sri Lanka,SL35,30,82.39,PA
+Sri Lanka,SL35,30,82.39,Rubber
+Sri Lanka,SL35,30,82.39,Rubber
+Sri Lanka,SL35,30,82.15,Rubber
+Sri Lanka,SL35,30,82.14,Rubber
+Sri Lanka,SL35,30,82.01,Rubber
+Sri Lanka,SL35,30,81.87,Rubber
+Sri Lanka,SL35,30,81.84,Rubber
+Sri Lanka,SL35,30,81.84,Rubber
+Sri Lanka,SL35,30,81.79,Rubber
+Sri Lanka,SL35,30,81.77,Rubber
+Sri Lanka,SL35,30,81.69,Rubber
+Sri Lanka,SL35,30,81.63,Rubber
+Sri Lanka,SL35,30,81.59,Rubber
+Sri Lanka,SL35,30,81.58,Rubber
+Sri Lanka,SL35,30,81.55,Rubber
+Sri Lanka,SL35,30,81.52,Rubber
+Sri Lanka,SL35,30,81.40,Rubber
+Sri Lanka,SL35,30,81.39,Rubber
+Sri Lanka,SL35,30,81.25,Rubber
+Sri Lanka,SL35,30,81.22,Rubber
+Sri Lanka,SL35,30,81.22,Rubber
+Sri Lanka,SL35,30,81.20,Rubber
+Sri Lanka,SL35,30,81.15,Rubber
+Sri Lanka,SL35,30,81.14,Rubber
+Sri Lanka,SL35,30,81.14,Rubber
+Sri Lanka,SL35,30,81.12,Rubber
+Sri Lanka,SL35,30,81.06,Rubber
+Sri Lanka,SL35,30,81.06,Rubber
+Sri Lanka,SL35,30,81.02,Rubber
+Sri Lanka,SL35,30,81.02,Rubber
+Sri Lanka,SL35,30,81.01,Rubber
+Sri Lanka,SL35,30,80.88,Rubber
+Sri Lanka,SL35,30,80.80,Rubber
+Sri Lanka,SL35,30,80.68,Rubber
+Sri Lanka,SL35,30,80.68,Rubber
+Sri Lanka,SL35,30,80.67,Rubber
+Sri Lanka,SL35,30,80.65,Rubber
+Sri Lanka,SL35,30,80.62,PTFE
+Sri Lanka,SL35,30,80.62,Rubber
+Sri Lanka,SL35,30,80.60,Rubber
+Sri Lanka,SL35,30,80.59,Rubber
+Sri Lanka,SL35,30,80.58,Rubber
+Sri Lanka,SL35,30,80.57,PP
+Sri Lanka,SL35,30,80.54,Rubber
+Sri Lanka,SL35,30,80.51,Rubber
+Sri Lanka,SL35,30,80.45,Rubber
+Sri Lanka,SL35,30,80.29,Rubber
+Sri Lanka,SL35,30,80.28,Rubber
+Sri Lanka,SL35,30,80.28,Rubber
+Sri Lanka,SL35,30,80.11,Rubber
+Sri Lanka,SL36,10,98.01,PP
+Sri Lanka,SL36,10,97.35,PP
+Sri Lanka,SL36,10,94.11,PA
+Sri Lanka,SL36,10,93.86,PA
+Sri Lanka,SL36,10,93.30,PP
+Sri Lanka,SL36,10,93.18,PA
+Sri Lanka,SL36,10,92.46,PA
+Sri Lanka,SL36,10,91.00,PA
+Sri Lanka,SL36,10,90.06,Rubber
+Sri Lanka,SL36,10,89.60,Rubber
+Sri Lanka,SL36,10,89.15,Rubber
+Sri Lanka,SL36,10,89.07,Rubber
+Sri Lanka,SL36,10,88.88,POM
+Sri Lanka,SL36,10,88.71,Rubber
+Sri Lanka,SL36,10,88.55,Rubber
+Sri Lanka,SL36,10,88.46,Rubber
+Sri Lanka,SL36,10,88.21,Rubber
+Sri Lanka,SL36,10,87.72,PE
+Sri Lanka,SL36,10,87.42,Rubber
+Sri Lanka,SL36,10,87.16,Rubber
+Sri Lanka,SL36,10,86.99,POM
+Sri Lanka,SL36,10,86.97,Rubber
+Sri Lanka,SL36,10,86.96,Rubber
+Sri Lanka,SL36,10,86.61,PA
+Sri Lanka,SL36,10,86.61,PET
+Sri Lanka,SL36,10,85.71,PA
+Sri Lanka,SL36,10,85.47,Rubber
+Sri Lanka,SL36,10,85.35,Rubber
+Sri Lanka,SL36,10,85.31,Rubber
+Sri Lanka,SL36,10,85.31,Rubber
+Sri Lanka,SL36,10,85.30,Rubber
+Sri Lanka,SL36,10,85.25,Rubber
+Sri Lanka,SL36,10,85.22,Rubber
+Sri Lanka,SL36,10,85.15,Rubber
+Sri Lanka,SL36,10,84.84,Rubber
+Sri Lanka,SL36,10,84.74,Rubber
+Sri Lanka,SL36,10,84.62,PA
+Sri Lanka,SL36,10,84.62,Rubber
+Sri Lanka,SL36,10,84.47,PA
+Sri Lanka,SL36,10,84.46,Rubber
+Sri Lanka,SL36,10,84.45,Rubber
+Sri Lanka,SL36,10,84.30,PA
+Sri Lanka,SL36,10,84.18,PTFE
+Sri Lanka,SL36,10,84.13,Rubber
+Sri Lanka,SL36,10,83.58,Rubber
+Sri Lanka,SL36,10,83.42,Rubber
+Sri Lanka,SL36,10,83.35,Rubber
+Sri Lanka,SL36,10,83.30,Rubber
+Sri Lanka,SL36,10,83.18,Rubber
+Sri Lanka,SL36,10,83.08,Rubber
+Sri Lanka,SL36,10,82.91,Rubber
+Sri Lanka,SL36,10,82.81,Rubber
+Sri Lanka,SL36,10,82.78,Rubber
+Sri Lanka,SL36,10,82.63,Rubber
+Sri Lanka,SL36,10,82.63,Rubber
+Sri Lanka,SL36,10,82.50,Rubber
+Sri Lanka,SL36,10,81.93,Rubber
+Sri Lanka,SL36,10,81.82,Rubber
+Sri Lanka,SL36,10,81.44,Rubber
+Sri Lanka,SL36,10,81.40,Rubber
+Sri Lanka,SL36,10,81.25,Rubber
+Sri Lanka,SL36,10,81.23,Rubber
+Sri Lanka,SL36,10,81.10,Rubber
+Sri Lanka,SL36,10,81.05,POM
+Sri Lanka,SL36,10,81.04,Rubber
+Sri Lanka,SL36,10,81.01,Rubber
+Sri Lanka,SL36,10,80.74,Rubber
+Sri Lanka,SL36,10,80.73,Rubber
+Sri Lanka,SL36,10,80.49,Rubber
+Sri Lanka,SL36,10,80.48,Rubber
+Sri Lanka,SL36,10,80.39,PA
+Sri Lanka,SL36,10,80.25,Rubber
+Sri Lanka,SL36,10,80.22,PA
+Sri Lanka,SL36,10,80.15,PVC
+Sri Lanka,SL36,10,80.15,Rubber
+Sri Lanka,SL36,10,80.13,Rubber
+Sri Lanka,SL36,20,99.21,PP
+Sri Lanka,SL36,20,96.53,PP
+Sri Lanka,SL36,20,95.07,PP
+Sri Lanka,SL36,20,94.30,PP
+Sri Lanka,SL36,20,94.21,PA
+Sri Lanka,SL36,20,92.06,PA
+Sri Lanka,SL36,20,91.02,Rubber
+Sri Lanka,SL36,20,90.62,PA
+Sri Lanka,SL36,20,89.27,Rubber
+Sri Lanka,SL36,20,87.98,PA
+Sri Lanka,SL36,20,87.91,PA
+Sri Lanka,SL36,20,87.80,Rubber
+Sri Lanka,SL36,20,85.75,PA
+Sri Lanka,SL36,20,85.45,Rubber
+Sri Lanka,SL36,20,85.34,PTFE
+Sri Lanka,SL36,20,85.12,Rubber
+Sri Lanka,SL36,20,84.79,Rubber
+Sri Lanka,SL36,20,84.34,Rubber
+Sri Lanka,SL36,20,84.32,PP
+Sri Lanka,SL36,20,83.72,Rubber
+Sri Lanka,SL36,20,82.98,Rubber
+Sri Lanka,SL36,20,82.95,PA
+Sri Lanka,SL36,20,82.44,PA
+Sri Lanka,SL36,20,82.37,Rubber
+Sri Lanka,SL36,20,82.07,PA
+Sri Lanka,SL36,20,81.85,PA
+Sri Lanka,SL36,20,81.72,PA
+Sri Lanka,SL36,20,81.70,Rubber
+Sri Lanka,SL36,20,81.59,Rubber
+Sri Lanka,SL36,20,81.56,PE
+Sri Lanka,SL36,20,81.53,Rubber
+Sri Lanka,SL36,20,81.06,Rubber
+Sri Lanka,SL36,20,80.97,PA
+Sri Lanka,SL36,20,80.89,Rubber
+Sri Lanka,SL36,20,80.52,Rubber
+Sri Lanka,SL36,20,80.47,PA
+Sri Lanka,SL36,20,80.38,PA
+Sri Lanka,SL36,20,80.36,Rubber
+Sri Lanka,SL36,20,80.12,PA
+Sri Lanka,SL36,20,80.08,PVC
+Sri Lanka,SL36,30,99.02,PP
+Sri Lanka,SL36,30,86.10,PA
+Sri Lanka,SL36,30,84.73,PA
+Sri Lanka,SL36,30,84.22,Rubber
+Sri Lanka,SL36,30,84.02,PA
+Sri Lanka,SL36,30,83.72,PA
+Sri Lanka,SL36,30,83.06,PA
+Sri Lanka,SL36,30,83.03,PVC
+Sri Lanka,SL36,30,82.94,PA
+Sri Lanka,SL36,30,82.83,PA
+Sri Lanka,SL36,30,82.56,PVC
+Sri Lanka,SL36,30,82.39,Rubber
+Sri Lanka,SL36,30,82.34,PE
+Sri Lanka,SL36,30,81.99,PA
+Sri Lanka,SL36,30,81.79,PVC
+Sri Lanka,SL36,30,81.42,PA
+Sri Lanka,SL36,30,81.38,PVC
+Sri Lanka,SL36,30,81.12,PVC
+Sri Lanka,SL36,30,81.10,PA
+Sri Lanka,SL36,30,80.83,PA
+Sri Lanka,SL36,30,80.71,Rubber
+Sri Lanka,SL36,30,80.65,PA
+Sri Lanka,SL36,30,80.46,PA
+Sri Lanka,SL36,30,80.42,PA
+Sri Lanka,SL36,30,80.26,PA
+Sri Lanka,SL36,30,80.23,PVC
+Sri Lanka,SL36,30,80.00,PA
+Sri Lanka,SL37,10,92.32,PA
+Sri Lanka,SL37,10,90.57,Rubber
+Sri Lanka,SL37,10,89.89,PA
+Sri Lanka,SL37,10,89.09,PE
+Sri Lanka,SL37,10,88.66,Rubber
+Sri Lanka,SL37,10,87.53,PA
+Sri Lanka,SL37,10,87.05,PA
+Sri Lanka,SL37,10,86.67,Rubber
+Sri Lanka,SL37,10,85.96,Rubber
+Sri Lanka,SL37,10,85.84,Rubber
+Sri Lanka,SL37,10,85.84,Rubber
+Sri Lanka,SL37,10,85.38,Rubber
+Sri Lanka,SL37,10,84.99,Rubber
+Sri Lanka,SL37,10,84.67,Rubber
+Sri Lanka,SL37,10,84.46,ABS
+Sri Lanka,SL37,10,83.90,Rubber
+Sri Lanka,SL37,10,83.52,Rubber
+Sri Lanka,SL37,10,82.75,Rubber
+Sri Lanka,SL37,10,82.74,Rubber
+Sri Lanka,SL37,10,82.64,Rubber
+Sri Lanka,SL37,10,82.46,Rubber
+Sri Lanka,SL37,10,82.15,Rubber
+Sri Lanka,SL37,10,82.13,PP
+Sri Lanka,SL37,10,82.11,Rubber
+Sri Lanka,SL37,10,82.05,Rubber
+Sri Lanka,SL37,10,82.04,PP
+Sri Lanka,SL37,10,81.97,Rubber
+Sri Lanka,SL37,10,81.53,Rubber
+Sri Lanka,SL37,10,81.38,Rubber
+Sri Lanka,SL37,10,81.24,PP
+Sri Lanka,SL37,10,81.09,Rubber
+Sri Lanka,SL37,10,80.90,PP
+Sri Lanka,SL37,10,80.77,Rubber
+Sri Lanka,SL37,10,80.75,Rubber
+Sri Lanka,SL37,10,80.74,PA
+Sri Lanka,SL37,10,80.67,Rubber
+Sri Lanka,SL37,10,80.62,PP
+Sri Lanka,SL37,10,80.52,Rubber
+Sri Lanka,SL37,10,80.48,Rubber
+Sri Lanka,SL37,10,80.47,Rubber
+Sri Lanka,SL37,10,80.18,PP
+Sri Lanka,SL37,10,80.17,Rubber
+Sri Lanka,SL37,10,80.14,Rubber
+Sri Lanka,SL37,10,80.08,Rubber
+Sri Lanka,SL37,10,80.05,Rubber
+Sri Lanka,SL37,10,80.03,PP
+Sri Lanka,SL37,20,97.87,PP
+Sri Lanka,SL37,20,97.34,PS
+Sri Lanka,SL37,20,97.00,PP
+Sri Lanka,SL37,20,96.77,PS
+Sri Lanka,SL37,20,95.94,PS
+Sri Lanka,SL37,20,94.57,PS
+Sri Lanka,SL37,20,93.14,PA
+Sri Lanka,SL37,20,93.04,PP
+Sri Lanka,SL37,20,91.65,PS
+Sri Lanka,SL37,20,90.13,Rubber
+Sri Lanka,SL37,20,88.24,PA
+Sri Lanka,SL37,20,87.95,Rubber
+Sri Lanka,SL37,20,87.42,PA
+Sri Lanka,SL37,20,87.40,PET
+Sri Lanka,SL37,20,87.39,Rubber
+Sri Lanka,SL37,20,87.28,PE
+Sri Lanka,SL37,20,87.16,Rubber
+Sri Lanka,SL37,20,86.72,Rubber
+Sri Lanka,SL37,20,86.65,PVC
+Sri Lanka,SL37,20,86.62,Rubber
+Sri Lanka,SL37,20,86.42,Rubber
+Sri Lanka,SL37,20,86.03,Rubber
+Sri Lanka,SL37,20,85.94,Rubber
+Sri Lanka,SL37,20,85.94,Rubber
+Sri Lanka,SL37,20,85.88,PA
+Sri Lanka,SL37,20,85.44,PA
+Sri Lanka,SL37,20,85.28,PP
+Sri Lanka,SL37,20,85.18,Rubber
+Sri Lanka,SL37,20,85.06,Rubber
+Sri Lanka,SL37,20,84.98,Rubber
+Sri Lanka,SL37,20,84.45,Rubber
+Sri Lanka,SL37,20,84.15,Rubber
+Sri Lanka,SL37,20,84.12,Rubber
+Sri Lanka,SL37,20,83.70,Rubber
+Sri Lanka,SL37,20,83.25,Rubber
+Sri Lanka,SL37,20,82.79,Rubber
+Sri Lanka,SL37,20,82.29,PA
+Sri Lanka,SL37,20,82.21,Rubber
+Sri Lanka,SL37,20,82.01,Rubber
+Sri Lanka,SL37,20,81.96,ABS
+Sri Lanka,SL37,20,81.92,PVC
+Sri Lanka,SL37,20,81.78,Rubber
+Sri Lanka,SL37,20,81.77,Rubber
+Sri Lanka,SL37,20,81.58,Rubber
+Sri Lanka,SL37,20,81.43,Rubber
+Sri Lanka,SL37,20,81.19,Rubber
+Sri Lanka,SL37,20,81.16,Rubber
+Sri Lanka,SL37,20,81.07,PA
+Sri Lanka,SL37,20,80.55,PA
+Sri Lanka,SL37,20,80.49,Rubber
+Sri Lanka,SL37,20,80.38,PVC
+Sri Lanka,SL37,20,80.18,Rubber
+Sri Lanka,SL37,30,92.38,PP
+Sri Lanka,SL37,30,90.96,PA
+Sri Lanka,SL37,30,89.33,Rubber
+Sri Lanka,SL37,30,89.26,PA
+Sri Lanka,SL37,30,88.06,Rubber
+Sri Lanka,SL37,30,87.90,PA
+Sri Lanka,SL37,30,87.60,Rubber
+Sri Lanka,SL37,30,87.32,PA
+Sri Lanka,SL37,30,87.23,PA
+Sri Lanka,SL37,30,86.44,Rubber
+Sri Lanka,SL37,30,86.34,Rubber
+Sri Lanka,SL37,30,86.12,Rubber
+Sri Lanka,SL37,30,85.91,Rubber
+Sri Lanka,SL37,30,85.59,Rubber
+Sri Lanka,SL37,30,85.44,Rubber
+Sri Lanka,SL37,30,85.41,Rubber
+Sri Lanka,SL37,30,85.30,Rubber
+Sri Lanka,SL37,30,84.87,PA
+Sri Lanka,SL37,30,84.80,Rubber
+Sri Lanka,SL37,30,84.29,Rubber
+Sri Lanka,SL37,30,84.07,Rubber
+Sri Lanka,SL37,30,84.06,Rubber
+Sri Lanka,SL37,30,83.94,PA
+Sri Lanka,SL37,30,83.68,Rubber
+Sri Lanka,SL37,30,83.53,Rubber
+Sri Lanka,SL37,30,83.49,Rubber
+Sri Lanka,SL37,30,83.22,Rubber
+Sri Lanka,SL37,30,83.00,Rubber
+Sri Lanka,SL37,30,82.77,Rubber
+Sri Lanka,SL37,30,82.70,Rubber
+Sri Lanka,SL37,30,82.58,Rubber
+Sri Lanka,SL37,30,82.26,Rubber
+Sri Lanka,SL37,30,82.23,Rubber
+Sri Lanka,SL37,30,82.22,Rubber
+Sri Lanka,SL37,30,82.07,PA
+Sri Lanka,SL37,30,81.92,PP
+Sri Lanka,SL37,30,81.92,Rubber
+Sri Lanka,SL37,30,81.43,Rubber
+Sri Lanka,SL37,30,81.42,Rubber
+Sri Lanka,SL37,30,81.39,PE
+Sri Lanka,SL37,30,81.34,Rubber
+Sri Lanka,SL37,30,81.32,Rubber
+Sri Lanka,SL37,30,81.29,Rubber
+Sri Lanka,SL37,30,81.17,Rubber
+Sri Lanka,SL37,30,81.12,Rubber
+Sri Lanka,SL37,30,81.11,Rubber
+Sri Lanka,SL37,30,80.97,Rubber
+Sri Lanka,SL37,30,80.96,Rubber
+Sri Lanka,SL37,30,80.91,Rubber
+Sri Lanka,SL37,30,80.88,Rubber
+Sri Lanka,SL37,30,80.84,Rubber
+Sri Lanka,SL37,30,80.75,PE
+Sri Lanka,SL37,30,80.73,Rubber
+Sri Lanka,SL37,30,80.71,Rubber
+Sri Lanka,SL37,30,80.65,Rubber
+Sri Lanka,SL37,30,80.63,Rubber
+Sri Lanka,SL37,30,80.45,Rubber
+Sri Lanka,SL37,30,80.40,Rubber
+Sri Lanka,SL37,30,80.11,Rubber
+Sri Lanka,SL37,30,80.05,Rubber
+Sri Lanka,SL37,30,80.04,PP
+Sri Lanka,SL37,30,80.02,PVC
+Sri Lanka,SL38,10,94.78,PE
+Sri Lanka,SL38,10,89.89,Rubber
+Sri Lanka,SL38,10,89.82,PA
+Sri Lanka,SL38,10,89.74,Rubber
+Sri Lanka,SL38,10,89.67,PA
+Sri Lanka,SL38,10,89.67,Rubber
+Sri Lanka,SL38,10,88.79,PA
+Sri Lanka,SL38,10,88.68,PA
+Sri Lanka,SL38,10,88.00,Rubber
+Sri Lanka,SL38,10,87.82,Rubber
+Sri Lanka,SL38,10,87.39,Rubber
+Sri Lanka,SL38,10,87.38,Rubber
+Sri Lanka,SL38,10,87.32,Rubber
+Sri Lanka,SL38,10,87.17,Rubber
+Sri Lanka,SL38,10,86.75,PA
+Sri Lanka,SL38,10,86.70,Rubber
+Sri Lanka,SL38,10,86.64,PA
+Sri Lanka,SL38,10,86.33,Rubber
+Sri Lanka,SL38,10,86.12,Rubber
+Sri Lanka,SL38,10,85.89,Rubber
+Sri Lanka,SL38,10,85.75,PP
+Sri Lanka,SL38,10,85.72,Rubber
+Sri Lanka,SL38,10,85.43,Rubber
+Sri Lanka,SL38,10,85.34,PA
+Sri Lanka,SL38,10,85.33,PA
+Sri Lanka,SL38,10,85.20,PA
+Sri Lanka,SL38,10,84.97,PP
+Sri Lanka,SL38,10,84.91,Rubber
+Sri Lanka,SL38,10,84.62,Rubber
+Sri Lanka,SL38,10,84.32,Rubber
+Sri Lanka,SL38,10,84.24,Rubber
+Sri Lanka,SL38,10,84.20,Rubber
+Sri Lanka,SL38,10,84.20,PP
+Sri Lanka,SL38,10,84.13,Rubber
+Sri Lanka,SL38,10,84.12,Rubber
+Sri Lanka,SL38,10,84.07,Rubber
+Sri Lanka,SL38,10,83.96,Rubber
+Sri Lanka,SL38,10,83.95,Rubber
+Sri Lanka,SL38,10,83.80,Rubber
+Sri Lanka,SL38,10,83.78,Rubber
+Sri Lanka,SL38,10,83.59,Rubber
+Sri Lanka,SL38,10,83.54,Rubber
+Sri Lanka,SL38,10,83.52,PA
+Sri Lanka,SL38,10,83.49,Rubber
+Sri Lanka,SL38,10,83.44,Rubber
+Sri Lanka,SL38,10,83.41,Rubber
+Sri Lanka,SL38,10,83.27,Rubber
+Sri Lanka,SL38,10,83.25,Rubber
+Sri Lanka,SL38,10,83.24,Rubber
+Sri Lanka,SL38,10,83.20,Rubber
+Sri Lanka,SL38,10,83.14,PP
+Sri Lanka,SL38,10,83.13,PP
+Sri Lanka,SL38,10,82.95,Rubber
+Sri Lanka,SL38,10,82.87,Rubber
+Sri Lanka,SL38,10,82.70,Rubber
+Sri Lanka,SL38,10,82.66,Rubber
+Sri Lanka,SL38,10,82.63,PP
+Sri Lanka,SL38,10,82.58,Rubber
+Sri Lanka,SL38,10,82.46,Rubber
+Sri Lanka,SL38,10,82.41,Rubber
+Sri Lanka,SL38,10,82.38,Rubber
+Sri Lanka,SL38,10,82.30,PP
+Sri Lanka,SL38,10,82.29,Rubber
+Sri Lanka,SL38,10,82.22,PTFE
+Sri Lanka,SL38,10,82.22,Rubber
+Sri Lanka,SL38,10,82.12,Rubber
+Sri Lanka,SL38,10,82.10,Rubber
+Sri Lanka,SL38,10,82.10,Rubber
+Sri Lanka,SL38,10,81.93,Rubber
+Sri Lanka,SL38,10,81.90,Rubber
+Sri Lanka,SL38,10,81.89,Rubber
+Sri Lanka,SL38,10,81.85,PP
+Sri Lanka,SL38,10,81.83,Rubber
+Sri Lanka,SL38,10,81.80,Rubber
+Sri Lanka,SL38,10,81.79,Rubber
+Sri Lanka,SL38,10,81.73,Rubber
+Sri Lanka,SL38,10,81.71,PP
+Sri Lanka,SL38,10,81.68,ABS
+Sri Lanka,SL38,10,81.67,Rubber
+Sri Lanka,SL38,10,81.64,Rubber
+Sri Lanka,SL38,10,81.59,Rubber
+Sri Lanka,SL38,10,81.57,PP
+Sri Lanka,SL38,10,81.54,Rubber
+Sri Lanka,SL38,10,81.49,PP
+Sri Lanka,SL38,10,81.49,PA
+Sri Lanka,SL38,10,81.41,PP
+Sri Lanka,SL38,10,81.29,Rubber
+Sri Lanka,SL38,10,81.28,Rubber
+Sri Lanka,SL38,10,81.25,PP
+Sri Lanka,SL38,10,81.23,Rubber
+Sri Lanka,SL38,10,81.22,PP
+Sri Lanka,SL38,10,81.19,PP
+Sri Lanka,SL38,10,81.19,PP
+Sri Lanka,SL38,10,81.17,Rubber
+Sri Lanka,SL38,10,81.14,PA
+Sri Lanka,SL38,10,81.14,PP
+Sri Lanka,SL38,10,81.07,Rubber
+Sri Lanka,SL38,10,80.98,Rubber
+Sri Lanka,SL38,10,80.98,PET
+Sri Lanka,SL38,10,80.91,PP
+Sri Lanka,SL38,10,80.89,PP
+Sri Lanka,SL38,10,80.89,Rubber
+Sri Lanka,SL38,10,80.89,PP
+Sri Lanka,SL38,10,80.87,PP
+Sri Lanka,SL38,10,80.83,Rubber
+Sri Lanka,SL38,10,80.79,Rubber
+Sri Lanka,SL38,10,80.66,Rubber
+Sri Lanka,SL38,10,80.61,PA
+Sri Lanka,SL38,10,80.57,Rubber
+Sri Lanka,SL38,10,80.56,Rubber
+Sri Lanka,SL38,10,80.56,PP
+Sri Lanka,SL38,10,80.56,PA
+Sri Lanka,SL38,10,80.55,PA
+Sri Lanka,SL38,10,80.54,PA
+Sri Lanka,SL38,10,80.53,Rubber
+Sri Lanka,SL38,10,80.52,Rubber
+Sri Lanka,SL38,10,80.47,Rubber
+Sri Lanka,SL38,10,80.46,Rubber
+Sri Lanka,SL38,10,80.45,Rubber
+Sri Lanka,SL38,10,80.33,PP
+Sri Lanka,SL38,10,80.32,PP
+Sri Lanka,SL38,10,80.32,PP
+Sri Lanka,SL38,10,80.28,Rubber
+Sri Lanka,SL38,10,80.28,PP
+Sri Lanka,SL38,10,80.25,PA
+Sri Lanka,SL38,10,80.24,Rubber
+Sri Lanka,SL38,10,80.22,PP
+Sri Lanka,SL38,10,80.21,PP
+Sri Lanka,SL38,10,80.19,PP
+Sri Lanka,SL38,10,80.19,PP
+Sri Lanka,SL38,10,80.14,PA
+Sri Lanka,SL38,10,80.09,Rubber
+Sri Lanka,SL38,10,80.05,PP
+Sri Lanka,SL38,10,80.04,Rubber
+Sri Lanka,SL38,10,80.02,PP
+Sri Lanka,SL38,20,92.40,POM
+Sri Lanka,SL38,20,91.52,Rubber
+Sri Lanka,SL38,20,90.40,PA
+Sri Lanka,SL38,20,90.06,Rubber
+Sri Lanka,SL38,20,89.58,PA
+Sri Lanka,SL38,20,89.30,Rubber
+Sri Lanka,SL38,20,89.25,Rubber
+Sri Lanka,SL38,20,88.98,Rubber
+Sri Lanka,SL38,20,88.68,Rubber
+Sri Lanka,SL38,20,88.65,Rubber
+Sri Lanka,SL38,20,88.62,Rubber
+Sri Lanka,SL38,20,88.56,Rubber
+Sri Lanka,SL38,20,88.32,Rubber
+Sri Lanka,SL38,20,88.25,Rubber
+Sri Lanka,SL38,20,88.24,Rubber
+Sri Lanka,SL38,20,88.09,Rubber
+Sri Lanka,SL38,20,88.08,Rubber
+Sri Lanka,SL38,20,87.92,Rubber
+Sri Lanka,SL38,20,87.92,Rubber
+Sri Lanka,SL38,20,87.87,Rubber
+Sri Lanka,SL38,20,87.84,Rubber
+Sri Lanka,SL38,20,87.84,PA
+Sri Lanka,SL38,20,87.44,Rubber
+Sri Lanka,SL38,20,87.44,Rubber
+Sri Lanka,SL38,20,87.24,Rubber
+Sri Lanka,SL38,20,87.21,Rubber
+Sri Lanka,SL38,20,87.07,Rubber
+Sri Lanka,SL38,20,86.99,Rubber
+Sri Lanka,SL38,20,86.94,Rubber
+Sri Lanka,SL38,20,86.94,Rubber
+Sri Lanka,SL38,20,86.91,Rubber
+Sri Lanka,SL38,20,86.84,Rubber
+Sri Lanka,SL38,20,86.84,Rubber
+Sri Lanka,SL38,20,86.71,Rubber
+Sri Lanka,SL38,20,86.68,Rubber
+Sri Lanka,SL38,20,86.67,Rubber
+Sri Lanka,SL38,20,86.59,Rubber
+Sri Lanka,SL38,20,86.49,Rubber
+Sri Lanka,SL38,20,86.43,Rubber
+Sri Lanka,SL38,20,86.33,Rubber
+Sri Lanka,SL38,20,86.19,Rubber
+Sri Lanka,SL38,20,86.02,Rubber
+Sri Lanka,SL38,20,85.99,Rubber
+Sri Lanka,SL38,20,85.97,Rubber
+Sri Lanka,SL38,20,85.92,Rubber
+Sri Lanka,SL38,20,85.88,Rubber
+Sri Lanka,SL38,20,85.85,Rubber
+Sri Lanka,SL38,20,85.85,Rubber
+Sri Lanka,SL38,20,85.84,Rubber
+Sri Lanka,SL38,20,85.75,Rubber
+Sri Lanka,SL38,20,85.73,Rubber
+Sri Lanka,SL38,20,85.72,Rubber
+Sri Lanka,SL38,20,85.72,Rubber
+Sri Lanka,SL38,20,85.69,Rubber
+Sri Lanka,SL38,20,85.65,Rubber
+Sri Lanka,SL38,20,85.65,Rubber
+Sri Lanka,SL38,20,85.62,Rubber
+Sri Lanka,SL38,20,85.58,Rubber
+Sri Lanka,SL38,20,85.57,Rubber
+Sri Lanka,SL38,20,85.57,Rubber
+Sri Lanka,SL38,20,85.47,Rubber
+Sri Lanka,SL38,20,85.45,Rubber
+Sri Lanka,SL38,20,85.35,Rubber
+Sri Lanka,SL38,20,85.30,Rubber
+Sri Lanka,SL38,20,85.18,Rubber
+Sri Lanka,SL38,20,85.15,Rubber
+Sri Lanka,SL38,20,85.10,Rubber
+Sri Lanka,SL38,20,85.09,Rubber
+Sri Lanka,SL38,20,85.07,Rubber
+Sri Lanka,SL38,20,85.04,Rubber
+Sri Lanka,SL38,20,85.02,Rubber
+Sri Lanka,SL38,20,85.02,Rubber
+Sri Lanka,SL38,20,85.00,Rubber
+Sri Lanka,SL38,20,84.98,Rubber
+Sri Lanka,SL38,20,84.97,Rubber
+Sri Lanka,SL38,20,84.93,Rubber
+Sri Lanka,SL38,20,84.84,Rubber
+Sri Lanka,SL38,20,84.75,Rubber
+Sri Lanka,SL38,20,84.74,Rubber
+Sri Lanka,SL38,20,84.73,Rubber
+Sri Lanka,SL38,20,84.69,Rubber
+Sri Lanka,SL38,20,84.57,Rubber
+Sri Lanka,SL38,20,84.53,Rubber
+Sri Lanka,SL38,20,84.50,Rubber
+Sri Lanka,SL38,20,84.44,Rubber
+Sri Lanka,SL38,20,84.37,Rubber
+Sri Lanka,SL38,20,84.33,Rubber
+Sri Lanka,SL38,20,84.26,Rubber
+Sri Lanka,SL38,20,84.23,Rubber
+Sri Lanka,SL38,20,84.22,Rubber
+Sri Lanka,SL38,20,84.18,Rubber
+Sri Lanka,SL38,20,84.12,Rubber
+Sri Lanka,SL38,20,84.12,Rubber
+Sri Lanka,SL38,20,84.07,Rubber
+Sri Lanka,SL38,20,84.07,Rubber
+Sri Lanka,SL38,20,83.96,Rubber
+Sri Lanka,SL38,20,83.95,Rubber
+Sri Lanka,SL38,20,83.94,Rubber
+Sri Lanka,SL38,20,83.93,Rubber
+Sri Lanka,SL38,20,83.92,Rubber
+Sri Lanka,SL38,20,83.88,Rubber
+Sri Lanka,SL38,20,83.85,Rubber
+Sri Lanka,SL38,20,83.78,Rubber
+Sri Lanka,SL38,20,83.78,Rubber
+Sri Lanka,SL38,20,83.76,Rubber
+Sri Lanka,SL38,20,83.76,Rubber
+Sri Lanka,SL38,20,83.69,Rubber
+Sri Lanka,SL38,20,83.64,Rubber
+Sri Lanka,SL38,20,83.62,Rubber
+Sri Lanka,SL38,20,83.62,Rubber
+Sri Lanka,SL38,20,83.62,Rubber
+Sri Lanka,SL38,20,83.61,Rubber
+Sri Lanka,SL38,20,83.61,Rubber
+Sri Lanka,SL38,20,83.58,Rubber
+Sri Lanka,SL38,20,83.55,Rubber
+Sri Lanka,SL38,20,83.48,Rubber
+Sri Lanka,SL38,20,83.48,Rubber
+Sri Lanka,SL38,20,83.46,Rubber
+Sri Lanka,SL38,20,83.44,Rubber
+Sri Lanka,SL38,20,83.37,Rubber
+Sri Lanka,SL38,20,83.35,Rubber
+Sri Lanka,SL38,20,83.33,Rubber
+Sri Lanka,SL38,20,83.30,Rubber
+Sri Lanka,SL38,20,83.25,Rubber
+Sri Lanka,SL38,20,83.25,Rubber
+Sri Lanka,SL38,20,83.24,Rubber
+Sri Lanka,SL38,20,83.21,Rubber
+Sri Lanka,SL38,20,83.16,Rubber
+Sri Lanka,SL38,20,83.13,Rubber
+Sri Lanka,SL38,20,83.13,Rubber
+Sri Lanka,SL38,20,83.11,Rubber
+Sri Lanka,SL38,20,83.10,Rubber
+Sri Lanka,SL38,20,83.03,Rubber
+Sri Lanka,SL38,20,83.03,Rubber
+Sri Lanka,SL38,20,83.00,Rubber
+Sri Lanka,SL38,20,82.96,Rubber
+Sri Lanka,SL38,20,82.95,Rubber
+Sri Lanka,SL38,20,82.95,Rubber
+Sri Lanka,SL38,20,82.93,Rubber
+Sri Lanka,SL38,20,82.91,Rubber
+Sri Lanka,SL38,20,82.89,Rubber
+Sri Lanka,SL38,20,82.86,Rubber
+Sri Lanka,SL38,20,82.85,Rubber
+Sri Lanka,SL38,20,82.81,Rubber
+Sri Lanka,SL38,20,82.80,Rubber
+Sri Lanka,SL38,20,82.71,Rubber
+Sri Lanka,SL38,20,82.71,Rubber
+Sri Lanka,SL38,20,82.71,Rubber
+Sri Lanka,SL38,20,82.69,Rubber
+Sri Lanka,SL38,20,82.69,Rubber
+Sri Lanka,SL38,20,82.62,Rubber
+Sri Lanka,SL38,20,82.62,Rubber
+Sri Lanka,SL38,20,82.60,Rubber
+Sri Lanka,SL38,20,82.59,Rubber
+Sri Lanka,SL38,20,82.58,Rubber
+Sri Lanka,SL38,20,82.57,Rubber
+Sri Lanka,SL38,20,82.57,Rubber
+Sri Lanka,SL38,20,82.57,Rubber
+Sri Lanka,SL38,20,82.56,Rubber
+Sri Lanka,SL38,20,82.55,Rubber
+Sri Lanka,SL38,20,82.55,Rubber
+Sri Lanka,SL38,20,82.54,Rubber
+Sri Lanka,SL38,20,82.52,Rubber
+Sri Lanka,SL38,20,82.49,Rubber
+Sri Lanka,SL38,20,82.47,Rubber
+Sri Lanka,SL38,20,82.40,Rubber
+Sri Lanka,SL38,20,82.34,Rubber
+Sri Lanka,SL38,20,82.34,Rubber
+Sri Lanka,SL38,20,82.34,Rubber
+Sri Lanka,SL38,20,82.32,Rubber
+Sri Lanka,SL38,20,82.29,Rubber
+Sri Lanka,SL38,20,82.25,Rubber
+Sri Lanka,SL38,20,82.21,Rubber
+Sri Lanka,SL38,20,82.19,Rubber
+Sri Lanka,SL38,20,82.17,Rubber
+Sri Lanka,SL38,20,82.13,Rubber
+Sri Lanka,SL38,20,82.11,Rubber
+Sri Lanka,SL38,20,82.05,Rubber
+Sri Lanka,SL38,20,82.03,Rubber
+Sri Lanka,SL38,20,82.03,Rubber
+Sri Lanka,SL38,20,82.00,Rubber
+Sri Lanka,SL38,20,81.98,Rubber
+Sri Lanka,SL38,20,81.97,Rubber
+Sri Lanka,SL38,20,81.96,Rubber
+Sri Lanka,SL38,20,81.96,Rubber
+Sri Lanka,SL38,20,81.95,Rubber
+Sri Lanka,SL38,20,81.91,Rubber
+Sri Lanka,SL38,20,81.91,Rubber
+Sri Lanka,SL38,20,81.90,Rubber
+Sri Lanka,SL38,20,81.90,Rubber
+Sri Lanka,SL38,20,81.89,Rubber
+Sri Lanka,SL38,20,81.84,Rubber
+Sri Lanka,SL38,20,81.84,Rubber
+Sri Lanka,SL38,20,81.83,Rubber
+Sri Lanka,SL38,20,81.83,Rubber
+Sri Lanka,SL38,20,81.79,Rubber
+Sri Lanka,SL38,20,81.78,Rubber
+Sri Lanka,SL38,20,81.66,Rubber
+Sri Lanka,SL38,20,81.59,Rubber
+Sri Lanka,SL38,20,81.54,Rubber
+Sri Lanka,SL38,20,81.52,Rubber
+Sri Lanka,SL38,20,81.47,Rubber
+Sri Lanka,SL38,20,81.46,Rubber
+Sri Lanka,SL38,20,81.42,Rubber
+Sri Lanka,SL38,20,81.36,Rubber
+Sri Lanka,SL38,20,81.36,Rubber
+Sri Lanka,SL38,20,81.34,Rubber
+Sri Lanka,SL38,20,81.33,Rubber
+Sri Lanka,SL38,20,81.32,Rubber
+Sri Lanka,SL38,20,81.31,Rubber
+Sri Lanka,SL38,20,81.30,Rubber
+Sri Lanka,SL38,20,81.29,Rubber
+Sri Lanka,SL38,20,81.27,Rubber
+Sri Lanka,SL38,20,81.22,Rubber
+Sri Lanka,SL38,20,81.18,Rubber
+Sri Lanka,SL38,20,81.16,Rubber
+Sri Lanka,SL38,20,81.15,Rubber
+Sri Lanka,SL38,20,81.12,Rubber
+Sri Lanka,SL38,20,81.11,Rubber
+Sri Lanka,SL38,20,81.10,Rubber
+Sri Lanka,SL38,20,81.09,Rubber
+Sri Lanka,SL38,20,81.08,Rubber
+Sri Lanka,SL38,20,81.08,Rubber
+Sri Lanka,SL38,20,81.06,Rubber
+Sri Lanka,SL38,20,81.01,Rubber
+Sri Lanka,SL38,20,81.00,Rubber
+Sri Lanka,SL38,20,80.98,Rubber
+Sri Lanka,SL38,20,80.97,Rubber
+Sri Lanka,SL38,20,80.94,Rubber
+Sri Lanka,SL38,20,80.94,Rubber
+Sri Lanka,SL38,20,80.91,Rubber
+Sri Lanka,SL38,20,80.88,Rubber
+Sri Lanka,SL38,20,80.87,Rubber
+Sri Lanka,SL38,20,80.85,Rubber
+Sri Lanka,SL38,20,80.84,Rubber
+Sri Lanka,SL38,20,80.83,Rubber
+Sri Lanka,SL38,20,80.80,Rubber
+Sri Lanka,SL38,20,80.79,Rubber
+Sri Lanka,SL38,20,80.76,Rubber
+Sri Lanka,SL38,20,80.73,Rubber
+Sri Lanka,SL38,20,80.72,Rubber
+Sri Lanka,SL38,20,80.69,Rubber
+Sri Lanka,SL38,20,80.66,Rubber
+Sri Lanka,SL38,20,80.66,Rubber
+Sri Lanka,SL38,20,80.66,Rubber
+Sri Lanka,SL38,20,80.64,Rubber
+Sri Lanka,SL38,20,80.61,Rubber
+Sri Lanka,SL38,20,80.61,Rubber
+Sri Lanka,SL38,20,80.60,Rubber
+Sri Lanka,SL38,20,80.59,Rubber
+Sri Lanka,SL38,20,80.43,Rubber
+Sri Lanka,SL38,20,80.43,Rubber
+Sri Lanka,SL38,20,80.41,Rubber
+Sri Lanka,SL38,20,80.39,Rubber
+Sri Lanka,SL38,20,80.37,Rubber
+Sri Lanka,SL38,20,80.37,Rubber
+Sri Lanka,SL38,20,80.34,Rubber
+Sri Lanka,SL38,20,80.29,Rubber
+Sri Lanka,SL38,20,80.28,Rubber
+Sri Lanka,SL38,20,80.28,Rubber
+Sri Lanka,SL38,20,80.27,Rubber
+Sri Lanka,SL38,20,80.26,Rubber
+Sri Lanka,SL38,20,80.24,Rubber
+Sri Lanka,SL38,20,80.21,Rubber
+Sri Lanka,SL38,20,80.21,Rubber
+Sri Lanka,SL38,20,80.20,Rubber
+Sri Lanka,SL38,20,80.19,Rubber
+Sri Lanka,SL38,20,80.17,Rubber
+Sri Lanka,SL38,20,80.17,Rubber
+Sri Lanka,SL38,20,80.16,PVC
+Sri Lanka,SL38,20,80.14,Rubber
+Sri Lanka,SL38,20,80.14,PVC
+Sri Lanka,SL38,20,80.13,Rubber
+Sri Lanka,SL38,20,80.13,PTFE
+Sri Lanka,SL38,20,80.12,Rubber
+Sri Lanka,SL38,20,80.11,Rubber
+Sri Lanka,SL38,20,80.11,Rubber
+Sri Lanka,SL38,20,80.11,Rubber
+Sri Lanka,SL38,20,80.09,Rubber
+Sri Lanka,SL38,20,80.06,Rubber
+Sri Lanka,SL38,20,80.05,Rubber
+Sri Lanka,SL38,20,80.04,Rubber
+Sri Lanka,SL38,30,95.96,PA
+Sri Lanka,SL38,30,95.87,PS
+Sri Lanka,SL38,30,93.13,PET
+Sri Lanka,SL38,30,90.19,Rubber
+Sri Lanka,SL38,30,89.68,PA
+Sri Lanka,SL38,30,88.30,PA
+Sri Lanka,SL38,30,87.22,PA
+Sri Lanka,SL38,30,87.20,Rubber
+Sri Lanka,SL38,30,86.66,POM
+Sri Lanka,SL38,30,86.32,Rubber
+Sri Lanka,SL38,30,85.90,Rubber
+Sri Lanka,SL38,30,85.71,Rubber
+Sri Lanka,SL38,30,85.62,Rubber
+Sri Lanka,SL38,30,85.54,Rubber
+Sri Lanka,SL38,30,85.44,Rubber
+Sri Lanka,SL38,30,85.18,PA
+Sri Lanka,SL38,30,84.59,Rubber
+Sri Lanka,SL38,30,84.52,POM
+Sri Lanka,SL38,30,84.47,Rubber
+Sri Lanka,SL38,30,84.36,Rubber
+Sri Lanka,SL38,30,83.82,PE
+Sri Lanka,SL38,30,83.61,PA
+Sri Lanka,SL38,30,83.11,Rubber
+Sri Lanka,SL38,30,83.00,Rubber
+Sri Lanka,SL38,30,82.58,Rubber
+Sri Lanka,SL38,30,82.56,Rubber
+Sri Lanka,SL38,30,82.35,PA
+Sri Lanka,SL38,30,81.64,Rubber
+Sri Lanka,SL38,30,81.60,PA
+Sri Lanka,SL38,30,81.58,PA
+Sri Lanka,SL38,30,81.44,Rubber
+Sri Lanka,SL38,30,81.43,Rubber
+Sri Lanka,SL38,30,81.30,Rubber
+Sri Lanka,SL38,30,81.30,Rubber
+Sri Lanka,SL38,30,81.02,Rubber
+Sri Lanka,SL38,30,80.96,Rubber
+Sri Lanka,SL38,30,80.89,Rubber
+Sri Lanka,SL38,30,80.79,Rubber
+Sri Lanka,SL38,30,80.75,Rubber
+Sri Lanka,SL38,30,80.73,Rubber
+Sri Lanka,SL38,30,80.63,Rubber
+Sri Lanka,SL38,30,80.58,Rubber
+Sri Lanka,SL38,30,80.43,PE
+Sri Lanka,SL38,30,80.28,PE
+Sri Lanka,SL38,30,80.19,Rubber
+Sri Lanka,SL39,10,94.19,PTFE
+Sri Lanka,SL39,10,88.62,PA
+Sri Lanka,SL39,10,88.08,PA
+Sri Lanka,SL39,10,86.68,PP
+Sri Lanka,SL39,10,85.57,Rubber
+Sri Lanka,SL39,10,85.24,Rubber
+Sri Lanka,SL39,10,85.16,Rubber
+Sri Lanka,SL39,10,85.06,Rubber
+Sri Lanka,SL39,10,84.90,PA
+Sri Lanka,SL39,10,84.55,Rubber
+Sri Lanka,SL39,10,83.86,Rubber
+Sri Lanka,SL39,10,83.68,Rubber
+Sri Lanka,SL39,10,83.19,Rubber
+Sri Lanka,SL39,10,83.19,Rubber
+Sri Lanka,SL39,10,83.12,Rubber
+Sri Lanka,SL39,10,82.98,Rubber
+Sri Lanka,SL39,10,82.55,Rubber
+Sri Lanka,SL39,10,82.27,Rubber
+Sri Lanka,SL39,10,81.76,Rubber
+Sri Lanka,SL39,10,81.63,PA
+Sri Lanka,SL39,10,81.56,Rubber
+Sri Lanka,SL39,10,80.79,PET
+Sri Lanka,SL39,10,80.71,Rubber
+Sri Lanka,SL39,10,80.59,Rubber
+Sri Lanka,SL39,10,80.45,Rubber
+Sri Lanka,SL39,10,80.40,Rubber
+Sri Lanka,SL39,10,80.37,Rubber
+Sri Lanka,SL39,10,80.19,Rubber
+Sri Lanka,SL39,10,80.06,Rubber
+Sri Lanka,SL39,10,80.05,Rubber
+Sri Lanka,SL39,20,95.43,PS
+Sri Lanka,SL39,20,93.25,PA
+Sri Lanka,SL39,20,92.01,PS
+Sri Lanka,SL39,20,91.89,PP
+Sri Lanka,SL39,20,89.61,Rubber
+Sri Lanka,SL39,20,89.31,PA
+Sri Lanka,SL39,20,88.13,POM
+Sri Lanka,SL39,20,87.48,Rubber
+Sri Lanka,SL39,20,87.22,Rubber
+Sri Lanka,SL39,20,86.21,PU
+Sri Lanka,SL39,20,85.75,PET
+Sri Lanka,SL39,20,85.44,PTFE
+Sri Lanka,SL39,20,85.26,Rubber
+Sri Lanka,SL39,20,84.82,PA
+Sri Lanka,SL39,20,84.28,Rubber
+Sri Lanka,SL39,20,84.13,Rubber
+Sri Lanka,SL39,20,84.03,Rubber
+Sri Lanka,SL39,20,83.75,Rubber
+Sri Lanka,SL39,20,83.75,PA
+Sri Lanka,SL39,20,83.71,Rubber
+Sri Lanka,SL39,20,82.37,Rubber
+Sri Lanka,SL39,20,81.98,PU
+Sri Lanka,SL39,20,81.67,Rubber
+Sri Lanka,SL39,20,81.50,PA
+Sri Lanka,SL39,20,81.27,Rubber
+Sri Lanka,SL39,20,81.25,Rubber
+Sri Lanka,SL39,20,81.16,ABS
+Sri Lanka,SL39,20,81.12,Rubber
+Sri Lanka,SL39,20,80.88,Rubber
+Sri Lanka,SL39,20,80.67,PA
+Sri Lanka,SL39,20,80.49,PP
+Sri Lanka,SL39,20,80.48,PU
+Sri Lanka,SL39,20,80.21,Rubber
+Sri Lanka,SL39,20,80.19,Rubber
+Sri Lanka,SL39,20,80.12,Rubber
+Sri Lanka,SL39,20,80.03,PA
+Sri Lanka,SL39,30,97.50,PP
+Sri Lanka,SL39,30,93.96,PET
+Sri Lanka,SL39,30,93.35,PP
+Sri Lanka,SL39,30,93.16,PA
+Sri Lanka,SL39,30,89.36,PA
+Sri Lanka,SL39,30,89.23,Rubber
+Sri Lanka,SL39,30,88.94,Rubber
+Sri Lanka,SL39,30,88.71,PA
+Sri Lanka,SL39,30,86.76,PET
+Sri Lanka,SL39,30,86.09,PA
+Sri Lanka,SL39,30,85.74,PA
+Sri Lanka,SL39,30,85.32,Rubber
+Sri Lanka,SL39,30,84.69,PA
+Sri Lanka,SL39,30,84.61,Rubber
+Sri Lanka,SL39,30,83.78,Rubber
+Sri Lanka,SL39,30,83.56,Rubber
+Sri Lanka,SL39,30,83.26,PP
+Sri Lanka,SL39,30,83.19,Rubber
+Sri Lanka,SL39,30,83.04,PET
+Sri Lanka,SL39,30,83.02,PA
+Sri Lanka,SL39,30,83.01,Rubber
+Sri Lanka,SL39,30,82.71,Rubber
+Sri Lanka,SL39,30,82.68,PET
+Sri Lanka,SL39,30,82.40,Rubber
+Sri Lanka,SL39,30,82.32,Rubber
+Sri Lanka,SL39,30,82.32,Rubber
+Sri Lanka,SL39,30,82.10,Rubber
+Sri Lanka,SL39,30,81.90,PA
+Sri Lanka,SL39,30,81.90,Rubber
+Sri Lanka,SL39,30,81.81,Rubber
+Sri Lanka,SL39,30,81.64,PP
+Sri Lanka,SL39,30,81.63,Rubber
+Sri Lanka,SL39,30,81.31,Rubber
+Sri Lanka,SL39,30,81.23,Rubber
+Sri Lanka,SL39,30,81.11,Rubber
+Sri Lanka,SL39,30,81.09,Rubber
+Sri Lanka,SL39,30,81.04,Rubber
+Sri Lanka,SL39,30,81.03,Rubber
+Sri Lanka,SL39,30,80.91,PC
+Sri Lanka,SL39,30,80.62,PE
+Sri Lanka,SL39,30,80.54,Rubber
+Sri Lanka,SL39,30,80.48,Rubber
+Sri Lanka,SL39,30,80.32,Rubber
+Sri Lanka,SL39,30,80.28,PA
+Sri Lanka,SL39,30,80.27,PA
+Sri Lanka,SL39,30,80.24,PP
+Sri Lanka,SL39,30,80.21,Rubber
+Sri Lanka,SL39,30,80.16,PA
+Sri Lanka,SL39,30,80.06,PA
+Sri Lanka,SL39,30,80.04,PE
+Sri Lanka,SL40,10,97.16,PP
+Sri Lanka,SL40,10,91.98,PP
+Sri Lanka,SL40,10,90.75,PP
+Sri Lanka,SL40,10,90.17,PET
+Sri Lanka,SL40,10,87.70,ABS
+Sri Lanka,SL40,10,87.44,Rubber
+Sri Lanka,SL40,10,87.31,Rubber
+Sri Lanka,SL40,10,86.71,Rubber
+Sri Lanka,SL40,10,85.68,Rubber
+Sri Lanka,SL40,10,85.15,Rubber
+Sri Lanka,SL40,10,84.73,PP
+Sri Lanka,SL40,10,84.31,Rubber
+Sri Lanka,SL40,10,83.89,Rubber
+Sri Lanka,SL40,10,83.87,Rubber
+Sri Lanka,SL40,10,83.79,Rubber
+Sri Lanka,SL40,10,83.42,Rubber
+Sri Lanka,SL40,10,83.24,PA
+Sri Lanka,SL40,10,83.06,Rubber
+Sri Lanka,SL40,10,82.91,PA
+Sri Lanka,SL40,10,82.59,Rubber
+Sri Lanka,SL40,10,82.51,Rubber
+Sri Lanka,SL40,10,82.44,Rubber
+Sri Lanka,SL40,10,82.42,ABS
+Sri Lanka,SL40,10,82.29,PA
+Sri Lanka,SL40,10,81.38,Rubber
+Sri Lanka,SL40,10,81.13,Rubber
+Sri Lanka,SL40,10,81.11,Rubber
+Sri Lanka,SL40,10,80.76,Rubber
+Sri Lanka,SL40,20,93.92,PP
+Sri Lanka,SL40,20,92.18,PS
+Sri Lanka,SL40,20,90.46,PET
+Sri Lanka,SL40,20,89.56,PA
+Sri Lanka,SL40,20,89.09,Rubber
+Sri Lanka,SL40,20,88.83,Rubber
+Sri Lanka,SL40,20,86.67,Rubber
+Sri Lanka,SL40,20,85.75,PA
+Sri Lanka,SL40,20,85.65,Rubber
+Sri Lanka,SL40,20,85.40,Rubber
+Sri Lanka,SL40,20,85.28,Rubber
+Sri Lanka,SL40,20,84.48,Rubber
+Sri Lanka,SL40,20,84.42,Rubber
+Sri Lanka,SL40,20,84.29,Rubber
+Sri Lanka,SL40,20,83.71,Rubber
+Sri Lanka,SL40,20,83.37,Rubber
+Sri Lanka,SL40,20,83.32,Rubber
+Sri Lanka,SL40,20,83.04,Rubber
+Sri Lanka,SL40,20,83.03,PET
+Sri Lanka,SL40,20,82.70,Rubber
+Sri Lanka,SL40,20,82.64,Rubber
+Sri Lanka,SL40,20,82.10,Rubber
+Sri Lanka,SL40,20,81.84,Rubber
+Sri Lanka,SL40,20,81.76,Rubber
+Sri Lanka,SL40,20,81.63,Rubber
+Sri Lanka,SL40,20,81.55,PU
+Sri Lanka,SL40,20,81.54,Rubber
+Sri Lanka,SL40,20,81.40,Rubber
+Sri Lanka,SL40,20,81.27,Rubber
+Sri Lanka,SL40,20,81.24,Rubber
+Sri Lanka,SL40,20,81.18,Rubber
+Sri Lanka,SL40,20,81.11,Rubber
+Sri Lanka,SL40,20,80.94,Rubber
+Sri Lanka,SL40,20,80.91,Rubber
+Sri Lanka,SL40,20,80.80,Rubber
+Sri Lanka,SL40,20,80.70,Rubber
+Sri Lanka,SL40,20,80.69,PA
+Sri Lanka,SL40,20,80.63,Rubber
+Sri Lanka,SL40,20,80.55,PTFE
+Sri Lanka,SL40,20,80.41,Rubber
+Sri Lanka,SL40,20,80.35,Rubber
+Sri Lanka,SL40,20,80.31,Rubber
+Sri Lanka,SL40,20,80.25,Rubber
+Sri Lanka,SL40,20,80.22,Rubber
+Sri Lanka,SL40,20,80.13,PP
+Sri Lanka,SL40,20,80.06,Rubber
+Sri Lanka,SL40,20,80.06,Rubber
+Sri Lanka,SL40,20,80.02,Rubber
+Sri Lanka,SL40,30,93.94,PP
+Sri Lanka,SL40,30,88.47,PVC
+Sri Lanka,SL40,30,87.58,PTFE
+Sri Lanka,SL40,30,87.35,PA
+Sri Lanka,SL40,30,85.92,Rubber
+Sri Lanka,SL40,30,85.53,Rubber
+Sri Lanka,SL40,30,84.82,Rubber
+Sri Lanka,SL40,30,84.66,Rubber
+Sri Lanka,SL40,30,83.43,PA
+Sri Lanka,SL40,30,82.51,PP
+Sri Lanka,SL40,30,82.48,PA
+Sri Lanka,SL40,30,82.33,Rubber
+Sri Lanka,SL40,30,82.00,Rubber
+Sri Lanka,SL40,30,81.58,PE
+Sri Lanka,SL40,30,81.25,Rubber
+Sri Lanka,SL40,30,80.83,Rubber
+Sri Lanka,SL40,30,80.76,Rubber
+Sri Lanka,SL40,30,80.69,PA
+Sri Lanka,SL40,30,80.69,PA
+Sri Lanka,SL40,30,80.54,Rubber
+Sri Lanka,SL40,30,80.29,PP
+Sri Lanka,SL40,30,80.29,Rubber
+Sri Lanka,SL40,30,80.21,Rubber
+Sri Lanka,SL40,30,80.21,Rubber
+Sri Lanka,SL40,30,80.08,Rubber
+Vietnam,V1,10,79.97,PET
+Vietnam,V1,10,82.67,PTO
+Vietnam,V1,10,82.58,PVA
+Vietnam,V1,10,89.74,PA
+Vietnam,V1,10,82.18,PA
+Vietnam,V1,20,73.42,PET
+Vietnam,V1,20,76.31,PA
+Vietnam,V1,20,86.67,PA
+Vietnam,V1,20,73.28,PET
+Vietnam,V1,20,83.74,PA
+Vietnam,V1,20,87.15,PA
+Vietnam,V1,30,64.26,PET
+Vietnam,V1,30,91.97,PA
+Vietnam,V1,30,70.55,PET
+Vietnam,V2,10,93.41,PP
+Vietnam,V2,10,91.15,PET
+Vietnam,V2,10,94.53,PET
+Vietnam,V2,10,92.83,PP
+Vietnam,V2,10,85.33,EVOH
+Vietnam,V2,10,91.45,PET
+Vietnam,V2,10,91.94,PET
+Vietnam,V2,20,92.94,PET
+Vietnam,V2,20,86.06,EVOH
+Vietnam,V2,20,91.93,PET
+Vietnam,V2,20,88.27,PET
+Vietnam,V2,20,97.02,PS
+Vietnam,V2,20,88.17,PET
+Vietnam,V2,20,96.95,PET
+Vietnam,V2,30,93.11,PET
+Vietnam,V2,30,95.00,PET
+Vietnam,V2,30,87.09,PA
+Vietnam,V3,10,84.50,EVOH
+Vietnam,V3,10,86.79,PET
+Vietnam,V3,10,91.69,PET
+Vietnam,V3,10,88.83,PE
+Vietnam,V3,20,85.65,PET
+Vietnam,V3,20,78.25,PVA
+Vietnam,V3,20,71.06,PE
+Vietnam,V3,20,89.95,PA
+Vietnam,V3,20,84.35,PA
+Vietnam,V3,20,84.38,PET
+Vietnam,V3,20,83.60,PE
+Vietnam,V3,20,85.68,PVA
+Vietnam,V3,30,76.84,PET
+Vietnam,V3,30,81.00,PET
+Vietnam,V3,30,91.99,PA
+Vietnam,V3,30,92.76,PTO
+Vietnam,V4,10,72.22,PET
+Vietnam,V4,10,72.96,PET
+Vietnam,V4,10,69.58,PET
+Vietnam,V4,20,70.42,PET
+Vietnam,V4,20,94.29,PVA
+Vietnam,V4,20,73.96,PET
+Vietnam,V4,20,93.73,PAM
+Vietnam,V4,20,71.64,PET
+Vietnam,V4,20,93.05,PA
+Vietnam,V4,20,78.65,PS
+Vietnam,V4,20,93.53,PAM
+Vietnam,V4,30,91.07,PA
+Vietnam,V4,30,87.20,PET
+Vietnam,V4,30,82.11,PET
+Vietnam,V4,30,76.29,PA
+Vietnam,V4,30,77.24,PTO
+Vietnam,V4,30,84.42,PA
+Vietnam,V4,30,81.50,PE
+Vietnam,V4,30,73.60,PA
+Vietnam,V5,10,86.51,EVOH
+Vietnam,V5,10,85.45,PET
+Vietnam,V5,10,75.46,PVA
+Vietnam,V5,10,84.11,PET
+Vietnam,V5,10,90.47,PET
+Vietnam,V5,10,85.22,PET
+Vietnam,V5,10,81.12,PVA
+Vietnam,V5,10,75.21,EVOH
+Vietnam,V5,10,46.54,PTO
+Vietnam,V5,20,90.54,PA
+Vietnam,V5,20,73.15,PS
+Vietnam,V5,20,90.49,PVA
+Vietnam,V5,20,89.90,PVA
+Vietnam,V5,30,91.60,PA
+Vietnam,V5,30,82.72,PAM
+Vietnam,V6,10,40.73,EVOH
+Vietnam,V6,10,70.24,PAM
+Vietnam,V6,10,87.30,PVC
+Vietnam,V6,20,93.21,PA
+Vietnam,V6,20,57.61,EVOH
+Vietnam,V6,30,93.92,PA
+Vietnam,V6,30,91.15,PA
+Vietnam,V6,30,87.47,PTO
+Vietnam,V6,30,91.92,PA
+Vietnam,V6,30,86.55,PET
+Vietnam,V6,30,93.25,PA
+Vietnam,V6,30,75.02,PVA
+Vietnam,V6,30,88.01,PET
+Vietnam,V7,10,95.39,PVA
+Vietnam,V7,10,84.18,PVA
+Vietnam,V7,10,96.52,PE
+Vietnam,V7,10,95.91,PE
+Vietnam,V7,10,91.35,PP
+Vietnam,V7,10,90.05,PET
+Vietnam,V7,10,91.18,PVC
+Vietnam,V7,10,96.59,PP
+Vietnam,V7,10,95.80,PE
+Vietnam,V7,10,96.67,PP
+Vietnam,V7,10,97.73,PE
+Vietnam,V7,10,83.21,PE
+Vietnam,V7,10,95.51,PP
+Vietnam,V7,10,97.47,PP
+Vietnam,V7,10,89.54,PVA
+Vietnam,V7,10,93.42,PP
+Vietnam,V7,10,98.82,PE
+Vietnam,V7,10,98.10,PE
+Vietnam,V7,10,97.42,PE
+Vietnam,V7,20,84.07,PVA
+Vietnam,V7,20,94.68,PP
+Vietnam,V7,20,92.66,PET
+Vietnam,V7,20,95.96,PP
+Vietnam,V7,20,93.33,PET
+Vietnam,V7,20,86.45,PA
+Vietnam,V7,20,86.55,PVA
+Vietnam,V7,20,92.82,PP
+Vietnam,V7,20,91.59,PP
+Vietnam,V7,20,88.13,PVC
+Vietnam,V7,20,96.96,PP
+Vietnam,V7,20,91.61,PET
+Vietnam,V7,20,98.10,PE
+Vietnam,V7,20,97.87,PE
+Vietnam,V7,20,85.48,PE
+Vietnam,V7,30,97.46,PET
+Vietnam,V7,30,93.60,PA
+Vietnam,V7,30,92.77,PA
+Vietnam,V7,30,87.37,PA
+Vietnam,V7,30,85.62,PA
+Vietnam,V7,30,93.52,PA
+Vietnam,V7,30,84.48,PET
+Vietnam,V7,30,82.01,EVOH
+Vietnam,V7,30,89.86,PA
+Vietnam,V7,30,87.10,PTO
+Vietnam,V7,30,91.33,PA
+Vietnam,V7,30,83.18,PA
+Vietnam,V8,10,97.32,PE
+Vietnam,V8,10,89.78,PE
+Vietnam,V8,10,97.06,PP
+Vietnam,V8,10,96.63,PS
+Vietnam,V8,10,94.83,PET
+Vietnam,V8,10,94.45,PET
+Vietnam,V8,10,88.88,PET
+Vietnam,V8,10,84.29,PVC
+Vietnam,V8,20,88.31,PET
+Vietnam,V8,20,86.95,EVOH
+Vietnam,V8,20,89.86,PET
+Vietnam,V8,20,89.90,PVA
+Vietnam,V8,20,92.70,PET
+Vietnam,V8,20,93.68,PET
+Vietnam,V8,20,90.38,PET
+Vietnam,V8,20,88.79,PA
+Vietnam,V8,20,84.64,PET
+Vietnam,V8,20,98.29,PE
+Vietnam,V8,20,96.70,PE
+Vietnam,V8,30,78.47,PET
+Vietnam,V8,30,82.39,PA
+Vietnam,V8,30,77.38,PTO
+Vietnam,V8,30,91.75,PA
+Vietnam,V8,30,59.30,PA
+Vietnam,V8,30,82.90,PET
+Vietnam,V8,30,92.76,PA
+Vietnam,V8,30,87.71,PVA
+Vietnam,V8,30,84.31,PTO
+Vietnam,V8,30,72.41,PA
+Vietnam,V8,30,75.30,PVA
+Vietnam,V8,30,76.78,PVA
+Vietnam,V8,30,91.26,PA
+Vietnam,V8,30,89.35,PA
+Vietnam,V9,10,85.32,PET
+Vietnam,V9,10,90.78,PA
+Vietnam,V9,10,65.50,PVA
+Vietnam,V9,10,88.50,PVA
+Vietnam,V9,10,78.99,PET
+Vietnam,V9,10,64.27,PVA
+Vietnam,V9,20,90.09,PA
+Vietnam,V9,20,80.23,PET
+Vietnam,V9,20,95.22,PA
+Vietnam,V9,20,85.40,PTO
+Vietnam,V9,20,87.59,PA
+Vietnam,V9,20,88.68,PA
+Vietnam,V9,20,76.39,PA
+Vietnam,V9,20,91.99,PA
+Vietnam,V9,20,81.12,PA
+Vietnam,V9,20,84.08,PET
+Vietnam,V9,20,93.06,PA
+Vietnam,V9,20,90.01,PA
+Vietnam,V9,30,80.08,PET
+Vietnam,V9,30,82.83,PA
+Vietnam,V9,30,90.53,PP
+Vietnam,V10,10,71.26,PET
+Vietnam,V10,10,60.71,EVOH
+Vietnam,V10,10,54.67,PA
+Vietnam,V10,10,71.82,PA
+Vietnam,V10,10,52.16,PA
+Vietnam,V10,10,86.73,PA
+Vietnam,V10,10,86.06,PA
+Vietnam,V10,10,76.17,PMA
+Vietnam,V10,10,55.93,PET
+Vietnam,V10,10,84.05,PTO
+Vietnam,V10,10,82.38,PA
+Vietnam,V10,10,88.65,PA
+Vietnam,V10,10,74.12,PA
+Vietnam,V10,10,77.95,PET
+Vietnam,V10,20,83.71,PET
+Vietnam,V10,20,89.74,PVC
+Vietnam,V10,20,93.80,PET
+Vietnam,V10,20,92.21,PA
+Vietnam,V10,20,85.08,PE
+Vietnam,V10,20,90.98,PET
+Vietnam,V10,20,92.15,PP
+Vietnam,V10,20,93.44,PET
+Vietnam,V10,20,88.01,EVOH
+Vietnam,V10,20,92.91,PET
+Vietnam,V10,20,92.72,PA
+Vietnam,V10,30,90.61,PA
+Vietnam,V10,30,94.23,PA
+Vietnam,V10,30,90.08,PA
+Vietnam,V10,30,76.56,PTO
+Vietnam,V10,30,84.56,PTO
+Vietnam,V10,30,85.13,PET
+Vietnam,V10,30,76.69,PA
+Vietnam,V10,30,75.18,PA
+Vietnam,V10,30,84.08,PA
+Vietnam,V11,10,86.55,PVA
+Vietnam,V11,10,92.82,PP
+Vietnam,V11,10,91.59,PP
+Vietnam,V11,10,88.13,PVC
+Vietnam,V11,10,96.96,PP
+Vietnam,V11,10,91.61,PET
+Vietnam,V11,10,98.10,PE
+Vietnam,V11,10,97.87,PE
+Vietnam,V11,10,95.39,PVA
+Vietnam,V11,10,84.18,PVA
+Vietnam,V11,10,96.52,PE
+Vietnam,V11,10,95.91,PE
+Vietnam,V11,10,91.35,PP
+Vietnam,V11,10,90.05,PET
+Vietnam,V11,10,91.18,PVC
+Vietnam,V11,10,96.59,PP
+Vietnam,V11,10,95.80,PE
+Vietnam,V11,10,96.67,PP
+Vietnam,V11,10,97.73,PE
+Vietnam,V11,10,83.21,PE
+Vietnam,V11,20,82.62,PET
+Vietnam,V11,20,73.16,PA
+Vietnam,V11,20,89.94,PA
+Vietnam,V11,20,93.40,PA
+Vietnam,V11,20,86.63,PTO
+Vietnam,V11,20,76.23,PA
+Vietnam,V11,20,81.43,PET
+Vietnam,V11,20,86.27,PA
+Vietnam,V11,20,75.97,PTO
+Vietnam,V11,30,91.49,PA
+Vietnam,V11,30,93.75,PET
+Vietnam,V11,30,80.89,PET
+Vietnam,V11,30,94.63,PET
+Vietnam,V11,30,93.14,PA
+Vietnam,V12,10,84.07,PVA
+Vietnam,V12,10,94.68,PP
+Vietnam,V12,10,92.66,PET
+Vietnam,V12,10,95.96,PP
+Vietnam,V12,10,93.33,PET
+Vietnam,V12,10,86.45,PA
+Vietnam,V12,10,86.55,PVA
+Vietnam,V12,10,92.82,PP
+Vietnam,V12,10,91.59,PP
+Vietnam,V12,10,88.13,PVC
+Vietnam,V12,10,96.96,PP
+Vietnam,V12,10,91.61,PET
+Vietnam,V12,10,98.10,PE
+Vietnam,V12,10,97.87,PE
+Vietnam,V12,20,84.64,PET
+Vietnam,V12,20,84.07,PVA
+Vietnam,V12,20,94.68,PP
+Vietnam,V12,20,92.66,PET
+Vietnam,V12,20,95.96,PP
+Vietnam,V12,20,93.33,PET
+Vietnam,V12,20,86.45,PA
+Vietnam,V12,30,84.13,PS
+Vietnam,V12,30,83.85,PET
+Vietnam,V12,30,70.23,PTFE
+Vietnam,V12,30,59.14,PTO
+Vietnam,V12,30,95.00,PP
+Vietnam,V12,30,88.13,PAM
+Vietnam,V12,30,74.15,PET
+Vietnam,V13,10,91.51,PA
+Vietnam,V13,10,78.65,PA
+Vietnam,V13,10,81.12,PET
+Vietnam,V13,20,75.87,PET
+Vietnam,V13,20,77.72,PET
+Vietnam,V13,30,89.54,PET
+Vietnam,V13,30,87.90,EVOH
+Vietnam,V13,30,95.92,PET
+Vietnam,V13,30,95.39,PVA
+Vietnam,V13,30,84.18,PVA
+Vietnam,V13,30,96.52,PE
+Vietnam,V13,30,95.91,PE
+Vietnam,V13,30,91.35,PP
+Vietnam,V13,30,90.05,PET
+Vietnam,V13,30,91.18,PVC
+Vietnam,V13,30,96.59,PP
+Vietnam,V13,30,95.80,PE
+Vietnam,V13,30,96.67,PP
+Vietnam,V13,30,97.73,PE
+Vietnam,V13,30,83.21,PE
+Vietnam,V14,10,88.40,PAM
+Vietnam,V14,10,69.97,PET
+Vietnam,V14,10,78.69,PET
+Vietnam,V14,20,76.11,PET
+Vietnam,V14,20,87.63,PVA
+Vietnam,V14,20,70.77,PET
+Vietnam,V14,20,86.29,PAM
+Vietnam,V14,20,70.87,PET
+Vietnam,V14,30,84.64,PET
+Vietnam,V14,30,95.51,PP
+Vietnam,V14,30,97.47,PP
+Vietnam,V14,30,89.54,PVA
+Vietnam,V14,30,93.42,PP
+Vietnam,V14,30,98.82,PE
+Vietnam,V14,30,98.10,PE
+Vietnam,V14,30,97.42,PE
+Vietnam,V15,10,72.81,PET
+Vietnam,V15,10,71.99,PET
+Vietnam,V15,10,72.38,PET
+Vietnam,V15,20,72.17,PET
+Vietnam,V15,20,96.89,PP
+Vietnam,V15,20,88.82,PVA
+Vietnam,V15,20,73.57,PET
+Vietnam,V15,20,95.19,PA
+Vietnam,V15,20,78.96,PAM
+Vietnam,V15,20,73.41,PET
+Vietnam,V15,20,81.81,EVOH
+Vietnam,V15,20,78.70,PTFE
+Vietnam,V15,30,85.41,PAM
+Vietnam,V15,30,50.27,EVOH
+Vietnam,V15,30,84.97,PAM
+Vietnam,V15,30,87.26,EVOH
+Vietnam,V16,10,72.38,PET
+Vietnam,V16,10,87.24,PS
+Vietnam,V16,10,68.81,PET
+Vietnam,V16,10,63.07,EVOH
+Vietnam,V16,10,76.45,PS
+Vietnam,V16,10,72.57,PET
+Vietnam,V16,20,74.29,PET
+Vietnam,V16,20,93.88,PA
+Vietnam,V16,20,91.68,PAM
+Vietnam,V16,20,69.83,PET
+Vietnam,V16,20,86.54,PAM
+Vietnam,V16,20,72.10,PET
+Vietnam,V16,30,75.53,PET
+Vietnam,V16,30,69.51,PET
+Vietnam,V17,10,74.95,PET
+Vietnam,V17,10,78.64,PS
+Vietnam,V17,10,72.81,PET
+Vietnam,V17,10,74.19,PET
+Vietnam,V17,20,93.57,PA
+Vietnam,V17,20,79.49,PS
+Vietnam,V17,20,92.54,PA
+Vietnam,V17,20,95.25,PA
+Vietnam,V17,30,72.70,PET
+Vietnam,V17,30,87.66,PA
+Vietnam,V17,30,89.21,PAM
+Vietnam,V17,30,82.44,PS
+Vietnam,V17,30,70.11,PET
+Vietnam,V17,30,94.74,PA
+Vietnam,V17,30,73.80,PET
+Vietnam,V17,30,86.19,PAM
+Vietnam,V18,10,92.23,PA
+Vietnam,V18,10,91.62,PA
+Vietnam,V18,10,83.25,PAM
+Vietnam,V18,10,80.04,PET
+Vietnam,V18,10,87.06,PA
+Vietnam,V18,20,88.87,PVA
+Vietnam,V19,10,73.38,PET
+Vietnam,V19,10,93.94,PA
+Vietnam,V19,10,90.41,PVA
+Vietnam,V19,10,71.14,PET
+Vietnam,V19,10,88.43,EVOH
+Vietnam,V19,10,93.41,PA
+Vietnam,V19,10,89.96,PA
+Vietnam,V19,10,84.93,PA
+Vietnam,V19,10,84.93,PA
+Vietnam,V19,10,87.76,PA
+Vietnam,V19,10,95.37,PA
+Vietnam,V19,10,74.47,PET
+Vietnam,V19,10,85.31,EVOH
+Vietnam,V19,10,92.69,PA
+Vietnam,V19,10,89.67,PA
+Vietnam,V19,10,93.43,PA
+Vietnam,V19,20,72.68,PET
+Vietnam,V19,20,88.29,PA
+Vietnam,V19,20,71.90,PET
+Vietnam,V19,20,94.73,PA
+Vietnam,V19,20,78.08,PET
+Vietnam,V19,20,93.06,PA
+Vietnam,V19,20,90.90,PA
+Vietnam,V19,30,94.18,PA
+Vietnam,V19,30,90.02,PTO
+Vietnam,V19,30,85.46,PET
+Vietnam,V20,10,72.05,PET
+Vietnam,V20,10,72.71,PET
+Vietnam,V20,10,65.70,PA
+Vietnam,V20,10,73.66,PET
+Vietnam,V20,20,89.40,PET
+Vietnam,V20,20,91.10,PA
+Vietnam,V20,20,93.79,PA
+Vietnam,V20,30,87.82,PP
+Vietnam,V20,30,98.09,PE
+Vietnam,V20,30,87.76,PET
+Vietnam,V20,30,88.70,PET
+Vietnam,V20,30,81.69,PVA
+Vietnam,V20,30,75.12,PE
+Vietnam,V20,30,89.14,PP
+Vietnam,V20,30,94.21,PVA
+Vietnam,V20,30,82.59,PET
+Vietnam,V20,30,87.01,PP
+Vietnam,V20,30,89.09,PP
+Vietnam,V20,30,95.96,PS
+Vietnam,V20,30,95.88,PS
+Vietnam,V20,30,82.25,PET
+Vietnam,V21,10,80.96,PET
+Vietnam,V21,10,72.68,PET
+Vietnam,V21,10,93.39,PET
+Vietnam,V21,10,86.63,PVA
+Vietnam,V21,10,80.49,PA
+Vietnam,V21,10,67.68,PTFE
+Vietnam,V21,10,80.41,PA
+Vietnam,V21,20,91.58,PET
+Vietnam,V21,20,87.59,PA
+Vietnam,V21,20,80.72,PA
+Vietnam,V21,20,85.10,PET
+Vietnam,V21,20,91.33,PA
+Vietnam,V21,20,85.97,PTO
+Vietnam,V21,20,89.25,PA
+Vietnam,V21,20,87.87,PET
+Vietnam,V21,20,83.82,PTFE
+Vietnam,V21,30,88.44,PVA
+Vietnam,V21,30,84.57,PVA
+Vietnam,V22,10,85.10,PET
+Vietnam,V22,10,80.72,PA
+Vietnam,V22,10,91.33,PA
+Vietnam,V22,10,89.25,PA
+Vietnam,V22,10,85.97,PTO
+Vietnam,V22,10,87.87,PET
+Vietnam,V22,10,83.82,PTFE
+Vietnam,V22,20,95.63,PA
+Vietnam,V22,20,90.95,PET
+Vietnam,V22,20,96.23,PP
+Vietnam,V22,20,88.72,PVA
+Vietnam,V22,20,81.63,PET
+Vietnam,V22,20,69.70,PE
+Vietnam,V22,20,80.77,PTO
+Vietnam,V22,20,90.80,PET
+Vietnam,V22,20,91.20,PA
+Vietnam,V22,20,74.71,PTO
+Vietnam,V22,20,92.41,PA
+Vietnam,V22,30,84.25,PA
+Vietnam,V22,30,95.12,PET
+Vietnam,V22,30,85.63,PA
+Vietnam,V22,30,84.80,EVOH
+Vietnam,V22,30,78.85,PTO
+Vietnam,V22,30,88.78,PET
+Vietnam,V22,30,86.42,PA
+Vietnam,V22,30,83.61,PTO
+Vietnam,V23,10,86.94,EVOH
+Vietnam,V23,10,84.64,PET
+Vietnam,V23,10,93.40,PA
+Vietnam,V23,10,87.84,PA
+Vietnam,V23,10,82.19,PTO
+Vietnam,V23,10,92.17,PA
+Vietnam,V23,10,87.55,PTFE
+Vietnam,V23,10,87.59,PET
+Vietnam,V23,10,85.07,PTO
+Vietnam,V23,20,81.12,PET
+Vietnam,V23,20,94.93,PA
+Vietnam,V23,20,85.16,PTO
+Vietnam,V23,20,75.16,PA
+Vietnam,V23,20,74.26,PA
+Vietnam,V23,20,81.66,PA
+Vietnam,V23,30,79.11,PET
+Vietnam,V23,30,89.86,PA
+Vietnam,V23,30,73.37,PTO
+Vietnam,V23,30,82.97,PA
+Vietnam,V23,30,78.85,PA
+Vietnam,V23,30,77.72,PA
+Vietnam,V24,10,89.68,PVA
+Vietnam,V24,10,98.26,PE
+Vietnam,V24,10,94.17,PP
+Vietnam,V24,10,92.09,PS
+Vietnam,V24,10,97.16,PE
+Vietnam,V24,10,90.53,PET
+Vietnam,V24,10,91.09,PET
+Vietnam,V24,10,92.70,PET
+Vietnam,V24,10,83.43,PET
+Vietnam,V24,10,83.72,PE
+Vietnam,V24,20,78.00,PET
+Vietnam,V24,20,76.94,PAM
+Vietnam,V24,20,94.23,PA
+Vietnam,V24,20,84.06,PET
+Vietnam,V24,20,90.42,PA
+Vietnam,V24,30,85.13,PET
+Vietnam,V24,30,91.33,PVA
+Vietnam,V24,30,86.70,PVA
+Vietnam,V25,10,85.36,PVA
+Vietnam,V25,10,89.59,PVC
+Vietnam,V25,20,64.81,EVOH
+Vietnam,V25,20,86.40,PVA
+Vietnam,V25,20,44.76,EVOH
+Vietnam,V25,20,63.91,PP
+Vietnam,V25,30,97.03,PE
+Vietnam,V25,30,89.01,PET
+Vietnam,V25,30,97.77,PS
+Vietnam,V25,30,94.32,PS
+Vietnam,V25,30,87.73,PE
+Vietnam,V25,30,91.73,PA
+Vietnam,V25,30,89.83,PS
+Vietnam,V25,30,94.58,PET
+Vietnam,V25,30,89.47,PA
+Vietnam,V25,30,94.21,PS
+Vietnam,V25,30,95.39,PET
+Vietnam,V26,10,79.67,PET
+Vietnam,V26,10,88.81,PVA
+Vietnam,V26,20,89.63,PA
+Vietnam,V26,20,86.69,PVA
+Vietnam,V26,20,87.19,PVA
+Vietnam,V26,20,88.48,PVA
+Vietnam,V26,20,85.21,PVA
+Vietnam,V27,10,89.66,PVA
+Vietnam,V27,10,88.00,PVA
+Vietnam,V27,10,92.39,PVA
+Vietnam,V27,10,89.75,PVA
+Vietnam,V27,10,89.92,PVA
+Vietnam,V27,10,88.70,PVA
+Vietnam,V27,10,86.79,PVA
+Vietnam,V27,20,89.04,PVA
+Vietnam,V27,20,58.37,PA
+Vietnam,V27,20,87.34,PVA
+Vietnam,V27,20,86.59,PTO
+Vietnam,V27,20,85.94,PVA
+Vietnam,V27,30,91.07,PVA
+Vietnam,V27,30,87.54,PVA
+Vietnam,V27,30,85.33,PS
+Vietnam,V27,30,90.65,PVA
+Vietnam,V27,30,91.37,PVA
+Vietnam,V28,10,88.41,PVA
+Vietnam,V28,10,93.34,PVA
+Vietnam,V28,10,86.61,PVA
+Vietnam,V28,20,95.00,PP
+Vietnam,V28,20,88.13,PAM
+Vietnam,V28,20,74.15,PET
+Vietnam,V28,20,93.25,PA
+Vietnam,V28,20,88.01,PET
+Vietnam,V28,30,79.77,PET
+Vietnam,V28,30,88.62,PA
+Vietnam,V29,10,94.20,PP
+Vietnam,V29,10,98.31,PE
+Vietnam,V29,10,93.95,PP
+Vietnam,V29,10,98.39,PP
+Vietnam,V29,10,98.86,PP
+Vietnam,V29,10,91.67,PET
+Vietnam,V29,10,91.67,PET
+Vietnam,V29,10,93.41,PET
+Vietnam,V29,10,91.08,PVA
+Vietnam,V29,10,92.34,PS
+Vietnam,V29,10,89.57,EVOH
+Vietnam,V29,10,96.44,PS
+Vietnam,V29,10,85.49,PET
+Vietnam,V29,20,83.43,PET
+Vietnam,V29,20,83.72,PE
+Vietnam,V29,20,96.44,PS
+Vietnam,V29,20,85.49,PET
+Vietnam,V29,30,65.45,PTFE
+Vietnam,V29,30,70.51,PVC
+Vietnam,V29,30,77.93,PET
+Vietnam,V29,30,79.03,PS
+Vietnam,V29,30,64.60,PTFE
+Vietnam,V29,30,88.01,PVA
+Vietnam,V30,10,97.03,PE
+Vietnam,V30,10,97.03,PE
+Vietnam,V30,10,89.01,PET
+Vietnam,V30,10,97.77,PS
+Vietnam,V30,10,94.32,PS
+Vietnam,V30,10,87.73,PE
+Vietnam,V30,10,91.73,PA
+Vietnam,V30,10,89.83,PS
+Vietnam,V30,10,94.58,PET
+Vietnam,V30,10,94.21,PS
+Vietnam,V30,10,95.39,PET
+Vietnam,V30,10,83.43,PET
+Vietnam,V30,10,83.72,PE
+Vietnam,V30,20,89.68,PVA
+Vietnam,V30,20,98.26,PE
+Vietnam,V30,20,94.17,PP
+Vietnam,V30,20,92.09,PS
+Vietnam,V30,20,97.16,PE
+Vietnam,V30,20,90.53,PET
+Vietnam,V30,20,91.09,PET
+Vietnam,V30,20,92.70,PET
+Vietnam,V30,20,97.03,PET
+Vietnam,V30,20,89.01,PET
+Vietnam,V30,20,97.77,PS
+Vietnam,V30,20,94.32,PS
+Vietnam,V30,20,87.73,PE
+Vietnam,V30,20,91.73,PA
+Vietnam,V30,20,89.83,PS
+Vietnam,V30,20,94.58,PET
+Vietnam,V30,20,89.47,PA
+Vietnam,V30,20,94.21,PS
+Vietnam,V30,20,95.39,PET
+Vietnam,V30,30,80.45,PET
+Vietnam,V30,30,94.33,PA
+Vietnam,V30,30,71.16,PTFE
+Vietnam,V30,30,87.64,PVA
+Vietnam,V30,30,77.29,PTFE
+Vietnam,V30,30,86.22,PET
+Vietnam,V30,30,74.33,PS
+Vietnam,V30,30,91.37,PVA
+Vietnam,V31,10,84.23,PET
+Vietnam,V31,10,83.85,PET
+Vietnam,V31,10,88.43,PA
+Vietnam,V31,10,91.54,PA
+Vietnam,V31,20,86.39,PET
+Vietnam,V31,20,87.95,PVA
+Vietnam,V31,20,63.93,PVC
+Vietnam,V31,20,76.65,PTFE
+Vietnam,V31,20,79.26,PVA
+Vietnam,V31,20,87.74,PET
+Vietnam,V31,20,88.95,PET
+Vietnam,V31,20,87.99,PAM
+Vietnam,V31,20,89.59,PVA
+Vietnam,V31,20,88.04,PET
+Vietnam,V31,30,94.20,PP
+Vietnam,V31,30,98.31,PE
+Vietnam,V31,30,93.95,PP
+Vietnam,V31,30,98.39,PP
+Vietnam,V31,30,98.86,PP
+Vietnam,V31,30,91.67,PET
+Vietnam,V31,30,93.41,PET
+Vietnam,V31,30,91.08,PVA
+Vietnam,V31,30,92.34,PS
+Vietnam,V31,30,89.57,EVOH
+Vietnam,V31,30,89.68,PVA
+Vietnam,V31,30,98.26,PE
+Vietnam,V31,30,94.17,PP
+Vietnam,V31,30,92.09,PS
+Vietnam,V31,30,97.16,PE
+Vietnam,V31,30,88.91,PET
+Vietnam,V31,30,91.09,PET
+Vietnam,V31,30,92.70,PET
+Vietnam,V32,10,82.28,PTO
+Vietnam,V32,10,82.46,PET
+Vietnam,V32,10,86.41,PA
+Vietnam,V32,10,95.16,PA
+Vietnam,V32,10,87.23,PA
+Vietnam,V32,10,88.72,PA
+Vietnam,V32,20,85.58,PET
+Vietnam,V32,20,95.47,PET
+Vietnam,V32,20,91.51,PA
+Vietnam,V32,20,82.87,EVOH
+Vietnam,V32,20,90.60,PET
+Vietnam,V32,20,85.01,PET
+Vietnam,V32,20,94.53,PE
+Vietnam,V32,20,81.60,PVA
+Vietnam,V32,20,87.51,PA
+Vietnam,V32,20,87.94,PVA
+Vietnam,V32,20,84.01,PET
+Vietnam,V32,30,93.55,PA
+Vietnam,V32,30,87.33,PA
+Vietnam,V32,30,95.42,PA
+Vietnam,V32,30,79.34,PET
+Vietnam,V32,30,85.70,PTO
+Vietnam,V32,30,69.00,PA
+Vietnam,V32,30,97.67,PET
+Vietnam,V32,30,84.16,EVOH
+Vietnam,V32,30,82.80,PET
+Vietnam,V32,30,80.36,PA
+Vietnam,V33,10,81.27,PET
+Vietnam,V33,10,64.71,PET
+Vietnam,V33,10,92.99,PA
+Vietnam,V33,20,93.70,PE
+Vietnam,V33,20,94.12,PA
+Vietnam,V33,20,86.31,PTO
+Vietnam,V33,20,84.88,PET
+Vietnam,V33,20,94.12,PP
+Vietnam,V33,20,89.52,PA
+Vietnam,V33,20,88.69,PET
+Vietnam,V33,30,86.89,PET
+Vietnam,V34,10,80.36,PS
+Vietnam,V34,10,87.02,PVA
+Vietnam,V34,10,92.52,PVA
+Vietnam,V34,10,87.33,PVA
+Vietnam,V34,10,63.47,EVOH
+Vietnam,V34,10,95.09,PVA
+Vietnam,V34,20,81.30,PS
+Vietnam,V34,20,83.62,PVA
+Vietnam,V34,20,46.12,PU
+Vietnam,V34,20,43.91,EVOH
+Vietnam,V34,20,84.36,PVA
+Vietnam,V34,30,69.64,PAM
+Vietnam,V34,30,70.91,PS
+Vietnam,V34,30,78.79,PS
+Vietnam,V34,30,90.73,PVA
+Vietnam,V34,30,89.05,PVA
+Vietnam,V35,10,52.28,PS
+Vietnam,V35,10,87.28,PVA
+Vietnam,V35,10,73.07,PVA
+Vietnam,V35,10,86.37,PVA
+Vietnam,V35,10,79.41,PS
+Vietnam,V35,10,88.67,PVA
+Vietnam,V35,10,76.18,PAM
+Vietnam,V35,10,84.16,PVA
+Vietnam,V35,10,72.61,PAM
+Vietnam,V35,20,91.08,PA
+Vietnam,V35,20,84.61,EVOH
+Vietnam,V35,20,73.42,PET
+Vietnam,V35,20,87.32,PA
+Vietnam,V35,20,71.92,PA
+Vietnam,V35,20,73.21,PTO
+Vietnam,V35,20,79.94,PVA
+Vietnam,V35,20,81.73,PVA
+Vietnam,V35,20,88.27,PA
+Vietnam,V35,30,77.33,PTO
+Vietnam,V35,30,82.51,PA
+Vietnam,V35,30,90.51,PA
+Vietnam,V35,30,89.16,PA
+Vietnam,V35,30,86.08,PET
+Vietnam,V35,30,87.51,PA
+Vietnam,V36,10,80.51,PET
+Vietnam,V36,10,90.39,PA
+Vietnam,V36,10,92.24,PA
+Vietnam,V36,10,71.76,PA
+Vietnam,V36,10,88.86,PA
+Vietnam,V36,10,90.59,PU
+Vietnam,V36,10,90.97,PS
+Vietnam,V36,10,91.73,PA
+Vietnam,V36,10,79.52,PA
+Vietnam,V36,10,88.60,PA
+Vietnam,V36,10,92.88,PA
+Vietnam,V36,10,83.16,PET
+Vietnam,V36,10,90.13,PA
+Vietnam,V36,10,82.19,PET
+Vietnam,V36,10,73.15,PA
+Vietnam,V36,20,73.47,PET
+Vietnam,V36,20,66.55,PS
+Vietnam,V36,20,67.81,PS
+Vietnam,V36,20,95.84,PE
+Vietnam,V36,20,77.49,PET
+Vietnam,V36,20,70.02,PA
+Vietnam,V36,20,70.00,PS
+Vietnam,V36,20,80.59,PS
+Vietnam,V36,20,75.54,PET
+Vietnam,V36,20,94.48,PVA
+Vietnam,V36,30,79.70,PET
+Vietnam,V36,30,74.80,PET
+Vietnam,V37,10,77.67,PET
+Vietnam,V37,10,92.74,PET
+Vietnam,V37,10,84.98,PET
+Vietnam,V37,10,46.81,PET
+Vietnam,V37,20,93.38,PP
+Vietnam,V37,20,79.32,PET
+Vietnam,V37,20,90.09,PA
+Vietnam,V37,20,82.01,PTO
+Vietnam,V37,20,85.40,PA
+Vietnam,V37,20,88.06,PA
+Vietnam,V37,20,85.65,PVA
+Vietnam,V37,20,82.95,PET
+Vietnam,V37,20,85.48,PTO
+Vietnam,V37,20,73.64,PA
+Vietnam,V37,20,86.67,PET
+Vietnam,V37,20,90.15,PA
+Vietnam,V37,30,81.66,PET
+Vietnam,V38,10,76.41,PET
+Vietnam,V38,10,92.25,PA
+Vietnam,V38,10,90.33,PET
+Vietnam,V38,10,71.81,PS
+Vietnam,V38,10,77.96,PS
+Vietnam,V38,20,80.80,PET
+Vietnam,V38,20,89.77,PA
+Vietnam,V38,20,84.14,PET
+Vietnam,V38,20,77.60,PVA
+Vietnam,V38,30,80.36,PET
+Vietnam,V39,10,70.04,PET
+Vietnam,V39,10,81.31,PS
+Vietnam,V39,10,89.69,PVA
+Vietnam,V39,10,92.28,PET
+Vietnam,V39,10,90.87,PS
+Vietnam,V39,10,81.07,PET
+Vietnam,V39,10,91.97,PA
+Vietnam,V39,10,94.49,PA
+Vietnam,V39,10,74.63,PS
+Vietnam,V39,10,86.92,PS
+Vietnam,V39,10,82.16,PS
+Vietnam,V39,10,89.02,PVA
+Vietnam,V39,10,87.68,PS
+Vietnam,V39,10,79.95,PS
+Vietnam,V39,10,76.28,PS
+Vietnam,V39,10,86.48,PS
+Vietnam,V39,10,84.79,PVA
+Vietnam,V39,20,75.49,PET
+Vietnam,V39,20,51.54,PA
+Vietnam,V39,20,76.20,PET
+Vietnam,V39,30,79.22,PET
+Vietnam,V39,30,82.72,PA
+Vietnam,V39,30,87.87,PA
+Vietnam,V39,30,90.49,PA
+Vietnam,V39,30,92.23,PA
+Vietnam,V39,30,85.81,PS
+Vietnam,V39,30,86.35,PVA
+Vietnam,V39,30,73.75,PET
+Vietnam,V39,30,92.98,PA
+Vietnam,V39,30,67.40,PAM
+Vietnam,V39,30,86.18,PVA
+Vietnam,V39,30,91.17,PAM
+Vietnam,V39,30,76.42,PET
+Vietnam,V39,30,93.52,PA
+Vietnam,V40,10,82.95,PET
+Vietnam,V40,20,84.01,PET
+Vietnam,V40,20,78.07,PET
+Vietnam,V40,20,66.07,PAM
+Vietnam,V40,20,90.5,PVA
+Vietnam,V40,30,83.16,PET
+Vietnam,V40,30,82.02,PET
+Vietnam,V40,30,89.54,PA
+Vietnam,V40,30,87.29,PA
+Vietnam,V40,30,73.81,PTO
