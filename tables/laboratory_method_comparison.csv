@@ -1,0 +1,10 @@
+Country,Instrument_manufacturer,Instrument_type,Instrument_model,Location,Library,Soil_weight,Membrane_area,Image_size,Membrane_d,Real_membrane_d
+UK,Agilent,Quantum cascade laser direct infrared system,LDIR 8700,Bangor University (UK),Instrument library (Agilent Microplastic Starter 2.0 modified with standard polymer spectra),5 ± 0.05,16.05,3.7 x 4.92,47,38
+China 1,Bruker,µFTIR,Lumos  II,Chinese Academy of Agricultural Sciences (China),Instrument library (incorporated polymer-specific library/libaries in OPUS software),5 ± 0.05,5.0,2.49 x 1.87,50,40
+China 2,,,,,,5 ± 0.05,2.0,1.80 x 1.30,50,40
+Egypt,Bruker,ATR-FTIR,Alpha II,Mansoura University (Egypt),Open Specy (1),5 ± 0.05,22.74,6.17 x 4.63,47,40
+Sri Lanka,,,,,,2.5 ± 0.05,14.5,3.57 x 4.74,47,35
+Vietnam,"Thermo Fisher Scientific
+", µ-ATR-FTIR,Nicolet iN10 MX ,Hanoi University of Science and Technology (Vietnam),Instrument library (incorporated polymer-specific library/libaries in OMNIC Picta software),5 ± 0.05,100.0,1.7 x 0.96,47,40
+India,Perkin Elmer,µFTIR,Spectrum 3 with Spotlight 200i,CIPET (India),Open Specy (1),5 ± 0.05,10.09,3.64 x 3.48,47,40
+Australia,Thermo Fisher Scientific,µ-ATR-FTIR,Nicolet iN10 MX,Curtin University (Australia),Instrument library (incorporated polymer-specific library/libaries in OMNIC Picta software),5  ± 0.05 ,100.0,2.07 x 2.87,47,37

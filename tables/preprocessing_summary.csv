@@ -1,0 +1,9 @@
+Dataset,Rows,Columns,Duplicate_Rows,Missing_Cells
+mp_quant,576,5,0,8
+soil_props,576,9,0,6
+questionnaire,192,49,0,656
+mp_id,6851,5,236,0
+std_quant,188,4,0,0
+std_polymer,1440,5,0,220
+std_lib_uk,180,5,0,0
+lab_meta,8,45,0,98

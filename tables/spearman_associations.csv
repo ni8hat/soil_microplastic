@@ -1,0 +1,10 @@
+Variable,Number_of_Pairs,Spearman_Correlation
+NH4,572,0.595
+DOC,566,0.541
+PMF_use_duration,572,-0.453
+Annual_average_rainfall,572,-0.416
+PO4,572,-0.412
+Annual_average_air_temperature,572,0.358
+EC,572,-0.306
+NO3,572,0.242
+pH,572,0.219
