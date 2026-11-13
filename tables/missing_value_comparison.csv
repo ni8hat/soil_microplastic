@@ -1,6 +1,4 @@
-,Missing_Before,Missing_After
-Site,0,0
-Country,0,0
-Depth,0,0
-Z,4,4
-MP_number,4,4
+Dataset,Original_Missing,Cleaned_Missing,Difference
+mp_quant,8,8,0
+soil_props,6,6,0
+questionnaire,656,656,0

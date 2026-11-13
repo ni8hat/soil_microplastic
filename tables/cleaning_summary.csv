@@ -1,0 +1,9 @@
+Dataset,Original_Rows,Cleaned_Rows,Original_Columns,Cleaned_Columns,Original_Missing,Cleaned_Missing,Original_Duplicates,Cleaned_Duplicates
+mp_quant,576,576,5,5,8,8,0,0
+soil_props,576,576,9,9,6,6,0,0
+questionnaire,192,192,49,49,656,656,0,0
+mp_id,6851,6851,5,5,0,0,236,236
+std_quant,188,188,4,4,0,0,0,0
+std_polymer,1440,1440,5,5,220,220,0,0
+std_lib_uk,180,180,5,5,0,0,0,0
+lab_meta,8,8,45,45,98,98,0,0
