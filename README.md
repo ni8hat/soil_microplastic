@@ -14,7 +14,7 @@ The data are not included here. Download them from the DOI and put the CSV files
 ## Files
 - `soil_microplastic.ipynb` – loading, validation, preprocessing, EDA and figures
 - `raw data` – raw CSV files (download separately)
-- `figures`, `tables/` – outputs created by the notebook
+- `figures`, `tables`, `cleaned_data` – outputs created by the notebook
 - `report` – project report
 - `supporting-document`- supporting documents
 - `ro-crate-metadata.json` - metadata
