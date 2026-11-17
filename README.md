@@ -17,7 +17,7 @@ The data are not included here. Download them from the DOI and put the CSV files
 - `figures`, `tables/` – outputs created by the notebook
 - `report` – project report
 - `supporting-document`- supporting documents
-- 
+- `ro-crate-metadata.json` - metadata
 
 ## Dependencies and how to run
 Python 3.9+, pandas, numpy, matplotlib, seaborn, jupyter (`pip install pandas numpy matplotlib seaborn jupyter`).
@@ -25,8 +25,7 @@ Python 3.9+, pandas, numpy, matplotlib, seaborn, jupyter (`pip install pandas nu
 2. Open `soil_microplastic.ipynb` and choose Restart & Run All.
 
 ## Member contributions
-- [Member 1 – ID]: problem definition, research questions, background, report writing
-- [Member 2 – ID]: dataset search, source and licence verification, data loading and inspection
-- [Member 3 – ID]: data validation and preprocessing
-- [Member 4 – ID]: EDA, visualisations, interpretation, README and repository
-(Edit to match what each person actually did.)
+- [24-59774-3]: Problem definition, preprocessing, background study.
+- [24-59701-3]: Visualization.
+- [25-61638-1]: Exploratory Data analysis, preprocessing.
+- [24-58964-2]: Dataset finding, research questions, report wrting.
