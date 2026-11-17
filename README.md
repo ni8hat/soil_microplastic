@@ -21,7 +21,7 @@ The data are not included here. Download them from the DOI and put the CSV files
 
 ## Dependencies and how to run
 Python 3.9+, pandas, numpy, matplotlib, seaborn, jupyter (`pip install pandas numpy matplotlib seaborn jupyter`).
-1. Put the CSV files in `data/` (read with `latin1` encoding).
+1. Put the CSV files in `raw data/`.
 2. Open `soil_microplastic.ipynb` and choose Restart & Run All.
 
 ## Member contributions
