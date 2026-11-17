@@ -1,7 +1,7 @@
 # Assessment of Soil Microplastic Contamination: Distribution, Soil Properties, and Agricultural Practices
 
 BDS3106 Programming for Data Science, Mid-Term Project (Phase I), Fall 2026–2027, AIUB
-Team: [24-59774-3], [24-59701-3], [25-61638-1], [24-58964-2]
+Team: 24-59774-3, 24-59701-3, 25-61638-1, 24-58964-2
 
 ## Overview
 Exploratory analysis of a real five-country agricultural soil survey (China, Egypt, India, Sri Lanka, Vietnam). We study how microplastic (MP) abundance varies by country and soil depth, how it relates to soil properties and reported farm practices, which polymers are identified, and how reliable the measurements are. Results describe associations only, not causes.
@@ -25,7 +25,7 @@ Python 3.9+, pandas, numpy, matplotlib, seaborn, jupyter (`pip install pandas nu
 2. Open `soil_microplastic.ipynb` and choose Restart & Run All.
 
 ## Member contributions
-- [24-59774-3]: Problem definition, preprocessing, background study.
-- [24-59701-3]: Visualization.
-- [25-61638-1]: Exploratory Data analysis, preprocessing.
-- [24-58964-2]: Dataset finding, research questions, report wrting.
+- 24-59774-3: Problem definition, preprocessing, background study.
+- 24-59701-3: Visualization.
+- 25-61638-1: Exploratory Data analysis, preprocessing.
+- 24-58964-2: Dataset finding, research questions, report wrting.
